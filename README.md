@@ -1,6 +1,8 @@
 # election-results
 
-These files contain results of elections for U.S. House, Governor, U.S. Senate, and President (including primaries), both nationally and by state.
+These files contain results of elections for U.S. House, Governor, U.S. Senate, and President (including primaries), both nationally and by state, from the November 1998 general election to the present.
+
+:warning: House results are currently incomplete! Ask Mary if you need more information. :warning:
 
 ## election_results files
 
