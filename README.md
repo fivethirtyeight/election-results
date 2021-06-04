@@ -15,10 +15,10 @@ Column | Description
  `office_seat_name` | Name of the corresponding seat. For U.S. Senate races, this will note the class of the senate seat. For U.S. House races, this will note the district number.
  `cycle` | Cycle of the corresponding race
  `stage` | Stage of the corresponding race: either general, primary, caucus, jungle primary, or runoff
- `special` | true/false flag for whether the race is a special election
+ `special` | `true` or `false` depending on if the race is a special election
  `party` | Indicates the party of the race. For primaries, this should read `DEM` or `REP`; for non-primaries, this should be blank
- `politician_id` | 538 database id for the politician. The same politician running in multiple races or cycles will have the same id in this field. If blank, the result is not for a particular candidate (e.g., Write-in votes that are not disambiguated by candidates)
- `candidate_id` | 538 database id for the candidate. The same politician running in multiple races or cycles will have different ids in this field.  If blank, the result is not for a particular candidate (e.g., Write-in votes that are not disambiguated by candidates)
+ `politician_id` | 538 database id for the politician.
+ `candidate_id` | 538 database id for the candidate. A candidate is a politician, who is running for a particular office in a particular year. For example, Donald Trump two separate `candidate_id`s for his 2016 and 2020 runs for president, but only one `politician_id`.
  `candidate_name` | Name of the corresponding candidate.  If blank, the result is not for a particular candidate (e.g., Write-in votes that are not disambiguated by candidates)
  `ballot_party` | Party under which the candidate appears on the ballot for this race.
  `votes` | Number of votes for the candidate. If blank, indicates that the race is not one for which votes are available (e.g., a national presidential primary)
