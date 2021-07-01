@@ -1,4 +1,4 @@
-﻿id,race_id,state_abbrev,state,office_id,office_name,office_seat_name,cycle,stage,special,party,politician_id,candidate_id,candidate_name,ballot_party,votes,percent,unopposed,winner,alt_result_text,source
+id,race_id,state_abbrev,state,office_id,office_name,office_seat_name,cycle,stage,special,party,politician_id,candidate_id,candidate_name,ballot_party,votes,percent,unopposed,winner,alt_result_text,source
 3107,7825,UT,Utah,530,Governor,,2020,general,false,,9159,15709,Gregory C. Duerden,IAP,25810,1.7691678125244197,,false,,https://voteinfo.utah.gov/wp-content/uploads/sites/42/2020/12/2020-General-Election-Canvass.pdf
 3106,7825,UT,Utah,530,Governor,,2020,general,false,,10868,15706,Chris Peterson,DEM,442754,30.348939390408248,,false,,https://voteinfo.utah.gov/wp-content/uploads/sites/42/2020/12/2020-General-Election-Canvass.pdf
 3105,8729,WA,Washington,554,Governor,,2020,general,false,,"",,"","",13145,0.3240514991665134,,"",Write-in,https://results.vote.wa.gov/results/20201103/governor.html
@@ -237,7 +237,7 @@
 5782,148,MI,Michigan,263,Governor,,2018,general,false,,11986,17375,Robin Lee Sanders,W,2,4.705234691224855e-05,,false,,https://mielections.us/election/results/2018GEN_CENR.html
 5781,148,MI,Michigan,263,Governor,,2018,general,false,,11985,17374,Francis L. Rowley,W,11,0.00025878790801736704,,false,,https://mielections.us/election/results/2018GEN_CENR.html
 5780,148,MI,Michigan,263,Governor,,2018,general,false,,11984,17373,Chaneika Ranell Penny,W,1,2.3526173456124275e-05,,false,,https://mielections.us/election/results/2018GEN_CENR.html
-5779,148,MI,Michigan,263,Governor,,2018,general,false,,11983,17372,Clyde Lynch,W,1,2.3526173456124275e-05,,false,,https://mielections.us/election/results/2018GEN_CENR.html
+5779,148,MI,Michigan,263,Governor,,2018,general,false,,11983,17372,Clyde Darnell Lynch,W,1,2.3526173456124275e-05,,false,,https://mielections.us/election/results/2018GEN_CENR.html
 5778,148,MI,Michigan,263,Governor,,2018,general,false,,11982,17371,Henry Joseph Lester,W,1,2.3526173456124275e-05,,false,,https://mielections.us/election/results/2018GEN_CENR.html
 5777,148,MI,Michigan,263,Governor,,2018,general,false,,11981,17370,Larry James Hutchinson,W,0,0.0,,false,,https://mielections.us/election/results/2018GEN_CENR.html
 5776,148,MI,Michigan,263,Governor,,2018,general,false,,11980,17369,Lance Herman,W,4,9.41046938244971e-05,,false,,https://mielections.us/election/results/2018GEN_CENR.html
@@ -1025,7 +1025,7 @@
 13691,8746,PR,Puerto Rico,624,Governor,,2008,general,false,,11308,16338,Rogelio Figueroa,PPR,53693,2.776935911134741,,false,,https://electionspuertorico.org/cgi-bin/municipalities.cgi?municipio=pr&2008=on
 13692,8746,PR,Puerto Rico,624,Governor,,2008,general,false,,11310,16339,Edwin Irizarry Mora,PIP,39590,2.047546099525532,,false,,https://electionspuertorico.org/cgi-bin/municipalities.cgi?municipio=pr&2008=on
 6456,1324,KY,Kentucky,215,Governor,,2007,general,false,,2508,13754,Steve Beshear,DEM,619552,58.70722289342146,,true,,https://elect.ky.gov/SiteCollectionDocuments/Election%20Results/2000-2009/2007/General%20Election/STATEwidebyoffice.txt
-6457,1324,KY,Kentucky,215,Governor,,2007,general,false,,9863,13755,Ernie Fletcher,REP,435773,41.29277710657854,,false,,https://elect.ky.gov/SiteCollectionDocuments/Election%20Results/2000-2009/2007/General%20Election/STATEwidebyoffice.txt
+6457,1324,KY,Kentucky,215,Governor,,2007,general,false,,9863,13755,Ernest Lee Fletcher,REP,435773,41.29277710657854,,false,,https://elect.ky.gov/SiteCollectionDocuments/Election%20Results/2000-2009/2007/General%20Election/STATEwidebyoffice.txt
 16593,1326,MS,Mississippi,304,Governor,,2007,general,false,,14268,20708,John Arthur Eaves,DEM,313232,42.09886847329239,,false,,http://www.sos.state.ms.us/elections/2007/Statewide%20Results/Governor.pdf
 16594,1326,MS,Mississippi,304,Governor,,2007,general,false,,14,20709,Haley Barbour,REP,430807,57.90113152670761,,true,,http://www.sos.state.ms.us/elections/2007/Statewide%20Results/Governor.pdf
 5357,1325,LA,Louisiana,224,Governor,,2007,jungle primary,false,,6077,17262,Vinny Mendoza,DEM,2080,0.16026628860260125,,false,,https://voterportal.sos.la.gov/graphical
@@ -1314,7 +1314,7 @@
 5272,1372,UT,Utah,530,Governor,,2004,general,false,,5,12805,"Jon M. Huntsman, Jr.",REP,531190,57.7405539371277,,true,,https://elections.utah.gov/Media/Default/Documents/Election_Results/General/2004Gen.pdf
 6298,1378,LA,Louisiana,224,Governor,,2003,runoff,false,,6475,13843,Piyush Amrit Jindal,REP,676484,48.051130737682215,,false,,https://voterportal.sos.la.gov/graphical
 6289,1378,LA,Louisiana,224,Governor,,2003,runoff,false,,9911,13842,Kathleen Babineaux Blanco,DEM,731358,51.948869262317785,,true,,https://voterportal.sos.la.gov/graphical
-6279,1376,KY,Kentucky,215,Governor,,2003,general,false,,9863,13775,Ernie Fletcher,REP,596284,55.0360286604833,,true,,https://elect.ky.gov/SiteCollectionDocuments/Election%20Results/2000-2009/2003/General%20Election/statewidebyoffice.txt
+6279,1376,KY,Kentucky,215,Governor,,2003,general,false,,9863,13775,Ernest Lee Fletcher,REP,596284,55.0360286604833,,true,,https://elect.ky.gov/SiteCollectionDocuments/Election%20Results/2000-2009/2003/General%20Election/statewidebyoffice.txt
 6278,1376,KY,Kentucky,215,Governor,,2003,general,false,,5946,13774,Albert Ben Chandler,DEM,487159,44.9639713395167,,false,,https://elect.ky.gov/SiteCollectionDocuments/Election%20Results/2000-2009/2003/General%20Election/statewidebyoffice.txt
 5258,1379,MS,Mississippi,304,Governor,,2003,general,false,,11897,17240,John Thomas Cripps,CON,6317,0.7062148471693831,,false,,http://www.sos.state.ms.us/elections/2003GeneralReCap/Certified/01Governor.pdf
 5260,1379,MS,Mississippi,304,Governor,,2003,general,false,,11898,17241,Sherman Lee Dillon,GRE,3909,0.43701026398371356,,false,,http://www.sos.state.ms.us/elections/2003GeneralReCap/Certified/01Governor.pdf
