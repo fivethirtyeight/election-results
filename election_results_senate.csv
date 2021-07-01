@@ -1,4 +1,4 @@
-﻿id,race_id,state_abbrev,state,office_id,office_name,office_seat_name,cycle,stage,special,party,politician_id,candidate_id,candidate_name,ballot_party,votes,percent,unopposed,winner,alt_result_text,source
+id,race_id,state_abbrev,state,office_id,office_name,office_seat_name,cycle,stage,special,party,politician_id,candidate_id,candidate_name,ballot_party,votes,percent,unopposed,winner,alt_result_text,source
 2876,7781,GA,Georgia,155,U.S. Senate,Class III,2020,runoff,true,,10220,14489,Raphael Warnock,DEM,2289113,51.0398322925943,,true,,https://results.enr.clarityelections.com/GA/107556/web.264614/#/summary
 2916,8737,GA,Georgia,154,U.S. Senate,Class II,2020,runoff,false,,4489,14568,David A. Perdue,REP,2214979,49.387455957789044,,false,,https://results.enr.clarityelections.com/GA/107556/web.264614/#/summary
 2913,8737,GA,Georgia,154,U.S. Senate,Class II,2020,runoff,false,,8280,14567,Jon Ossoff,DEM,2269923,50.61254404221096,,true,,https://results.enr.clarityelections.com/GA/107556/web.264614/#/summary
@@ -323,7 +323,7 @@
 11193,97,CA,California,88,U.S. Senate,Class I,2018,general,false,,943,11226,Dianne Feinstein,DEM,6019422,54.1638157447196,,true,,https://history.house.gov/Institution/Election-Statistics/
 11194,97,CA,California,88,U.S. Senate,Class I,2018,general,false,,8598,11227,Kevin de León,DEM,5093942,45.8361842552804,,false,,https://history.house.gov/Institution/Election-Statistics/
 11195,98,CT,Connecticut,106,U.S. Senate,Class I,2018,general,false,,446,12436,Christopher Murphy,DEM,787685,56.79710709238268,,true,,https://history.house.gov/Institution/Election-Statistics/
-11196,98,CT,Connecticut,106,U.S. Senate,Class I,2018,general,false,,12777,18681,Jeff Russell,GRE,6618,0.4771999653889417,,false,,https://history.house.gov/Institution/Election-Statistics/
+11196,98,CT,Connecticut,106,U.S. Senate,Class I,2018,general,false,,12777,18681,Jeffery Russell,GRE,6618,0.4771999653889417,,false,,https://history.house.gov/Institution/Election-Statistics/
 11197,98,CT,Connecticut,106,U.S. Senate,Class I,2018,general,false,,12860,18682,Richard Lion,LIB,8838,0.6372761097170546,,false,,https://history.house.gov/Institution/Election-Statistics/
 11198,98,CT,Connecticut,106,U.S. Senate,Class I,2018,general,false,,3430,12437,Matthew Corey,REP,545717,39.349672637074214,,false,,https://history.house.gov/Institution/Election-Statistics/
 11199,98,CT,Connecticut,106,U.S. Senate,Class I,2018,general,false,,12930,18683,Fred Linck,W,70,0.005047445992327882,,false,,https://history.house.gov/Institution/Election-Statistics/
@@ -482,7 +482,7 @@
 10602,69,AK,Alaska,5,U.S. Senate,Class III,2016,general,false,,8216,10339,Breck A. Craig,UN,2609,0.837718861678456,,false,,https://history.house.gov/Institution/Election-Statistics/
 10603,69,AK,Alaska,5,U.S. Senate,Class III,2016,general,false,,"",,"","",706,0.22668820097546566,,"",Write-in,https://history.house.gov/Institution/Election-Statistics/
 10604,87,AZ,Arizona,33,U.S. Senate,Class III,2016,general,false,,3063,10147,Ann Kirkpatrick,DEM,1031245,40.74891434487282,,false,,https://history.house.gov/Institution/Election-Statistics/
-10605,87,AZ,Arizona,33,U.S. Senate,Class III,2016,general,false,,3868,10342,Gary W. Swing,GRE,138634,5.478024127425683,,false,,https://history.house.gov/Institution/Election-Statistics/
+10605,87,AZ,Arizona,33,U.S. Senate,Class III,2016,general,false,,3868,10342,Gary Swing,GRE,138634,5.478024127425683,,false,,https://history.house.gov/Institution/Election-Statistics/
 10606,87,AZ,Arizona,33,U.S. Senate,Class III,2016,general,false,,43,8981,John McCain,REP,1359267,53.710470891798025,,true,,https://history.house.gov/Institution/Election-Statistics/
 10607,87,AZ,Arizona,33,U.S. Senate,Class III,2016,general,false,,12857,18567,Gene Scott,W,7,0.0002766000324017181,,false,,https://history.house.gov/Institution/Election-Statistics/
 10608,87,AZ,Arizona,33,U.S. Senate,Class III,2016,general,false,,2049,18568,Sheila Bilyeu,W,34,0.0013434858716654878,,false,,https://history.house.gov/Institution/Election-Statistics/
@@ -506,7 +506,7 @@
 10626,74,CO,Colorado,99,U.S. Senate,Class III,2016,general,false,,6614,18575,Paul Noel Fiorino,UN,3216,0.11724291046775764,,false,,https://history.house.gov/Institution/Election-Statistics/
 10627,74,CO,Colorado,99,U.S. Senate,Class III,2016,general,false,,3853,18576,Dan Chapin,UN,8361,0.30480969353884385,,false,,https://history.house.gov/Institution/Election-Statistics/
 10628,91,CT,Connecticut,107,U.S. Senate,Class III,2016,general,false,,447,10205,Richard Blumenthal,DEM,920766,57.68213015794261,,true,,https://history.house.gov/Institution/Election-Statistics/
-10629,91,CT,Connecticut,107,U.S. Senate,Class III,2016,general,false,,12777,18577,Jeff Russell,GRE,16713,1.046999391082745,,false,,https://history.house.gov/Institution/Election-Statistics/
+10629,91,CT,Connecticut,107,U.S. Senate,Class III,2016,general,false,,12777,18577,Jeffery Russell,GRE,16713,1.046999391082745,,false,,https://history.house.gov/Institution/Election-Statistics/
 10630,91,CT,Connecticut,107,U.S. Senate,Class III,2016,general,false,,12860,18578,Richard Lion,LIB,18190,1.1395272496736153,,false,,https://history.house.gov/Institution/Election-Statistics/
 10631,91,CT,Connecticut,107,U.S. Senate,Class III,2016,general,false,,8125,10206,Dan Carter,REP,552621,34.61938912819588,,false,,https://history.house.gov/Institution/Election-Statistics/
 10632,91,CT,Connecticut,107,U.S. Senate,Class III,2016,general,false,,12861,18579,Andrew Rule,W,26,0.0016287910110782846,,false,,https://history.house.gov/Institution/Election-Statistics/
@@ -835,7 +835,7 @@
 9232,1472,MA,Massachusetts,246,U.S. Senate,Class II,2013,general,true,,"",,"","",2504,0.21260156734222568,,"",Other,https://electionstats.state.ma.us/elections/search/year_from:2013/year_to:2014/office_id:6
 9233,1472,MA,Massachusetts,246,U.S. Senate,Class II,2013,general,true,,"",,"","",1991,0.16904541556644223,,"",Blank,https://electionstats.state.ma.us/elections/search/year_from:2013/year_to:2014/office_id:6
 10044,1484,MN,Minnesota,290,U.S. Senate,Class I,2012,general,false,,992,8112,Amy Klobuchar,DEM,1854595,65.22898262419866,,true,,https://history.house.gov/Institution/Election-Statistics/
-10045,1484,MN,Minnesota,290,U.S. Senate,Class I,2012,general,false,,6132,18519,Timothy A. Davis,GRT,30531,1.073822623537435,,false,,https://history.house.gov/Institution/Election-Statistics/
+10045,1484,MN,Minnesota,290,U.S. Senate,Class I,2012,general,false,,6132,18519,Tim A. Davis,GRT,30531,1.073822623537435,,false,,https://history.house.gov/Institution/Election-Statistics/
 10046,1484,MN,Minnesota,290,U.S. Senate,Class I,2012,general,false,,4513,8118,Stephen J. Williams,IDP,73539,2.5864806888840666,,false,,https://history.house.gov/Institution/Election-Statistics/
 10047,1484,MN,Minnesota,290,U.S. Senate,Class I,2012,general,false,,6131,8109,Michael James Cavlan,OTH,13986,0.49190931226604323,,false,,https://history.house.gov/Institution/Election-Statistics/
 10048,1484,MN,Minnesota,290,U.S. Senate,Class I,2012,general,false,,1193,2095,Kurt Patrick Bills,REP,867974,30.527991806435477,,false,,https://history.house.gov/Institution/Election-Statistics/
@@ -947,7 +947,7 @@
 9989,1475,CT,Connecticut,106,U.S. Senate,Class I,2012,general,false,,448,1999,Linda McMahon,REP,604569,39.99096419811558,,false,,https://history.house.gov/Institution/Election-Statistics/
 9990,1475,CT,Connecticut,106,U.S. Senate,Class I,2012,general,false,,12819,18505,Michael D. Adams,W,388,0.025665381633641227,,false,,https://history.house.gov/Institution/Election-Statistics/
 9991,1475,CT,Connecticut,106,U.S. Senate,Class I,2012,general,false,,12780,18506,Matthew Coleman,W,6414,0.42427257164478055,,false,,https://history.house.gov/Institution/Election-Statistics/
-9992,1475,CT,Connecticut,106,U.S. Senate,Class I,2012,general,false,,12777,18507,Jeff Russell,W,40,0.0026459156323341473,,false,,https://history.house.gov/Institution/Election-Statistics/
+9992,1475,CT,Connecticut,106,U.S. Senate,Class I,2012,general,false,,12777,18507,Jeffery Russell,W,40,0.0026459156323341473,,false,,https://history.house.gov/Institution/Election-Statistics/
 9993,1475,CT,Connecticut,106,U.S. Senate,Class I,2012,general,false,,11735,18508,John M. Traceski,W,19,0.00125680992535872,,false,,https://history.house.gov/Institution/Election-Statistics/
 9994,1475,CT,Connecticut,106,U.S. Senate,Class I,2012,general,false,,12820,18509,Michael Vasile,W,8,0.0005291831264668294,,false,,https://history.house.gov/Institution/Election-Statistics/
 9995,1475,CT,Connecticut,106,U.S. Senate,Class I,2012,general,false,,446,1998,Christopher Murphy,WFP,35778,2.3666392373412783,,true,,https://history.house.gov/Institution/Election-Statistics/
@@ -1041,7 +1041,7 @@
 9823,1512,CT,Connecticut,107,U.S. Senate,Class III,2010,general,false,,11262,16266,John Mertens,OTH,6735,0.5840701057570147,,false,,https://history.house.gov/Institution/Election-Statistics/
 9824,1512,CT,Connecticut,107,U.S. Senate,Class III,2010,general,false,,448,657,Linda McMahon,REP,498341,43.216938466675046,,false,,https://history.house.gov/Institution/Election-Statistics/
 9825,1512,CT,Connecticut,107,U.S. Senate,Class III,2010,general,false,,6141,18440,Brian Hill,W,559,0.04847738516973589,,false,,https://history.house.gov/Institution/Election-Statistics/
-9826,1512,CT,Connecticut,107,U.S. Senate,Class III,2010,general,false,,12777,18441,Jeff Russell,W,45,0.003902472866973372,,false,,https://history.house.gov/Institution/Election-Statistics/
+9826,1512,CT,Connecticut,107,U.S. Senate,Class III,2010,general,false,,12777,18441,Jeffery Russell,W,45,0.003902472866973372,,false,,https://history.house.gov/Institution/Election-Statistics/
 9827,1512,CT,Connecticut,107,U.S. Senate,Class III,2010,general,false,,12778,18442,Todd Vachon,W,45,0.003902472866973372,,false,,https://history.house.gov/Institution/Election-Statistics/
 9828,1512,CT,Connecticut,107,U.S. Senate,Class III,2010,general,false,,12419,18443,Carl E. Vassar,W,31,0.002688370197248323,,false,,https://history.house.gov/Institution/Election-Statistics/
 9829,1512,CT,Connecticut,107,U.S. Senate,Class III,2010,general,false,,12779,18444,Jay J. Giles,W,17,0.001474267527523274,,false,,https://history.house.gov/Institution/Election-Statistics/
@@ -1305,11 +1305,11 @@
 9692,1558,ME,Maine,262,U.S. Senate,Class II,2008,general,false,,"",,"","",620,0.08558452852587552,,"",Other,https://history.house.gov/Institution/Election-Statistics/
 9691,1558,ME,Maine,262,U.S. Senate,Class II,2008,general,false,,1602,2668,Susan M. Collins,REP,444300,61.3309774581395,,true,,https://history.house.gov/Institution/Election-Statistics/
 9690,1558,ME,Maine,262,U.S. Senate,Class II,2008,general,false,,1604,2670,Thomas H. Allen,DEM,279510,38.58343801333462,,false,,https://history.house.gov/Institution/Election-Statistics/
-9689,1557,LA,Louisiana,232,U.S. Senate,Class II,2008,jungle primary,false,,1595,2660,John Neely Kennedy,REP,867177,45.72334114039315,,false,,https://history.house.gov/Institution/Election-Statistics/
-9688,1557,LA,Louisiana,232,U.S. Senate,Class II,2008,jungle primary,false,,12756,18402,Robert Stewart,OTH,8780,0.46294001710452637,,false,,https://history.house.gov/Institution/Election-Statistics/
-9687,1557,LA,Louisiana,232,U.S. Senate,Class II,2008,jungle primary,false,,12755,18401,Jay Patel,NPA,13729,0.7238842249234673,,false,,https://history.house.gov/Institution/Election-Statistics/
-9686,1557,LA,Louisiana,232,U.S. Senate,Class II,2008,jungle primary,false,,11239,16232,Richard M. Fontanesi,LIB,18590,0.9801884872406772,,false,,https://history.house.gov/Institution/Election-Statistics/
-9685,1557,LA,Louisiana,232,U.S. Senate,Class II,2008,jungle primary,false,,1594,2659,Mary L. Landrieu,DEM,988298,52.109646130338184,,true,,https://history.house.gov/Institution/Election-Statistics/
+9689,1557,LA,Louisiana,232,U.S. Senate,Class II,2008,general,false,,1595,2660,John Neely Kennedy,REP,867177,45.72334114039315,,false,,https://history.house.gov/Institution/Election-Statistics/
+9688,1557,LA,Louisiana,232,U.S. Senate,Class II,2008,general,false,,12756,18402,Robert Stewart,OTH,8780,0.46294001710452637,,false,,https://history.house.gov/Institution/Election-Statistics/
+9687,1557,LA,Louisiana,232,U.S. Senate,Class II,2008,general,false,,12755,18401,Jay Patel,NPA,13729,0.7238842249234673,,false,,https://history.house.gov/Institution/Election-Statistics/
+9686,1557,LA,Louisiana,232,U.S. Senate,Class II,2008,general,false,,11239,16232,Richard M. Fontanesi,LIB,18590,0.9801884872406772,,false,,https://history.house.gov/Institution/Election-Statistics/
+9685,1557,LA,Louisiana,232,U.S. Senate,Class II,2008,general,false,,1594,2659,Mary L. Landrieu,DEM,988298,52.109646130338184,,true,,https://history.house.gov/Institution/Election-Statistics/
 9684,1556,KY,Kentucky,222,U.S. Senate,Class II,2008,general,false,,1585,2650,Mitch McConnell,REP,953816,52.96561957018493,,true,,https://history.house.gov/Institution/Election-Statistics/
 9683,1556,KY,Kentucky,222,U.S. Senate,Class II,2008,general,false,,1586,2651,Bruce Lunsford,DEM,847005,47.03438042981507,,false,,https://history.house.gov/Institution/Election-Statistics/
 9682,1555,KS,Kansas,213,U.S. Senate,Class II,2008,general,false,,1580,2645,Pat Roberts,REP,727121,60.05839645161024,,true,,https://history.house.gov/Institution/Election-Statistics/
@@ -1999,16 +1999,6 @@
 466,1684,CA,California,88,U.S. Senate,Class I,2000,general,false,,413,3626,Tom Campbell,REP,3886853,36.58693920182296,,false,,https://history.house.gov/Institution/Election-Statistics/
 465,1684,CA,California,88,U.S. Senate,Class I,2000,general,false,,11529,16753,Jose Luis Camahort,REF,96552,0.9088437751091719,,false,,https://history.house.gov/Institution/Election-Statistics/
 464,1684,CA,California,88,U.S. Senate,Class I,2000,general,false,,11528,16752,Brian M. Rees,NLP,58537,0.5510086592050459,,false,,https://history.house.gov/Institution/Election-Statistics/
-583,1703,NY,New York,404,U.S. Senate,Class I,2000,general,false,,"",,"","",179823,2.583789270226054,,"",Blank/Scattering,https://history.house.gov/Institution/Election-Statistics/
-638,1715,WI,Wisconsin,575,U.S. Senate,Class I,2000,general,false,,"",,"","",902,0.03551065063621937,,"",Scattering,https://history.house.gov/Institution/Election-Statistics/
-602,1708,TN,Tennessee,493,U.S. Senate,Class I,2000,general,false,,11576,16809,Charles F. Johnson,IND,10004,0.5187147447414281,,false,,https://history.house.gov/Institution/Election-Statistics/
-603,1708,TN,Tennessee,493,U.S. Senate,Class I,2000,general,false,,11577,16810,Robert O. Watson,IND,8416,0.43637577886284085,,false,,https://history.house.gov/Institution/Election-Statistics/
-604,1708,TN,Tennessee,493,U.S. Senate,Class I,2000,general,false,,11578,16811,David Jarrod Ownby,IND,4388,0.22752102158390514,,false,,https://history.house.gov/Institution/Election-Statistics/
-605,1708,TN,Tennessee,493,U.S. Senate,Class I,2000,general,false,,11579,16812,Joel Kinstle,IND,3135,0.1625520516557754,,false,,https://history.house.gov/Institution/Election-Statistics/
-590,1705,OH,Ohio,425,U.S. Senate,Class I,2000,general,false,,"",,"","",786,0.017667681696708844,,"",Write-in,https://history.house.gov/Institution/Election-Statistics/
-607,1708,TN,Tennessee,493,U.S. Senate,Class I,2000,general,false,,"",,"","",259,0.013429340152741893,,"",Write-in,https://history.house.gov/Institution/Election-Statistics/
-623,1711,VT,Vermont,552,U.S. Senate,Class I,2000,general,false,,"",,"","",361,0.12512998266897749,,"",Write-in,https://history.house.gov/Institution/Election-Statistics/
-626,1712,VA,Virginia,548,U.S. Senate,Class I,2000,general,false,,"",,"","",1748,0.06430487278634706,,"",Write-in,https://history.house.gov/Institution/Election-Statistics/
 559,1701,NJ,New Jersey,360,U.S. Senate,Class I,2000,general,false,,9856,13729,Bruce Afran,IND,32841,1.0890146176859343,,false,,https://history.house.gov/Institution/Election-Statistics/
 560,1701,NJ,New Jersey,360,U.S. Senate,Class I,2000,general,false,,11565,16793,Pat DiNizio,IND,19312,0.6403900702399672,,false,,https://history.house.gov/Institution/Election-Statistics/
 561,1701,NJ,New Jersey,360,U.S. Senate,Class I,2000,general,false,,11566,16794,Emerson Ellett,IND,7241,0.240113116125083,,false,,https://history.house.gov/Institution/Election-Statistics/
@@ -2033,12 +2023,14 @@
 580,1703,NY,New York,404,U.S. Senate,Class I,2000,general,false,,11572,16804,John O. Adefope,RTL,21439,0.3080465689282037,,false,,https://history.house.gov/Institution/Election-Statistics/
 581,1703,NY,New York,404,U.S. Senate,Class I,2000,general,false,,11573,16805,Jacob J. Perasso,SWP,3040,0.04368028217462285,,false,,https://history.house.gov/Institution/Election-Statistics/
 582,1703,NY,New York,404,U.S. Senate,Class I,2000,general,false,,28,3819,Hillary Rodham Clinton,WFP,102094,1.466939055373666,,true,,https://history.house.gov/Institution/Election-Statistics/
+583,1703,NY,New York,404,U.S. Senate,Class I,2000,general,false,,"",,"","",179823,2.583789270226054,,"",Blank/Scattering,https://history.house.gov/Institution/Election-Statistics/
 584,1704,ND,North Dakota,333,U.S. Senate,Class I,2000,general,false,,1815,3768,Kent Conrad,DEM,176470,61.37254424617182,,true,,https://history.house.gov/Institution/Election-Statistics/
 585,1704,ND,North Dakota,333,U.S. Senate,Class I,2000,general,false,,1076,3769,Duane Sand,REP,111069,38.62745575382818,,false,,https://history.house.gov/Institution/Election-Statistics/
 586,1705,OH,Ohio,425,U.S. Senate,Class I,2000,general,false,,2395,3833,Ted Celeste,DEM,1595066,35.853840169519835,,false,,https://history.house.gov/Institution/Election-Statistics/
 587,1705,OH,Ohio,425,U.S. Senate,Class I,2000,general,false,,9858,13732,John R. McAlister,LIB,116724,2.623718165860869,,false,,https://history.house.gov/Institution/Election-Statistics/
 588,1705,OH,Ohio,425,U.S. Senate,Class I,2000,general,false,,9422,16806,John Eastman,NLP,70713,1.589484447607344,,false,,https://history.house.gov/Institution/Election-Statistics/
 589,1705,OH,Ohio,425,U.S. Senate,Class I,2000,general,false,,1842,3834,Michael DeWine,REP,2665512,59.91528953531524,,true,,https://history.house.gov/Institution/Election-Statistics/
+590,1705,OH,Ohio,425,U.S. Senate,Class I,2000,general,false,,"",,"","",786,0.017667681696708844,,"",Write-in,https://history.house.gov/Institution/Election-Statistics/
 591,1706,PA,Pennsylvania,463,U.S. Senate,Class I,2000,general,false,,11574,16807,Lester B. Searer,CON,28382,0.5993939747199435,,false,,https://history.house.gov/Institution/Election-Statistics/
 592,1706,PA,Pennsylvania,463,U.S. Senate,Class I,2000,general,false,,2405,3844,Ron Klink,DEM,2154908,45.50908573306335,,false,,https://history.house.gov/Institution/Election-Statistics/
 593,1706,PA,Pennsylvania,463,U.S. Senate,Class I,2000,general,false,,5335,13733,John J. Featherman,LIB,45775,0.9667133814673178,,false,,https://history.house.gov/Institution/Election-Statistics/
@@ -2050,7 +2042,12 @@
 599,1707,RI,Rhode Island,468,U.S. Senate,Class I,2000,general,false,,822,3855,Lincoln Chafee,REP,222588,56.87652835164161,,true,,https://history.house.gov/Institution/Election-Statistics/
 600,1708,TN,Tennessee,493,U.S. Senate,Class I,2000,general,false,,2416,3859,Jeff Clark,DEM,621152,32.20718723766769,,false,,https://history.house.gov/Institution/Election-Statistics/
 601,1708,TN,Tennessee,493,U.S. Senate,Class I,2000,general,false,,9859,13734,Tom Burrell,GRE,25815,1.3385267028688492,,false,,https://history.house.gov/Institution/Election-Statistics/
+602,1708,TN,Tennessee,493,U.S. Senate,Class I,2000,general,false,,11576,16809,Charles F. Johnson,IND,10004,0.5187147447414281,,false,,https://history.house.gov/Institution/Election-Statistics/
+603,1708,TN,Tennessee,493,U.S. Senate,Class I,2000,general,false,,11577,16810,Robert O. Watson,IND,8416,0.43637577886284085,,false,,https://history.house.gov/Institution/Election-Statistics/
+604,1708,TN,Tennessee,493,U.S. Senate,Class I,2000,general,false,,11578,16811,David Jarrod Ownby,IND,4388,0.22752102158390514,,false,,https://history.house.gov/Institution/Election-Statistics/
+605,1708,TN,Tennessee,493,U.S. Senate,Class I,2000,general,false,,11579,16812,Joel Kinstle,IND,3135,0.1625520516557754,,false,,https://history.house.gov/Institution/Election-Statistics/
 606,1708,TN,Tennessee,493,U.S. Senate,Class I,2000,general,false,,58,3860,Bill Frist,REP,1255444,65.09569312246677,,true,,https://history.house.gov/Institution/Election-Statistics/
+607,1708,TN,Tennessee,493,U.S. Senate,Class I,2000,general,false,,"",,"","",259,0.013429340152741893,,"",Write-in,https://history.house.gov/Institution/Election-Statistics/
 608,1709,TX,Texas,528,U.S. Senate,Class I,2000,general,false,,1703,3870,Gene Kelly,DEM,2025024,32.30752442100816,,false,,https://history.house.gov/Institution/Election-Statistics/
 609,1709,TX,Texas,528,U.S. Senate,Class I,2000,general,false,,11580,16813,Douglas S. Sandage,GRE,91329,1.4570760138379864,,false,,https://history.house.gov/Institution/Election-Statistics/
 610,1709,TX,Texas,528,U.S. Senate,Class I,2000,general,false,,11581,16814,Mary J. Ruwart,LIB,72657,1.159180237793325,,false,,https://history.house.gov/Institution/Election-Statistics/
@@ -2066,8 +2063,10 @@
 620,1711,VT,Vermont,552,U.S. Senate,Class I,2000,general,false,,11586,16819,Jerry E. Levy,LBU,1477,0.5119584055459272,,false,,https://history.house.gov/Institution/Election-Statistics/
 621,1711,VT,Vermont,552,U.S. Senate,Class I,2000,general,false,,11587,16820,Hugh Douglas,LIB,3843,1.3320623916811092,,false,,https://history.house.gov/Institution/Election-Statistics/
 622,1711,VT,Vermont,552,U.S. Senate,Class I,2000,general,false,,2565,3885,James M. Jeffords,REP,189133,65.55736568457539,,true,,https://history.house.gov/Institution/Election-Statistics/
+623,1711,VT,Vermont,552,U.S. Senate,Class I,2000,general,false,,"",,"","",361,0.12512998266897749,,"",Write-in,https://history.house.gov/Institution/Election-Statistics/
 624,1712,VA,Virginia,548,U.S. Senate,Class I,2000,general,false,,229,3882,Charles S. Robb,DEM,1296093,47.68026057452799,,false,,https://history.house.gov/Institution/Election-Statistics/
 625,1712,VA,Virginia,548,U.S. Senate,Class I,2000,general,false,,61,3883,George F. Allen,REP,1420460,52.255434552685664,,true,,https://history.house.gov/Institution/Election-Statistics/
+626,1712,VA,Virginia,548,U.S. Senate,Class I,2000,general,false,,"",,"","",1748,0.06430487278634706,,"",Write-in,https://history.house.gov/Institution/Election-Statistics/
 627,1713,WA,Washington,564,U.S. Senate,Class I,2000,general,false,,1066,3893,Maria Cantwell,DEM,1199437,48.73028493377087,,true,,https://history.house.gov/Institution/Election-Statistics/
 628,1713,WA,Washington,564,U.S. Senate,Class I,2000,general,false,,9849,13714,Jeff E. Jared,LIB,64734,2.6299891239829383,,false,,https://history.house.gov/Institution/Election-Statistics/
 629,1713,WA,Washington,564,U.S. Senate,Class I,2000,general,false,,2440,3894,Slade Gorton,REP,1197208,48.6397259422462,,false,,https://history.house.gov/Institution/Election-Statistics/
@@ -2077,14 +2076,53 @@
 633,1715,WI,Wisconsin,575,U.S. Senate,Class I,2000,general,false,,5709,16821,Robert R. Raymond,CON,4296,0.16912833163325763,,false,,https://history.house.gov/Institution/Election-Statistics/
 634,1715,WI,Wisconsin,575,U.S. Senate,Class I,2000,general,false,,1068,3902,Herb Kohl,DEM,1563238,61.5427921056123,,true,,https://history.house.gov/Institution/Election-Statistics/
 635,1715,WI,Wisconsin,575,U.S. Senate,Class I,2000,general,false,,11588,16822,Eugene A. Hem,IND,9555,0.3761688102317916,,false,,https://history.house.gov/Institution/Election-Statistics/
-636,1715,WI,Wisconsin,575,U.S. Senate,Class I,2000,general,false,,9860,13735,Tim Peterson,LIB,21348,0.8404449775853782,,false,,https://history.house.gov/Institution/Election-Statistics/
+636,1715,WI,Wisconsin,575,U.S. Senate,Class I,2000,general,false,,9860,13735,Tim C. Peterson,LIB,21348,0.8404449775853782,,false,,https://history.house.gov/Institution/Election-Statistics/
 637,1715,WI,Wisconsin,575,U.S. Senate,Class I,2000,general,false,,2447,3903,John Gillespie,REP,940744,37.035955124301054,,false,,https://history.house.gov/Institution/Election-Statistics/
+638,1715,WI,Wisconsin,575,U.S. Senate,Class I,2000,general,false,,"",,"","",902,0.03551065063621937,,"",Scattering,https://history.house.gov/Institution/Election-Statistics/
 639,1716,WY,Wyoming,585,U.S. Senate,Class I,2000,general,false,,2456,3914,Mel Logan,DEM,47087,22.03838827290215,,false,,https://history.house.gov/Institution/Election-Statistics/
 640,1716,WY,Wyoming,585,U.S. Senate,Class I,2000,general,false,,2457,3916,Margaret Dawson,LIB,8950,4.188917855086844,,false,,https://history.house.gov/Institution/Election-Statistics/
 641,1716,WY,Wyoming,585,U.S. Senate,Class I,2000,general,false,,1895,3915,Craig Thomas,REP,157622,73.772693872011,,true,,https://history.house.gov/Institution/Election-Statistics/
+9257,1717,AL,Alabama,15,U.S. Senate,Class III,1998,general,false,,2461,3921,Clayton Suddith,DEM,474568,36.69136890610443,,false,,https://history.house.gov/Institution/Election-Statistics/
+9258,1717,AL,Alabama,15,U.S. Senate,Class III,1998,general,false,,363,3920,Richard C. Shelby,REP,817973,63.241830671754016,,true,,https://history.house.gov/Institution/Election-Statistics/
+9259,1717,AL,Alabama,15,U.S. Senate,Class III,1998,general,false,,"",,"","",864,0.0668004221415566,,"",Write-in,https://history.house.gov/Institution/Election-Statistics/
+9260,1719,AZ,Arizona,33,U.S. Senate,Class III,1998,general,false,,9844,13708,Edward Ranger,DEM,275224,27.16169272066951,,false,,https://history.house.gov/Institution/Election-Statistics/
+9261,1719,AZ,Arizona,33,U.S. Senate,Class III,1998,general,false,,12661,18247,John C. Zajac,LIB,23004,2.270251065845571,,false,,https://history.house.gov/Institution/Election-Statistics/
+9262,1719,AZ,Arizona,33,U.S. Senate,Class III,1998,general,false,,12662,18248,Robert Park,REF,18288,1.804831833254382,,false,,https://history.house.gov/Institution/Election-Statistics/
+9263,1719,AZ,Arizona,33,U.S. Senate,Class III,1998,general,false,,43,13709,John McCain,REP,696577,68.7447694615506,,true,,https://history.house.gov/Institution/Election-Statistics/
+9264,1719,AZ,Arizona,33,U.S. Senate,Class III,1998,general,false,,"",,"","",187,0.018454918679930522,,"",Write-in,https://history.house.gov/Institution/Election-Statistics/
+9265,1720,AR,Arkansas,22,U.S. Senate,Class III,1998,general,false,,379,3922,Blanche Lincoln,DEM,385878,55.06006440925131,,true,,https://history.house.gov/Institution/Election-Statistics/
+9266,1720,AR,Arkansas,22,U.S. Senate,Class III,1998,general,false,,12663,18249,Charles E. Heffley,REF,18896,2.6962277638974306,,false,,https://history.house.gov/Institution/Election-Statistics/
+9267,1720,AR,Arkansas,22,U.S. Senate,Class III,1998,general,false,,2462,3923,Fay Boozman,REP,295870,42.217025217206434,,false,,https://history.house.gov/Institution/Election-Statistics/
+9268,1720,AR,Arkansas,22,U.S. Senate,Class III,1998,general,false,,"",,"","",187,0.026682609644835917,,"",Write-in,https://history.house.gov/Institution/Election-Statistics/
+9269,1721,CA,California,89,U.S. Senate,Class III,1998,general,false,,12664,18250,H. Joseph Perrin,AIP,54699,0.6580801873938646,,false,,https://history.house.gov/Institution/Election-Statistics/
+9270,1721,CA,California,89,U.S. Senate,Class III,1998,general,false,,66,3926,Barbara Boxer,DEM,4410056,53.057103034743534,,true,,https://history.house.gov/Institution/Election-Statistics/
+9271,1721,CA,California,89,U.S. Senate,Class III,1998,general,false,,12445,18251,Ted Brown,LIB,93926,1.1300177275847114,,false,,https://history.house.gov/Institution/Election-Statistics/
+9272,1721,CA,California,89,U.S. Senate,Class III,1998,general,false,,11528,18252,Brian M. Rees,NLP,46543,0.5599558705254691,,false,,https://history.house.gov/Institution/Election-Statistics/
+9273,1721,CA,California,89,U.S. Senate,Class III,1998,general,false,,12665,18253,Ophie C. Beltran,PAF,48685,0.5857261361865902,,false,,https://history.house.gov/Institution/Election-Statistics/
+9274,1721,CA,California,89,U.S. Senate,Class III,1998,general,false,,12666,18254,Timothy R. Erich,REF,82918,0.9975811802468868,,false,,https://history.house.gov/Institution/Election-Statistics/
+9275,1721,CA,California,89,U.S. Senate,Class III,1998,general,false,,2464,3927,Matt Fong,REP,3575078,43.01153586331894,,false,,https://history.house.gov/Institution/Election-Statistics/
+9276,1722,CO,Colorado,99,U.S. Senate,Class III,1998,general,false,,12667,18255,Kevin P. Swanson,CON,9775,0.7364935373163004,,false,,https://history.house.gov/Institution/Election-Statistics/
+9277,1722,CO,Colorado,99,U.S. Senate,Class III,1998,general,false,,2466,3929,Dottie Lamm,DEM,464754,35.01670766669053,,false,,https://history.house.gov/Institution/Election-Statistics/
+9278,1722,CO,Colorado,99,U.S. Senate,Class III,1998,general,false,,12668,18256,David S. Segal,LIB,14024,1.056632774150772,,false,,https://history.house.gov/Institution/Election-Statistics/
+9279,1722,CO,Colorado,99,U.S. Senate,Class III,1998,general,false,,12669,18257,Jeffrey Lee Peckman,NLP,4101,0.3089882349395548,,false,,https://history.house.gov/Institution/Election-Statistics/
+9280,1722,CO,Colorado,99,U.S. Senate,Class III,1998,general,false,,3868,18258,Gary Swing,OTH,1981,0.14925766725561035,,false,,https://history.house.gov/Institution/Election-Statistics/
+9281,1722,CO,Colorado,99,U.S. Senate,Class III,1998,general,false,,11837,18259,John J. Heckman,OTH,3230,0.24336308189582104,,false,,https://history.house.gov/Institution/Election-Statistics/
+9282,1722,CO,Colorado,99,U.S. Senate,Class III,1998,general,false,,2465,3928,Ben Nighthorse Campbell,REP,829370,62.48855703775141,,true,,https://history.house.gov/Institution/Election-Statistics/
+9283,1723,CT,Connecticut,107,U.S. Senate,Class III,1998,general,false,,9854,18260,William Kozak,CNC,12261,1.271285293175331,,false,,https://history.house.gov/Institution/Election-Statistics/
+9284,1723,CT,Connecticut,107,U.S. Senate,Class III,1998,general,false,,45,3930,Christopher J. Dodd,DEM,628306,65.14608738388544,,true,,https://history.house.gov/Institution/Election-Statistics/
+9285,1723,CT,Connecticut,107,U.S. Senate,Class III,1998,general,false,,11532,18261,Wildey Judd Moore,LIB,5196,0.5387487467041039,,false,,https://history.house.gov/Institution/Election-Statistics/
+9286,1723,CT,Connecticut,107,U.S. Senate,Class III,1998,general,false,,12670,18262,Lois Grasso,OTH,6517,0.6757170096748741,,false,,https://history.house.gov/Institution/Election-Statistics/
+9287,1723,CT,Connecticut,107,U.S. Senate,Class III,1998,general,false,,2467,3931,Gary A. Franks,REP,312177,32.36816156656025,,false,,https://history.house.gov/Institution/Election-Statistics/
+9288,1724,FL,Florida,139,U.S. Senate,Class III,1998,general,false,,141,3932,Bob Graham,DEM,2436407,62.469379477057615,,true,,https://history.house.gov/Institution/Election-Statistics/
+9289,1724,FL,Florida,139,U.S. Senate,Class III,1998,general,false,,479,3933,Charlie Crist,REP,1463755,37.530620522942385,,false,,https://history.house.gov/Institution/Election-Statistics/
+9290,1725,GA,Georgia,155,U.S. Senate,Class III,1998,general,false,,2469,3935,Michael J. Coles,DEM,791904,45.149670487179534,,false,,https://history.house.gov/Institution/Election-Statistics/
+9291,1725,GA,Georgia,155,U.S. Senate,Class III,1998,general,false,,12671,18263,Bert Loftman,LIB,43467,2.4782306025303984,,false,,https://history.house.gov/Institution/Election-Statistics/
+9292,1725,GA,Georgia,155,U.S. Senate,Class III,1998,general,false,,2468,3934,Paul Coverdell,REP,918540,52.36970431932897,,true,,https://history.house.gov/Institution/Election-Statistics/
+9293,1725,GA,Georgia,155,U.S. Senate,Class III,1998,general,false,,"",,"","",42,0.0023945909611032905,,"",Write-in,https://history.house.gov/Institution/Election-Statistics/
 9294,1728,IL,Illinois,195,U.S. Senate,Class III,1998,general,false,,140,3943,Carol Moseley-Braun,DEM,1610496,47.44398399656388,,false,,https://history.house.gov/Institution/Election-Statistics/
 9295,1728,IL,Illinois,195,U.S. Senate,Class III,1998,general,false,,12672,18264,Don A. Torgersen,REF,74704,2.2007228707673336,,false,,https://history.house.gov/Institution/Election-Statistics/
 9296,1728,IL,Illinois,195,U.S. Senate,Class III,1998,general,false,,2474,3944,Peter G. Fitzgerald,REP,1709041,50.34704454619665,,true,,https://history.house.gov/Institution/Election-Statistics/
+9297,1728,IL,Illinois,195,U.S. Senate,Class III,1998,general,false,,12673,18265,Bud Stalker,UST,280,0.00824858647214143,,false,,https://history.house.gov/Institution/Election-Statistics/
 9298,1729,IN,Indiana,207,U.S. Senate,Class III,1998,general,false,,60,3945,Evan Bayh,DEM,1012244,63.71856778569032,,true,,https://history.house.gov/Institution/Election-Statistics/
 9299,1729,IN,Indiana,207,U.S. Senate,Class III,1998,general,false,,1356,3947,Rebecca Sink-Burris,LIB,23641,1.488149755416189,,false,,https://history.house.gov/Institution/Election-Statistics/
 9300,1729,IN,Indiana,207,U.S. Senate,Class III,1998,general,false,,2475,3946,Paul Helmke,REP,552732,34.79328245889349,,false,,https://history.house.gov/Institution/Election-Statistics/
@@ -2092,6 +2130,7 @@
 9302,1730,IA,Iowa,168,U.S. Senate,Class III,1998,general,false,,12674,18266,Susan Marcus,NLP,7561,0.797652090342196,,false,,https://history.house.gov/Institution/Election-Statistics/
 9303,1730,IA,Iowa,168,U.S. Senate,Class III,1998,general,false,,517,3939,Chuck Grassley,REP,648480,68.41177457282201,,true,,https://history.house.gov/Institution/Election-Statistics/
 9304,1730,IA,Iowa,168,U.S. Senate,Class III,1998,general,false,,12675,18267,Margaret Trowe,SWP,2542,0.26816976770927947,,false,,https://history.house.gov/Institution/Election-Statistics/
+9305,1730,IA,Iowa,168,U.S. Senate,Class III,1998,general,false,,"",,"","",275,0.029011284862333543,,"",Scattering,https://history.house.gov/Institution/Election-Statistics/
 9306,1731,KS,Kansas,214,U.S. Senate,Class III,1998,general,false,,2476,3949,Paul Feleciano,DEM,229718,31.58782018491934,,false,,https://history.house.gov/Institution/Election-Statistics/
 9307,1731,KS,Kansas,214,U.S. Senate,Class III,1998,general,false,,12676,18268,Thomas L. Oyler,LIB,11545,1.587517669642317,,false,,https://history.house.gov/Institution/Election-Statistics/
 9308,1731,KS,Kansas,214,U.S. Senate,Class III,1998,general,false,,12677,18269,Alvin L. Bauman,REF,11334,1.5585037044370742,,false,,https://history.house.gov/Institution/Election-Statistics/
@@ -2110,6 +2149,7 @@
 9321,1736,NV,Nevada,373,U.S. Senate,Class III,1998,general,false,,12681,18274,Michael Cloud,LIB,8129,1.8650312941651523,,false,,https://history.house.gov/Institution/Election-Statistics/
 9322,1736,NV,Nevada,373,U.S. Senate,Class III,1998,general,false,,12682,18275,Michael E. Williams,NLP,2781,0.6380430593029018,,false,,https://history.house.gov/Institution/Election-Statistics/
 9323,1736,NV,Nevada,373,U.S. Senate,Class III,1998,general,false,,1022,3965,John Ensign,REP,208220,47.771782023750525,,false,,https://history.house.gov/Institution/Election-Statistics/
+9324,1736,NV,Nevada,373,U.S. Senate,Class III,1998,general,false,,"",,"","",8113,1.8613604243525503,,"",None of these candidates,https://history.house.gov/Institution/Election-Statistics/
 9325,1738,NY,New York,405,U.S. Senate,Class III,1998,general,false,,2484,3967,Alfonse M. D'Amato,CRV,274220,5.495526242430425,,false,,https://history.house.gov/Institution/Election-Statistics/
 9326,1738,NY,New York,405,U.S. Senate,Class III,1998,general,false,,744,3966,Charles E. Schumer,DEM,2386314,47.823102653632546,,true,,https://history.house.gov/Institution/Election-Statistics/
 9327,1738,NY,New York,405,U.S. Senate,Class III,1998,general,false,,12683,18276,Joel Kovel,GRE,14735,0.29529786004745207,,false,,https://history.house.gov/Institution/Election-Statistics/
@@ -2120,19 +2160,25 @@
 9332,1738,NY,New York,405,U.S. Senate,Class III,1998,general,false,,2484,3967,Alfonse M. D'Amato,REP,1680203,33.672232802532,,false,,https://history.house.gov/Institution/Election-Statistics/
 9333,1738,NY,New York,405,U.S. Senate,Class III,1998,general,false,,2484,3967,Alfonse M. D'Amato,RTL,104565,2.095542635620076,,false,,https://history.house.gov/Institution/Election-Statistics/
 9334,1738,NY,New York,405,U.S. Senate,Class III,1998,general,false,,12686,18279,Rose Ana Berbeo,SWP,3513,0.07040253697636234,,false,,https://history.house.gov/Institution/Election-Statistics/
+9335,1738,NY,New York,405,U.S. Senate,Class III,1998,general,false,,"",,"","",319072,6.394386074045512,,"",Blank/Scattering,https://history.house.gov/Institution/Election-Statistics/
 9336,1739,NC,North Carolina,330,U.S. Senate,Class III,1998,general,false,,44,3958,John Edwards,DEM,1029237,51.1512849732847,,true,,https://history.house.gov/Institution/Election-Statistics/
 9337,1739,NC,North Carolina,330,U.S. Senate,Class III,1998,general,false,,9224,18280,Barbara Howe,LIB,36963,1.836996674689622,,false,,https://history.house.gov/Institution/Election-Statistics/
 9338,1739,NC,North Carolina,330,U.S. Senate,Class III,1998,general,false,,2481,3959,Lauch Faircloth,REP,945943,47.011718352025675,,false,,https://history.house.gov/Institution/Election-Statistics/
 9339,1741,OH,Ohio,426,U.S. Senate,Class III,1998,general,false,,2485,3969,Mary Boyle,DEM,1482054,43.53411266934579,,false,,https://history.house.gov/Institution/Election-Statistics/
 9340,1741,OH,Ohio,426,U.S. Senate,Class III,1998,general,false,,2043,3968,George V. Voinovich,REP,1922087,56.459718754029765,,true,,https://history.house.gov/Institution/Election-Statistics/
+9341,1741,OH,Ohio,426,U.S. Senate,Class III,1998,general,false,,"",,"","",210,0.006168576624443249,,"",Write-in,https://history.house.gov/Institution/Election-Statistics/
 9342,1742,OK,Oklahoma,434,U.S. Senate,Class III,1998,general,false,,2487,3971,Don Carroll,DEM,268898,31.277647307880653,,false,,https://history.house.gov/Institution/Election-Statistics/
 9343,1742,OK,Oklahoma,434,U.S. Senate,Class III,1998,general,false,,12687,18281,Argus W. Yandell,IND,4617,0.5370396865000296,,false,,https://history.house.gov/Institution/Election-Statistics/
 9344,1742,OK,Oklahoma,434,U.S. Senate,Class III,1998,general,false,,12688,18282,Mike Morris,IND,15516,1.8047883421560451,,false,,https://history.house.gov/Institution/Election-Statistics/
 9345,1742,OK,Oklahoma,434,U.S. Senate,Class III,1998,general,false,,2486,3970,Don Nickles,REP,570682,66.38052466346326,,true,,https://history.house.gov/Institution/Election-Statistics/
 9346,1744,PA,Pennsylvania,464,U.S. Senate,Class III,1998,general,false,,12689,18283,Dean L. Snyder,CON,68377,2.311987256800425,,false,,https://history.house.gov/Institution/Election-Statistics/
 9347,1744,PA,Pennsylvania,464,U.S. Senate,Class III,1998,general,false,,2489,3975,Bill Lloyd,DEM,1028839,34.787467383759044,,false,,https://history.house.gov/Institution/Election-Statistics/
+9348,1744,PA,Pennsylvania,464,U.S. Senate,Class III,1998,general,false,,12690,18284,Jack Iannantuono,LIB,46103,1.5588509074728343,,false,,https://history.house.gov/Institution/Election-Statistics/
+9349,1744,PA,Pennsylvania,464,U.S. Senate,Class III,1998,general,false,,194,3974,Arlen Specter,REP,1814180,61.34169445196769,,true,,https://history.house.gov/Institution/Election-Statistics/
+9350,1745,SC,South Carolina,478,U.S. Senate,Class III,1998,general,false,,291,3976,Ernest F. Hollings,DEM,563377,52.698203941208334,,true,,https://history.house.gov/Institution/Election-Statistics/
 9351,1745,SC,South Carolina,478,U.S. Senate,Class III,1998,general,false,,12691,18285,Richard T. Quillian,LIB,16991,1.5893357079984995,,false,,https://history.house.gov/Institution/Election-Statistics/
 9352,1745,SC,South Carolina,478,U.S. Senate,Class III,1998,general,false,,2490,3977,Bob Inglis,REP,488238,45.66971263620572,,false,,https://history.house.gov/Institution/Election-Statistics/
+9353,1745,SC,South Carolina,478,U.S. Senate,Class III,1998,general,false,,"",,"","",457,0.04274771458744714,,"",Write-in,https://history.house.gov/Institution/Election-Statistics/
 9354,1746,SD,South Dakota,482,U.S. Senate,Class III,1998,general,false,,76,3978,Tom Daschle,DEM,162884,62.14313783091896,,true,,https://history.house.gov/Institution/Election-Statistics/
 9355,1746,SD,South Dakota,482,U.S. Senate,Class III,1998,general,false,,12692,18286,Byron Dale,LIB,3796,1.448241393913266,,false,,https://history.house.gov/Institution/Election-Statistics/
 9356,1746,SD,South Dakota,482,U.S. Senate,Class III,1998,general,false,,2491,3979,Ron Schmidt,REP,95431,36.40862077516777,,false,,https://history.house.gov/Institution/Election-Statistics/
@@ -2140,6 +2186,10 @@
 9358,1749,WA,Washington,565,U.S. Senate,Class III,1998,general,false,,2494,3985,Linda Smith,REP,785377,41.586001193501296,,false,,https://history.house.gov/Institution/Election-Statistics/
 9359,1750,WI,Wisconsin,576,U.S. Senate,Class III,1998,general,false,,64,3986,Russ Feingold,DEM,890059,50.54752401700101,,true,,https://history.house.gov/Institution/Election-Statistics/
 9360,1750,WI,Wisconsin,576,U.S. Senate,Class III,1998,general,false,,11588,18287,Eugene A. Hem,IND,4266,0.242271284776095,,false,,https://history.house.gov/Institution/Election-Statistics/
+9361,1750,WI,Wisconsin,576,U.S. Senate,Class III,1998,general,false,,12693,18288,Thomas G. Ender,LIB,5591,0.31751963271991257,,false,,https://history.house.gov/Institution/Election-Statistics/
+9362,1750,WI,Wisconsin,576,U.S. Senate,Class III,1998,general,false,,2495,3987,Mark W. Neumann,REP,852272,48.40155471605533,,false,,https://history.house.gov/Institution/Election-Statistics/
+9363,1750,WI,Wisconsin,576,U.S. Senate,Class III,1998,general,false,,5709,18289,Robert R. Raymond,UST,7942,0.4510357580149429,,false,,https://history.house.gov/Institution/Election-Statistics/
+9364,1750,WI,Wisconsin,576,U.S. Senate,Class III,1998,general,false,,"",,"","",706,0.04009459143270583,,"",Scattering,https://history.house.gov/Institution/Election-Statistics/
 15234,1718,AK,Alaska,5,U.S. Senate,Class III,1998,general,false,,13552,19577,Joseph A. Sonneman,DEM,43743,19.72119906044444,,false,,https://history.house.gov/Institution/Election-Statistics/
 15235,1718,AK,Alaska,5,U.S. Senate,Class III,1998,general,false,,13553,19578,Jeffrey Gottlieb,GRE,7126,3.21270293543486,,false,,https://history.house.gov/Institution/Election-Statistics/
 15236,1718,AK,Alaska,5,U.S. Senate,Class III,1998,general,false,,4543,19579,Scott A. Kohlhaas,LIB,5046,2.2749507454679065,,false,,https://history.house.gov/Institution/Election-Statistics/
@@ -2184,53 +2234,3 @@
 16109,1748,VT,Vermont,553,U.S. Senate,Class III,1998,general,false,,11587,20265,Hugh Douglas,LIB,4199,1.9618195069988225,,false,,https://history.house.gov/Institution/Election-Statistics/
 16110,1748,VT,Vermont,553,U.S. Senate,Class III,1998,general,false,,2493,3983,Fred Tuttle,REP,48051,22.449961688687882,,false,,https://history.house.gov/Institution/Election-Statistics/
 16111,1748,VT,Vermont,553,U.S. Senate,Class III,1998,general,false,,"",,"","",629,0.2938757965949653,,"",Write-in,https://history.house.gov/Institution/Election-Statistics/
-9335,1738,NY,New York,405,U.S. Senate,Class III,1998,general,false,,"",,"","",319072,6.394386074045512,,"",Blank/Scattering,https://history.house.gov/Institution/Election-Statistics/
-9324,1736,NV,Nevada,373,U.S. Senate,Class III,1998,general,false,,"",,"","",8113,1.8613604243525503,,"",None of these candidates,https://history.house.gov/Institution/Election-Statistics/
-9305,1730,IA,Iowa,168,U.S. Senate,Class III,1998,general,false,,"",,"","",275,0.029011284862333543,,"",Scattering,https://history.house.gov/Institution/Election-Statistics/
-9297,1728,IL,Illinois,195,U.S. Senate,Class III,1998,general,false,,12673,18265,Bud Stalker,UST,280,0.00824858647214143,,false,,https://history.house.gov/Institution/Election-Statistics/
-9364,1750,WI,Wisconsin,576,U.S. Senate,Class III,1998,general,false,,"",,"","",706,0.04009459143270583,,"",Scattering,https://history.house.gov/Institution/Election-Statistics/
-9348,1744,PA,Pennsylvania,464,U.S. Senate,Class III,1998,general,false,,12690,18284,Jack Iannantuono,LIB,46103,1.5588509074728343,,false,,https://history.house.gov/Institution/Election-Statistics/
-9349,1744,PA,Pennsylvania,464,U.S. Senate,Class III,1998,general,false,,194,3974,Arlen Specter,REP,1814180,61.34169445196769,,true,,https://history.house.gov/Institution/Election-Statistics/
-9350,1745,SC,South Carolina,478,U.S. Senate,Class III,1998,general,false,,291,3976,Ernest F. Hollings,DEM,563377,52.698203941208334,,true,,https://history.house.gov/Institution/Election-Statistics/
-9361,1750,WI,Wisconsin,576,U.S. Senate,Class III,1998,general,false,,12693,18288,Thomas G. Ender,LIB,5591,0.31751963271991257,,false,,https://history.house.gov/Institution/Election-Statistics/
-9362,1750,WI,Wisconsin,576,U.S. Senate,Class III,1998,general,false,,2495,3987,Mark W. Neumann,REP,852272,48.40155471605533,,false,,https://history.house.gov/Institution/Election-Statistics/
-9363,1750,WI,Wisconsin,576,U.S. Senate,Class III,1998,general,false,,5709,18289,Robert R. Raymond,UST,7942,0.4510357580149429,,false,,https://history.house.gov/Institution/Election-Statistics/
-9257,1717,AL,Alabama,15,U.S. Senate,Class III,1998,general,false,,2461,3921,Clayton Suddith,DEM,474568,36.69136890610443,,false,,https://history.house.gov/Institution/Election-Statistics/
-9259,1717,AL,Alabama,15,U.S. Senate,Class III,1998,general,false,,"",,"","",864,0.0668004221415566,,"",Write-in,https://history.house.gov/Institution/Election-Statistics/
-9264,1719,AZ,Arizona,33,U.S. Senate,Class III,1998,general,false,,"",,"","",187,0.018454918679930522,,"",Write-in,https://history.house.gov/Institution/Election-Statistics/
-9268,1720,AR,Arkansas,22,U.S. Senate,Class III,1998,general,false,,"",,"","",187,0.026682609644835917,,"",Write-in,https://history.house.gov/Institution/Election-Statistics/
-9293,1725,GA,Georgia,155,U.S. Senate,Class III,1998,general,false,,"",,"","",42,0.0023945909611032905,,"",Write-in,https://history.house.gov/Institution/Election-Statistics/
-9341,1741,OH,Ohio,426,U.S. Senate,Class III,1998,general,false,,"",,"","",210,0.006168576624443249,,"",Write-in,https://history.house.gov/Institution/Election-Statistics/
-9353,1745,SC,South Carolina,478,U.S. Senate,Class III,1998,general,false,,"",,"","",457,0.04274771458744714,,"",Write-in,https://history.house.gov/Institution/Election-Statistics/
-9258,1717,AL,Alabama,15,U.S. Senate,Class III,1998,general,false,,363,3920,Richard C. Shelby,REP,817973,63.241830671754016,,true,,https://history.house.gov/Institution/Election-Statistics/
-9260,1719,AZ,Arizona,33,U.S. Senate,Class III,1998,general,false,,9844,13708,Edward Ranger,DEM,275224,27.16169272066951,,false,,https://history.house.gov/Institution/Election-Statistics/
-9261,1719,AZ,Arizona,33,U.S. Senate,Class III,1998,general,false,,12661,18247,John C. Zajac,LIB,23004,2.270251065845571,,false,,https://history.house.gov/Institution/Election-Statistics/
-9262,1719,AZ,Arizona,33,U.S. Senate,Class III,1998,general,false,,12662,18248,Robert Park,REF,18288,1.804831833254382,,false,,https://history.house.gov/Institution/Election-Statistics/
-9263,1719,AZ,Arizona,33,U.S. Senate,Class III,1998,general,false,,43,13709,John McCain,REP,696577,68.7447694615506,,true,,https://history.house.gov/Institution/Election-Statistics/
-9265,1720,AR,Arkansas,22,U.S. Senate,Class III,1998,general,false,,379,3922,Blanche Lincoln,DEM,385878,55.06006440925131,,true,,https://history.house.gov/Institution/Election-Statistics/
-9266,1720,AR,Arkansas,22,U.S. Senate,Class III,1998,general,false,,12663,18249,Charles E. Heffley,REF,18896,2.6962277638974306,,false,,https://history.house.gov/Institution/Election-Statistics/
-9267,1720,AR,Arkansas,22,U.S. Senate,Class III,1998,general,false,,2462,3923,Fay Boozman,REP,295870,42.217025217206434,,false,,https://history.house.gov/Institution/Election-Statistics/
-9269,1721,CA,California,89,U.S. Senate,Class III,1998,general,false,,12664,18250,H. Joseph Perrin,AIP,54699,0.6580801873938646,,false,,https://history.house.gov/Institution/Election-Statistics/
-9270,1721,CA,California,89,U.S. Senate,Class III,1998,general,false,,66,3926,Barbara Boxer,DEM,4410056,53.057103034743534,,true,,https://history.house.gov/Institution/Election-Statistics/
-9271,1721,CA,California,89,U.S. Senate,Class III,1998,general,false,,12445,18251,Ted Brown,LIB,93926,1.1300177275847114,,false,,https://history.house.gov/Institution/Election-Statistics/
-9272,1721,CA,California,89,U.S. Senate,Class III,1998,general,false,,11528,18252,Brian M. Rees,NLP,46543,0.5599558705254691,,false,,https://history.house.gov/Institution/Election-Statistics/
-9273,1721,CA,California,89,U.S. Senate,Class III,1998,general,false,,12665,18253,Ophie C. Beltran,PAF,48685,0.5857261361865902,,false,,https://history.house.gov/Institution/Election-Statistics/
-9274,1721,CA,California,89,U.S. Senate,Class III,1998,general,false,,12666,18254,Timothy R. Erich,REF,82918,0.9975811802468868,,false,,https://history.house.gov/Institution/Election-Statistics/
-9275,1721,CA,California,89,U.S. Senate,Class III,1998,general,false,,2464,3927,Matt Fong,REP,3575078,43.01153586331894,,false,,https://history.house.gov/Institution/Election-Statistics/
-9276,1722,CO,Colorado,99,U.S. Senate,Class III,1998,general,false,,12667,18255,Kevin P. Swanson,CON,9775,0.7364935373163004,,false,,https://history.house.gov/Institution/Election-Statistics/
-9277,1722,CO,Colorado,99,U.S. Senate,Class III,1998,general,false,,2466,3929,Dottie Lamm,DEM,464754,35.01670766669053,,false,,https://history.house.gov/Institution/Election-Statistics/
-9278,1722,CO,Colorado,99,U.S. Senate,Class III,1998,general,false,,12668,18256,David S. Segal,LIB,14024,1.056632774150772,,false,,https://history.house.gov/Institution/Election-Statistics/
-9279,1722,CO,Colorado,99,U.S. Senate,Class III,1998,general,false,,12669,18257,Jeffrey Lee Peckman,NLP,4101,0.3089882349395548,,false,,https://history.house.gov/Institution/Election-Statistics/
-9280,1722,CO,Colorado,99,U.S. Senate,Class III,1998,general,false,,3868,18258,Gary W. Swing,OTH,1981,0.14925766725561035,,false,,https://history.house.gov/Institution/Election-Statistics/
-9281,1722,CO,Colorado,99,U.S. Senate,Class III,1998,general,false,,11837,18259,John J. Heckman,OTH,3230,0.24336308189582104,,false,,https://history.house.gov/Institution/Election-Statistics/
-9282,1722,CO,Colorado,99,U.S. Senate,Class III,1998,general,false,,2465,3928,Ben Nighthorse Campbell,REP,829370,62.48855703775141,,true,,https://history.house.gov/Institution/Election-Statistics/
-9283,1723,CT,Connecticut,107,U.S. Senate,Class III,1998,general,false,,9854,18260,William Kozak,CNC,12261,1.271285293175331,,false,,https://history.house.gov/Institution/Election-Statistics/
-9284,1723,CT,Connecticut,107,U.S. Senate,Class III,1998,general,false,,45,3930,Christopher J. Dodd,DEM,628306,65.14608738388544,,true,,https://history.house.gov/Institution/Election-Statistics/
-9285,1723,CT,Connecticut,107,U.S. Senate,Class III,1998,general,false,,11532,18261,Wildey Judd Moore,LIB,5196,0.5387487467041039,,false,,https://history.house.gov/Institution/Election-Statistics/
-9286,1723,CT,Connecticut,107,U.S. Senate,Class III,1998,general,false,,12670,18262,Lois Grasso,OTH,6517,0.6757170096748741,,false,,https://history.house.gov/Institution/Election-Statistics/
-9287,1723,CT,Connecticut,107,U.S. Senate,Class III,1998,general,false,,2467,3931,Gary A. Franks,REP,312177,32.36816156656025,,false,,https://history.house.gov/Institution/Election-Statistics/
-9288,1724,FL,Florida,139,U.S. Senate,Class III,1998,general,false,,141,3932,Bob Graham,DEM,2436407,62.469379477057615,,true,,https://history.house.gov/Institution/Election-Statistics/
-9289,1724,FL,Florida,139,U.S. Senate,Class III,1998,general,false,,479,3933,Charlie Crist,REP,1463755,37.530620522942385,,false,,https://history.house.gov/Institution/Election-Statistics/
-9290,1725,GA,Georgia,155,U.S. Senate,Class III,1998,general,false,,2469,3935,Michael J. Coles,DEM,791904,45.149670487179534,,false,,https://history.house.gov/Institution/Election-Statistics/
-9291,1725,GA,Georgia,155,U.S. Senate,Class III,1998,general,false,,12671,18263,Bert Loftman,LIB,43467,2.4782306025303984,,false,,https://history.house.gov/Institution/Election-Statistics/
-9292,1725,GA,Georgia,155,U.S. Senate,Class III,1998,general,false,,2468,3934,Paul Coverdell,REP,918540,52.36970431932897,,true,,https://history.house.gov/Institution/Election-Statistics/
