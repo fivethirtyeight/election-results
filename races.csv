@@ -1787,10 +1787,9 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 1792,HouseRace,CA,California,70,U.S. House,District 36,2011,general,true,"",,7/12/11,2/12/19 01:20,2/12/19 01:20
 1780,HouseRace,LA,Louisiana,229,U.S. House,District 5,2013,runoff,true,"",,11/16/13,2/12/19 01:20,12/23/19 12:23
 1793,HouseRace,NY,New York,400,U.S. House,District 26,2011,general,true,"",,5/24/11,2/12/19 01:20,2/12/19 01:20
-1767,HouseRace,HI,Hawaii,157,U.S. House,District 1,2016,jungle primary,true,"",,11/8/16,2/12/19 01:20,7/1/21 13:28
+1767,HouseRace,HI,Hawaii,157,U.S. House,District 1,2016,general,true,"",,11/8/16,2/12/19 01:20,7/2/21 12:55
 1794,HouseRace,IN,Indiana,199,U.S. House,District 3,2010,general,true,"",,11/2/10,2/12/19 01:20,2/12/19 01:20
 1795,HouseRace,NY,New York,403,U.S. House,District 29,2010,general,true,"",,11/2/10,2/12/19 01:20,2/12/19 01:20
-1796,HouseRace,GA,Georgia,149,U.S. House,District 9,2010,general,true,"",,6/8/10,2/12/19 01:20,2/12/19 01:20
 1807,HouseRace,MS,Mississippi,305,U.S. House,District 1,2008,runoff,true,"",,5/13/08,2/12/19 01:20,12/14/20 09:27
 1798,HouseRace,PA,Pennsylvania,455,U.S. House,District 12,2010,general,true,"",,5/18/10,2/12/19 01:20,2/12/19 01:20
 1799,HouseRace,FL,Florida,131,U.S. House,District 19,2010,general,true,"",,4/13/10,2/12/19 01:20,2/12/19 01:20
@@ -1803,23 +1802,19 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 1806,HouseRace,MD,Maryland,251,U.S. House,District 4,2008,general,true,"",,6/17/08,2/12/19 01:20,2/12/19 01:20
 1808,HouseRace,LA,Louisiana,230,U.S. House,District 6,2008,general,true,"",,5/3/08,2/12/19 01:20,2/12/19 01:20
 1809,HouseRace,LA,Louisiana,225,U.S. House,District 1,2008,general,true,"",,5/3/08,2/12/19 01:20,2/12/19 01:20
-1810,HouseRace,CA,California,46,U.S. House,District 12,2008,general,true,"",,4/8/08,2/12/19 01:20,2/12/19 01:20
 1811,HouseRace,IN,Indiana,203,U.S. House,District 7,2008,general,true,"",,3/11/08,2/12/19 01:20,2/12/19 01:20
 1812,HouseRace,IL,Illinois,188,U.S. House,District 14,2008,general,true,"",,3/8/08,2/12/19 01:20,2/12/19 01:20
 1813,HouseRace,VA,Virginia,537,U.S. House,District 1,2007,general,true,"",,12/11/07,2/12/19 01:20,2/12/19 01:20
 1814,HouseRace,OH,Ohio,411,U.S. House,District 5,2007,general,true,"",,12/11/07,2/12/19 01:20,2/12/19 01:20
 1815,HouseRace,MA,Massachusetts,239,U.S. House,District 5,2007,general,true,"",,10/16/07,2/12/19 01:20,2/12/19 01:20
 1816,HouseRace,CA,California,71,U.S. House,District 37,2007,general,true,"",,8/21/07,2/12/19 01:20,2/12/19 01:20
-1817,HouseRace,GA,Georgia,150,U.S. House,District 10,2007,general,true,"",,7/17/07,2/12/19 01:20,2/12/19 01:20
 1819,HouseRace,NJ,New Jersey,359,U.S. House,District 13,2006,general,true,"",,11/7/06,2/12/19 01:20,2/12/19 01:20
 1820,HouseRace,CA,California,84,U.S. House,District 50,2006,general,true,"",,6/6/06,2/12/19 01:20,2/12/19 01:20
 1821,HouseRace,CA,California,82,U.S. House,District 48,2005,general,true,"",,12/6/05,2/12/19 01:20,2/12/19 01:20
 1822,HouseRace,OH,Ohio,408,U.S. House,District 2,2005,general,true,"",,8/2/05,2/12/19 01:20,2/12/19 01:20
-1823,HouseRace,CA,California,39,U.S. House,District 5,2005,general,true,"",,3/8/05,2/12/19 01:20,2/12/19 01:20
 1824,HouseRace,NC,North Carolina,316,U.S. House,District 1,2004,general,true,"",,7/20/04,2/12/19 01:20,2/12/19 01:20
 1825,HouseRace,SD,South Dakota,480,U.S. House,District 1,2004,general,true,"",,6/1/04,2/12/19 01:20,2/12/19 01:20
 1826,HouseRace,KY,Kentucky,221,U.S. House,District 6,2004,general,true,"",,2/17/04,2/12/19 01:20,2/12/19 01:20
-1827,HouseRace,TX,Texas,514,U.S. House,District 19,2003,general,true,"",,6/3/03,2/12/19 01:20,2/12/19 01:20
 1828,HouseRace,HI,Hawaii,158,U.S. House,District 2,2003,general,true,"",,1/4/03,2/12/19 01:20,2/12/19 01:20
 1829,HouseRace,HI,Hawaii,158,U.S. House,District 2,2002,general,true,"",,11/30/02,2/12/19 01:20,2/12/19 01:20
 1830,HouseRace,OK,Oklahoma,428,U.S. House,District 1,2002,general,true,"",,1/8/02,2/12/19 01:20,2/12/19 01:20
@@ -1831,8 +1826,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 1836,HouseRace,CA,California,66,U.S. House,District 32,2001,general,true,"",,6/5/01,2/12/19 01:20,2/12/19 01:20
 1837,HouseRace,PA,Pennsylvania,452,U.S. House,District 9,2001,general,true,"",,5/15/01,2/12/19 01:20,2/12/19 01:20
 1838,HouseRace,CA,California,76,U.S. House,District 42,1999,general,true,"",,11/16/99,2/12/19 01:20,2/12/19 01:20
-1797,HouseRace,HI,Hawaii,157,U.S. House,District 1,2010,jungle primary,true,"",,5/22/10,2/12/19 01:20,3/18/20 12:26
-1840,HouseRace,GA,Georgia,146,U.S. House,District 6,1999,general,true,"",,2/23/99,2/12/19 01:20,2/12/19 01:20
 1841,HouseRace,NM,New Mexico,363,U.S. House,District 1,1998,general,true,"",,6/23/98,2/12/19 01:20,2/12/19 01:20
 1842,HouseRace,PA,Pennsylvania,444,U.S. House,District 1,1998,general,true,"",,5/19/98,2/12/19 01:20,2/12/19 01:20
 1843,HouseRace,CA,California,78,U.S. House,District 44,1998,general,true,"",,4/7/98,2/12/19 01:20,2/12/19 01:20
@@ -1869,6 +1862,12 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 1873,HouseRace,CA,California,43,U.S. House,District 9,1998,general,false,"",,11/3/98,2/12/19 01:21,2/12/19 01:21
 1874,HouseRace,CA,California,44,U.S. House,District 10,1998,general,false,"",,11/3/98,2/12/19 01:21,2/12/19 01:21
 1875,HouseRace,CA,California,45,U.S. House,District 11,1998,general,false,"",,11/3/98,2/12/19 01:21,2/12/19 01:21
+1810,HouseRace,CA,California,46,U.S. House,District 12,2008,jungle primary,true,"",,4/8/08,2/12/19 01:20,7/2/21 12:26
+1817,HouseRace,GA,Georgia,150,U.S. House,District 10,2007,runoff,true,"",,7/17/07,2/12/19 01:20,7/2/21 12:35
+1823,HouseRace,CA,California,39,U.S. House,District 5,2005,jungle primary,true,"",,3/8/05,2/12/19 01:20,7/2/21 12:48
+1827,HouseRace,TX,Texas,514,U.S. House,District 19,2003,runoff,true,"",,6/3/03,2/12/19 01:20,7/2/21 12:51
+1797,HouseRace,HI,Hawaii,157,U.S. House,District 1,2010,general,true,"",,5/22/10,2/12/19 01:20,7/2/21 12:55
+1840,HouseRace,GA,Georgia,146,U.S. House,District 6,1999,jungle primary,true,"",,2/23/99,2/12/19 01:20,7/2/21 13:55
 1876,HouseRace,CA,California,46,U.S. House,District 12,1998,general,false,"",,11/3/98,2/12/19 01:21,2/12/19 01:21
 1877,HouseRace,CA,California,47,U.S. House,District 13,1998,general,false,"",,11/3/98,2/12/19 01:21,2/12/19 01:21
 1878,HouseRace,CA,California,48,U.S. House,District 14,1998,general,false,"",,11/3/98,2/12/19 01:21,2/12/19 01:21
@@ -9337,3 +9336,8 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 8003,HouseRace,LA,Louisiana,225,U.S. House,District 1,2020,runoff,false,REP,,,12/18/19 13:09,7/1/21 11:18
 8007,HouseRace,LA,Louisiana,227,U.S. House,District 3,2020,runoff,false,REP,,,12/18/19 13:09,7/1/21 11:18
 9450,GubernatorialRace,CA,California,34,Governor,,2021,recall,true,"",,9/14/21,5/6/21 09:10,7/2/21 06:57
+1796,HouseRace,GA,Georgia,149,U.S. House,District 9,2010,runoff,true,"",,6/8/10,2/12/19 01:20,7/2/21 07:53
+9454,HouseRace,GA,Georgia,149,U.S. House,District 9,2010,jungle primary,true,"",,5/11/10,7/2/21 07:54,7/2/21 07:54
+9455,HouseRace,GA,Georgia,150,U.S. House,District 10,2007,jungle primary,true,"",,6/19/07,7/2/21 12:36,7/2/21 12:36
+9456,HouseRace,TX,Texas,514,U.S. House,District 19,2003,jungle primary,true,"",,5/3/03,7/2/21 12:52,7/2/21 12:52
+9457,HouseRace,LA,Louisiana,225,U.S. House,District 1,1999,jungle primary,true,"",,5/1/99,7/2/21 14:10,7/2/21 14:10
