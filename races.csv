@@ -1762,6 +1762,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 1750,SenateRace,WI,Wisconsin,576,U.S. Senate,Class III,1998,general,false,DEM,,11/3/98,2/12/19 01:20,10/14/21 11:14
 1714,SenateRace,WV,West Virginia,581,U.S. Senate,Class I,2000,general,false,DEM,,11/7/00,2/12/19 01:20,10/14/21 11:14
 1716,SenateRace,WY,Wyoming,585,U.S. Senate,Class I,2000,general,false,REP,,11/7/00,2/12/19 01:20,10/14/21 11:14
+9483,GubernatorialRace,DE,Delaware,108,Governor,,1996,general,false,DEM,,11/5/96,3/18/22 09:50,3/18/22 09:50
 1845,HouseRace,CA,California,56,U.S. House,District 22,1998,general,true,vacant,,3/10/98,2/12/19 01:20,10/14/21 11:14
 1797,HouseRace,HI,Hawaii,157,U.S. House,District 1,2010,general,true,vacant,,5/22/10,2/12/19 01:20,10/14/21 11:14
 1870,HouseRace,CA,California,40,U.S. House,District 6,1998,general,false,DEM,,11/3/98,2/12/19 01:21,10/14/21 11:14
@@ -1835,6 +1836,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 1831,HouseRace,SC,South Carolina,472,U.S. House,District 2,2001,general,true,vacant,,12/18/01,2/12/19 01:20,10/14/21 11:14
 1827,HouseRace,TX,Texas,514,U.S. House,District 19,2003,runoff,true,vacant,,6/3/03,2/12/19 01:20,10/14/21 11:14
 1835,HouseRace,VA,Virginia,540,U.S. House,District 4,2001,general,true,vacant,,6/19/01,2/12/19 01:20,10/14/21 11:14
+9484,GubernatorialRace,IN,Indiana,196,Governor,,1996,general,false,DEM,,11/5/96,3/18/22 09:50,3/18/22 09:50
 1877,HouseRace,CA,California,47,U.S. House,District 13,1998,general,false,DEM,,11/3/98,2/12/19 01:21,10/14/21 11:14
 1878,HouseRace,CA,California,48,U.S. House,District 14,1998,general,false,DEM,,11/3/98,2/12/19 01:21,10/14/21 11:14
 1879,HouseRace,CA,California,49,U.S. House,District 15,1998,general,false,REP,,11/3/98,2/12/19 01:21,10/14/21 11:14
@@ -1989,6 +1991,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 2021,HouseRace,ME,Maine,260,U.S. House,District 2,1998,general,false,DEM,,11/3/98,2/12/19 01:21,10/14/21 11:14
 1987,HouseRace,IL,Illinois,595,U.S. House,District 20,1998,general,false,REP,,11/3/98,2/12/19 01:21,10/14/21 11:14
 1997,HouseRace,IN,Indiana,596,U.S. House,District 10,1998,general,false,DEM,,11/3/98,2/12/19 01:21,10/14/21 11:14
+9485,GubernatorialRace,MO,Missouri,292,Governor,,1996,general,false,DEM,,11/5/96,3/18/22 09:50,3/18/22 09:50
 2039,HouseRace,MA,Massachusetts,244,U.S. House,District 10,1998,general,false,DEM,,11/3/98,2/12/19 01:21,10/14/21 11:14
 2040,HouseRace,MI,Michigan,264,U.S. House,District 1,1998,general,false,DEM,,11/3/98,2/12/19 01:21,10/14/21 11:14
 2041,HouseRace,MI,Michigan,265,U.S. House,District 2,1998,general,false,REP,,11/3/98,2/12/19 01:21,10/14/21 11:14
@@ -2066,6 +2069,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 2118,HouseRace,NY,New York,391,U.S. House,District 17,1998,general,false,DEM,,11/3/98,2/12/19 01:21,10/14/21 11:14
 2055,HouseRace,MI,Michigan,599,U.S. House,District 16,1998,general,false,DEM,,11/3/98,2/12/19 01:21,10/14/21 11:14
 2068,HouseRace,MS,Mississippi,600,U.S. House,District 5,1998,general,false,DEM,,11/3/98,2/12/19 01:21,10/14/21 11:14
+9486,GubernatorialRace,MT,Montana,311,Governor,,1996,general,false,REP,,11/5/96,3/18/22 09:50,3/18/22 09:50
 2134,HouseRace,NC,North Carolina,317,U.S. House,District 2,1998,general,false,DEM,,11/3/98,2/12/19 01:21,10/14/21 11:14
 2135,HouseRace,NC,North Carolina,318,U.S. House,District 3,1998,general,false,REP,,11/3/98,2/12/19 01:21,10/14/21 11:14
 2136,HouseRace,NC,North Carolina,319,U.S. House,District 4,1998,general,false,DEM,,11/3/98,2/12/19 01:21,10/14/21 11:14
@@ -2143,6 +2147,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 2170,HouseRace,OK,Oklahoma,608,U.S. House,District 6,1998,general,false,REP,,11/3/98,2/12/19 01:21,10/14/21 11:14
 2195,HouseRace,PA,Pennsylvania,609,U.S. House,District 20,1998,general,false,DEM,,11/3/98,2/12/19 01:21,10/14/21 11:14
 2196,HouseRace,PA,Pennsylvania,610,U.S. House,District 21,1998,general,false,REP,,11/3/98,2/12/19 01:21,10/14/21 11:14
+9487,GubernatorialRace,NH,New Hampshire,341,Governor,,1996,general,false,REP,,11/5/96,3/18/22 09:50,3/18/22 09:50
 2201,HouseRace,SC,South Carolina,473,U.S. House,District 3,1998,general,false,REP,,11/3/98,2/12/19 01:21,10/14/21 11:14
 2202,HouseRace,SC,South Carolina,474,U.S. House,District 4,1998,general,false,REP,,11/3/98,2/12/19 01:21,10/14/21 11:14
 2203,HouseRace,SC,South Carolina,475,U.S. House,District 5,1998,general,false,DEM,,11/3/98,2/12/19 01:21,10/14/21 11:14
@@ -2220,6 +2225,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 2270,HouseRace,WV,West Virginia,579,U.S. House,District 2,1998,general,false,DEM,,11/3/98,2/12/19 01:21,10/14/21 11:14
 2271,HouseRace,WV,West Virginia,580,U.S. House,District 3,1998,general,false,DEM,,11/3/98,2/12/19 01:21,10/14/21 11:14
 2280,HouseRace,WI,Wisconsin,618,U.S. House,District 9,1998,general,false,REP,,11/3/98,2/12/19 01:21,10/14/21 11:14
+9488,GubernatorialRace,NC,North Carolina,315,Governor,,1996,general,false,DEM,,11/5/96,3/18/22 09:50,3/18/22 09:50
 2282,HouseRace,AL,Alabama,7,U.S. House,District 1,2000,general,false,REP,,11/7/00,2/12/19 01:21,10/14/21 11:14
 2283,HouseRace,AL,Alabama,8,U.S. House,District 2,2000,general,false,REP,,11/7/00,2/12/19 01:21,10/14/21 11:14
 2284,HouseRace,AL,Alabama,9,U.S. House,District 3,2000,general,false,REP,,11/7/00,2/12/19 01:21,10/14/21 11:14
@@ -2297,6 +2303,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 2360,HouseRace,CT,Connecticut,103,U.S. House,District 3,2000,general,false,DEM,,11/7/00,2/12/19 01:21,10/14/21 11:14
 2361,HouseRace,CT,Connecticut,104,U.S. House,District 4,2000,general,false,REP,,11/7/00,2/12/19 01:21,10/14/21 11:14
 2281,HouseRace,WY,Wyoming,584,U.S. House,District 1,1998,general,false,REP,,11/3/98,2/12/19 01:21,10/14/21 11:14
+9489,GubernatorialRace,ND,North Dakota,331,Governor,,1996,general,false,REP,,11/5/96,3/18/22 09:50,3/18/22 09:50
 2364,HouseRace,DE,Delaware,109,U.S. House,District 1,2000,general,false,REP,,11/7/00,2/12/19 01:21,10/14/21 11:14
 2365,HouseRace,FL,Florida,113,U.S. House,District 1,2000,general,false,REP,,11/7/00,2/12/19 01:21,10/14/21 11:14
 2366,HouseRace,FL,Florida,114,U.S. House,District 2,2000,general,false,DEM,,11/7/00,2/12/19 01:21,10/14/21 11:14
@@ -2374,6 +2381,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 2363,HouseRace,CT,Connecticut,591,U.S. House,District 6,2000,general,false,REP,,11/7/00,2/12/19 01:21,10/14/21 11:14
 2422,HouseRace,IL,Illinois,595,U.S. House,District 20,2000,general,false,REP,,11/7/00,2/12/19 01:21,10/14/21 11:14
 2432,HouseRace,IN,Indiana,596,U.S. House,District 10,2000,general,false,DEM,,11/7/00,2/12/19 01:21,10/14/21 11:14
+9490,GubernatorialRace,UT,Utah,530,Governor,,1996,general,false,REP,,11/5/96,3/18/22 09:50,3/18/22 09:50
 2444,HouseRace,KY,Kentucky,218,U.S. House,District 3,2000,general,false,REP,,11/7/00,2/12/19 01:21,10/14/21 11:14
 2445,HouseRace,KY,Kentucky,219,U.S. House,District 4,2000,general,false,DEM,,11/7/00,2/12/19 01:21,10/14/21 11:14
 2446,HouseRace,KY,Kentucky,220,U.S. House,District 5,2000,general,false,REP,,11/7/00,2/12/19 01:21,10/14/21 11:14
@@ -2450,6 +2458,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 2517,HouseRace,NV,Nevada,369,U.S. House,District 1,2000,general,false,DEM,,11/7/00,2/12/19 01:21,10/14/21 11:14
 2518,HouseRace,NV,Nevada,370,U.S. House,District 2,2000,general,false,REP,,11/7/00,2/12/19 01:21,10/14/21 11:14
 2503,HouseRace,MS,Mississippi,600,U.S. House,District 5,2000,general,false,DEM,,11/7/00,2/12/19 01:21,10/14/21 11:14
+9491,GubernatorialRace,VT,Vermont,550,Governor,,1996,general,false,DEM,,11/5/96,3/18/22 09:50,3/18/22 09:50
 2569,HouseRace,NC,North Carolina,317,U.S. House,District 2,2000,general,false,DEM,,11/7/00,2/12/19 01:21,10/14/21 11:14
 2570,HouseRace,NC,North Carolina,318,U.S. House,District 3,2000,general,false,REP,,11/7/00,2/12/19 01:21,10/14/21 11:14
 2571,HouseRace,NC,North Carolina,319,U.S. House,District 4,2000,general,false,DEM,,11/7/00,2/12/19 01:21,10/14/21 11:14
@@ -2527,6 +2536,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 2566,HouseRace,NY,New York,605,U.S. House,District 30,2000,general,false,REP,,11/7/00,2/12/19 01:21,10/14/21 11:14
 2567,HouseRace,NY,New York,606,U.S. House,District 31,2000,general,false,REP,,11/7/00,2/12/19 01:21,10/14/21 11:14
 2599,HouseRace,OH,Ohio,607,U.S. House,District 19,2000,general,false,REP,,11/7/00,2/12/19 01:21,10/14/21 11:14
+9492,GubernatorialRace,WA,Washington,554,Governor,,1996,general,false,DEM,,11/5/96,3/18/22 09:50,3/18/22 09:50
 2607,HouseRace,OR,Oregon,437,U.S. House,District 2,2000,general,false,REP,,11/7/00,2/12/19 01:21,10/14/21 11:14
 2608,HouseRace,OR,Oregon,438,U.S. House,District 3,2000,general,false,DEM,,11/7/00,2/12/19 01:21,10/14/21 11:14
 2609,HouseRace,OR,Oregon,439,U.S. House,District 4,2000,general,false,DEM,,11/7/00,2/12/19 01:21,10/14/21 11:14
@@ -2604,6 +2614,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 2605,HouseRace,OK,Oklahoma,608,U.S. House,District 6,2000,general,false,REP,,11/7/00,2/12/19 01:21,10/14/21 11:14
 2630,HouseRace,PA,Pennsylvania,609,U.S. House,District 20,2000,general,false,DEM,,11/7/00,2/12/19 01:21,10/14/21 11:14
 2631,HouseRace,PA,Pennsylvania,610,U.S. House,District 21,2000,general,false,REP,,11/7/00,2/12/19 01:21,10/14/21 11:14
+9493,GubernatorialRace,WV,West Virginia,577,Governor,,1996,general,false,DEM,,11/5/96,3/18/22 09:50,3/18/22 09:50
 2717,HouseRace,AL,Alabama,7,U.S. House,District 1,2002,general,false,REP,,11/5/02,2/12/19 01:21,10/14/21 11:14
 2718,HouseRace,AL,Alabama,8,U.S. House,District 2,2002,general,false,REP,,11/5/02,2/12/19 01:21,10/14/21 11:14
 2719,HouseRace,AL,Alabama,9,U.S. House,District 3,2002,general,false,REP,,11/5/02,2/12/19 01:21,10/14/21 11:14
@@ -2758,6 +2769,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 2845,HouseRace,IL,Illinois,175,U.S. House,District 1,2002,general,false,DEM,,11/5/02,2/12/19 01:21,10/14/21 11:14
 2846,HouseRace,IL,Illinois,176,U.S. House,District 2,2002,general,false,DEM,,11/5/02,2/12/19 01:21,10/14/21 11:14
 2847,HouseRace,IL,Illinois,177,U.S. House,District 3,2002,general,false,DEM,,11/5/02,2/12/19 01:21,10/14/21 11:14
+9494,GubernatorialRace,NJ,New Jersey,346,Governor,,1997,general,false,REP,,11/4/97,3/18/22 10:18,3/18/22 10:18
 2874,HouseRace,IA,Iowa,163,U.S. House,District 2,2002,general,false,REP,,11/5/02,2/12/19 01:21,10/14/21 11:14
 2875,HouseRace,IA,Iowa,164,U.S. House,District 3,2002,general,false,DEM,,11/5/02,2/12/19 01:21,10/14/21 11:14
 2876,HouseRace,IA,Iowa,165,U.S. House,District 4,2002,general,false,REP,,11/5/02,2/12/19 01:21,10/14/21 11:14
@@ -2834,6 +2846,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 2925,HouseRace,MI,Michigan,273,U.S. House,District 10,2002,general,false,DEM,,11/5/02,2/12/19 01:21,10/14/21 11:14
 2926,HouseRace,MI,Michigan,274,U.S. House,District 11,2002,general,false,REP,,11/5/02,2/12/19 01:21,10/14/21 11:14
 2928,HouseRace,MI,Michigan,276,U.S. House,District 13,2002,general,false,DEM,,11/5/02,2/12/19 01:21,10/14/21 11:14
+9495,GubernatorialRace,VA,Virginia,536,Governor,,1997,general,false,REP,,11/4/97,3/18/22 10:18,3/18/22 10:18
 2930,HouseRace,MI,Michigan,278,U.S. House,District 15,2002,general,false,DEM,,11/5/02,2/12/19 01:21,10/14/21 11:14
 2931,HouseRace,MN,Minnesota,282,U.S. House,District 1,2002,general,false,REP,,11/5/02,2/12/19 01:21,10/14/21 11:14
 2932,HouseRace,MN,Minnesota,283,U.S. House,District 2,2002,general,false,REP,,11/5/02,2/12/19 01:21,10/14/21 11:14
@@ -2911,6 +2924,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 3003,HouseRace,NY,New York,401,U.S. House,District 27,2002,general,false,REP,,11/5/02,2/12/19 01:21,10/14/21 11:14
 3004,HouseRace,NY,New York,402,U.S. House,District 28,2002,general,false,DEM,,11/5/02,2/12/19 01:21,10/14/21 11:14
 3005,HouseRace,NY,New York,403,U.S. House,District 29,2002,general,false,DEM,,11/5/02,2/12/19 01:21,10/14/21 11:14
+9496,HouseRace,AK,Alaska,3,U.S. House,District 1,2022,general,true,vacant,,8/16/22,3/22/22 12:01,3/22/22 12:01
 3011,HouseRace,NC,North Carolina,321,U.S. House,District 6,2002,general,false,REP,,11/5/02,2/12/19 01:21,10/14/21 11:14
 3012,HouseRace,NC,North Carolina,322,U.S. House,District 7,2002,general,false,DEM,,11/5/02,2/12/19 01:21,10/14/21 11:14
 3013,HouseRace,NC,North Carolina,323,U.S. House,District 8,2002,general,false,REP,,11/5/02,2/12/19 01:21,10/14/21 11:14
