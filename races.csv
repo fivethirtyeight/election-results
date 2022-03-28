@@ -3002,6 +3002,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 3088,HouseRace,TX,Texas,499,U.S. House,District 4,2002,general,false,DEM,,11/5/02,2/12/19 01:21,10/14/21 11:14
 3089,HouseRace,TX,Texas,500,U.S. House,District 5,2002,general,false,REP,,11/5/02,2/12/19 01:21,10/14/21 11:14
 3090,HouseRace,TX,Texas,501,U.S. House,District 6,2002,general,false,REP,,11/5/02,2/12/19 01:21,10/14/21 11:14
+9497,GubernatorialRace,LA,Louisiana,224,Governor,,2023,jungle primary,false,DEM,,10/14/23,3/28/22 08:22,3/28/22 08:22
 3153,HouseRace,AL,Alabama,7,U.S. House,District 1,2004,general,false,REP,,11/2/04,2/12/19 01:21,10/14/21 11:14
 3154,HouseRace,AL,Alabama,8,U.S. House,District 2,2004,general,false,REP,,11/2/04,2/12/19 01:21,10/14/21 11:14
 3155,HouseRace,AL,Alabama,9,U.S. House,District 3,2004,general,false,REP,,11/2/04,2/12/19 01:21,10/14/21 11:14
