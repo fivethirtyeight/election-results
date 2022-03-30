@@ -3080,6 +3080,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 3142,HouseRace,WV,West Virginia,579,U.S. House,District 2,2002,general,false,REP,,11/5/02,2/12/19 01:21,10/14/21 11:14
 3143,HouseRace,WV,West Virginia,580,U.S. House,District 3,2002,general,false,DEM,,11/5/02,2/12/19 01:21,10/14/21 11:14
 3152,HouseRace,WY,Wyoming,584,U.S. House,District 1,2002,general,false,REP,,11/5/02,2/12/19 01:21,10/14/21 11:14
+9498,HouseRace,CA,California,56,U.S. House,District 22,2022,jungle primary,true,vacant,,4/5/22,3/30/22 09:32,3/30/22 09:32
 3173,HouseRace,CA,California,35,U.S. House,District 1,2004,general,false,DEM,,11/2/04,2/12/19 01:21,10/14/21 11:14
 3174,HouseRace,CA,California,36,U.S. House,District 2,2004,general,false,REP,,11/2/04,2/12/19 01:21,10/14/21 11:14
 3175,HouseRace,CA,California,37,U.S. House,District 3,2004,general,false,REP,,11/2/04,2/12/19 01:21,10/14/21 11:14
@@ -3157,6 +3158,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 3250,HouseRace,FL,Florida,124,U.S. House,District 12,2004,general,false,REP,,11/2/04,2/12/19 01:21,10/14/21 11:14
 3251,HouseRace,FL,Florida,125,U.S. House,District 13,2004,general,false,REP,,11/2/04,2/12/19 01:21,10/14/21 11:14
 3252,HouseRace,FL,Florida,126,U.S. House,District 14,2004,general,false,REP,,11/2/04,2/12/19 01:21,10/14/21 11:14
+9499,HouseRace,CA,California,56,U.S. House,District 22,2022,runoff,true,vacant,,6/7/22,3/30/22 09:33,3/30/22 09:33
 3254,HouseRace,FL,Florida,128,U.S. House,District 16,2004,general,false,REP,,11/2/04,2/12/19 01:21,10/14/21 11:14
 3255,HouseRace,FL,Florida,129,U.S. House,District 17,2004,general,false,DEM,,11/2/04,2/12/19 01:21,10/14/21 11:14
 3256,HouseRace,FL,Florida,130,U.S. House,District 18,2004,general,false,REP,,11/2/04,2/12/19 01:21,10/14/21 11:14
