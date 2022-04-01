@@ -3235,6 +3235,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 3331,HouseRace,LA,Louisiana,231,U.S. House,District 7,2004,jungle primary,false,DEM,,11/2/04,2/12/19 01:21,10/14/21 11:14
 3332,HouseRace,LA,Louisiana,231,U.S. House,District 7,2004,runoff,false,DEM,,12/4/04,2/12/19 01:21,10/14/21 11:14
 3333,HouseRace,ME,Maine,259,U.S. House,District 1,2004,general,false,DEM,,11/2/04,2/12/19 01:21,10/14/21 11:14
+9500,HouseRace,NE,Nebraska,336,U.S. House,District 1,2022,general,true,vacant,,6/28/22,4/1/22 13:58,4/1/22 13:58
 3344,HouseRace,MA,Massachusetts,236,U.S. House,District 2,2004,general,false,DEM,,11/2/04,2/12/19 01:21,10/14/21 11:14
 3345,HouseRace,MA,Massachusetts,237,U.S. House,District 3,2004,general,false,DEM,,11/2/04,2/12/19 01:21,10/14/21 11:14
 3346,HouseRace,MA,Massachusetts,238,U.S. House,District 4,2004,general,false,DEM,,11/2/04,2/12/19 01:21,10/14/21 11:14
