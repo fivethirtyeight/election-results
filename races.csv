@@ -3313,6 +3313,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 3394,HouseRace,NV,Nevada,370,U.S. House,District 2,2004,general,false,REP,,11/2/04,2/12/19 01:21,10/14/21 11:14
 3395,HouseRace,NV,Nevada,371,U.S. House,District 3,2004,general,false,REP,,11/2/04,2/12/19 01:21,10/14/21 11:14
 3414,HouseRace,NY,New York,375,U.S. House,District 1,2004,general,false,DEM,,11/2/04,2/12/19 01:21,10/14/21 11:14
+9501,HouseRace,TX,Texas,613,U.S. House,District 34,2022,jungle primary,true,vacant,,6/14/22,4/8/22 09:03,4/8/22 09:03
 3444,HouseRace,NC,North Carolina,317,U.S. House,District 2,2004,general,false,DEM,,11/2/04,2/12/19 01:21,10/14/21 11:14
 3445,HouseRace,NC,North Carolina,318,U.S. House,District 3,2004,general,false,REP,,11/2/04,2/12/19 01:21,10/14/21 11:14
 3446,HouseRace,NC,North Carolina,319,U.S. House,District 4,2004,general,false,DEM,,11/2/04,2/12/19 01:21,10/14/21 11:14
