@@ -3391,6 +3391,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 3493,HouseRace,PA,Pennsylvania,452,U.S. House,District 9,2004,general,false,REP,,11/2/04,2/12/19 01:21,10/14/21 11:14
 3494,HouseRace,PA,Pennsylvania,453,U.S. House,District 10,2004,general,false,REP,,11/2/04,2/12/19 01:21,10/14/21 11:14
 3495,HouseRace,PA,Pennsylvania,454,U.S. House,District 11,2004,general,false,DEM,,11/2/04,2/12/19 01:21,10/14/21 11:14
+8658,HouseRace,NY,New York,401,U.S. House,District 27,2020,general,true,vacant,,6/23/20,3/20/20 14:41,5/10/22 10:09
 3497,HouseRace,PA,Pennsylvania,456,U.S. House,District 13,2004,general,false,DEM,,11/2/04,2/12/19 01:21,10/14/21 11:14
 3498,HouseRace,PA,Pennsylvania,457,U.S. House,District 14,2004,general,false,DEM,,11/2/04,2/12/19 01:21,10/14/21 11:14
 3499,HouseRace,PA,Pennsylvania,458,U.S. House,District 15,2004,general,false,REP,,11/2/04,2/12/19 01:21,10/14/21 11:14
@@ -9226,7 +9227,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 3872,HouseRace,NY,New York,397,U.S. House,District 23,2006,general,false,REP,,11/7/06,2/12/19 01:22,10/14/21 11:14
 462,HouseRace,NY,New York,399,U.S. House,District 25,2018,general,false,vacant,,11/6/18,10/2/18 17:04,10/14/21 11:14
 4746,HouseRace,NY,New York,401,U.S. House,District 27,2010,general,false,DEM,,11/2/10,2/12/19 01:22,10/14/21 11:14
-8658,HouseRace,NY,New York,401,U.S. House,District 27,2020,general,true,vacant,,4/28/20,3/20/20 14:41,10/14/21 11:14
 8118,HouseRace,NY,New York,401,U.S. House,District 27,2020,general,false,REP,,11/3/20,12/18/19 13:10,10/14/21 11:14
 1795,HouseRace,NY,New York,403,U.S. House,District 29,2010,general,true,vacant,,11/2/10,2/12/19 01:20,10/14/21 11:14
 3458,HouseRace,OH,Ohio,408,U.S. House,District 2,2004,general,false,REP,,11/2/04,2/12/19 01:21,10/14/21 11:14
