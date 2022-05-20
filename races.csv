@@ -3469,6 +3469,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 3574,HouseRace,WA,Washington,560,U.S. House,District 6,2004,general,false,DEM,,11/2/04,2/12/19 01:21,10/14/21 11:14
 3575,HouseRace,WA,Washington,561,U.S. House,District 7,2004,general,false,DEM,,11/2/04,2/12/19 01:21,10/14/21 11:14
 3576,HouseRace,WA,Washington,562,U.S. House,District 8,2004,general,false,REP,,11/2/04,2/12/19 01:21,10/14/21 11:14
+9502,GubernatorialRace,NC,North Carolina,315,Governor,,2024,general,false,DEM,,11/5/24,5/20/22 13:05,5/20/22 13:05
 3590,HouseRace,AL,Alabama,7,U.S. House,District 1,2006,general,false,REP,,11/7/06,2/12/19 01:21,10/14/21 11:14
 3591,HouseRace,AL,Alabama,8,U.S. House,District 2,2006,general,false,REP,,11/7/06,2/12/19 01:21,10/14/21 11:14
 3592,HouseRace,AL,Alabama,9,U.S. House,District 3,2006,general,false,REP,,11/7/06,2/12/19 01:21,10/14/21 11:14
