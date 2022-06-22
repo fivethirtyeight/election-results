@@ -3547,6 +3547,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 3579,HouseRace,WV,West Virginia,579,U.S. House,District 2,2004,general,false,REP,,11/2/04,2/12/19 01:21,10/14/21 11:14
 3580,HouseRace,WV,West Virginia,580,U.S. House,District 3,2004,general,false,DEM,,11/2/04,2/12/19 01:21,10/14/21 11:14
 3589,HouseRace,WY,Wyoming,584,U.S. House,District 1,2004,general,false,REP,,11/2/04,2/12/19 01:21,10/14/21 11:14
+9503,HouseRace,NY,New York,393,U.S. House,District 19,2022,general,true,vacant,,8/23/22,6/22/22 08:52,6/22/22 08:52
 3659,HouseRace,CA,California,84,U.S. House,District 50,2006,general,false,REP,,11/7/06,2/12/19 01:21,10/14/21 11:14
 3660,HouseRace,CA,California,85,U.S. House,District 51,2006,general,false,DEM,,11/7/06,2/12/19 01:21,10/14/21 11:14
 3661,HouseRace,CA,California,86,U.S. House,District 52,2006,general,false,REP,,11/7/06,2/12/19 01:21,10/14/21 11:14
