@@ -5086,6 +5086,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 5282,HouseRace,TX,Texas,520,U.S. House,District 25,2012,general,false,DEM,,11/6/12,2/12/19 01:22,10/14/21 11:14
 5283,HouseRace,TX,Texas,521,U.S. House,District 26,2012,general,false,REP,,11/6/12,2/12/19 01:22,10/14/21 11:14
 5247,HouseRace,SC,South Carolina,611,U.S. House,District 7,2012,general,false,new_seat,,11/6/12,2/12/19 01:22,10/14/21 11:14
+408,HouseRace,NC,North Carolina,324,U.S. House,District 9,2018,general,false,REP,,11/6/18,10/2/18 17:04,9/13/22 14:49
 5332,HouseRace,AL,Alabama,7,U.S. House,District 1,2014,general,false,REP,,11/4/14,2/12/19 01:22,10/14/21 11:14
 5333,HouseRace,AL,Alabama,8,U.S. House,District 2,2014,general,false,REP,,11/4/14,2/12/19 01:22,10/14/21 11:14
 5334,HouseRace,AL,Alabama,9,U.S. House,District 3,2014,general,false,REP,,11/4/14,2/12/19 01:22,10/14/21 11:14
@@ -6020,6 +6021,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 6265,SenateRace,AK,Alaska,4,U.S. Senate,Class II,2020,general,false,REP,,11/3/20,8/20/19 16:26,8/20/19 16:26
 6266,SenateRace,AL,Alabama,14,U.S. Senate,Class II,2020,general,false,DEM,,11/3/20,8/20/19 16:26,8/20/19 16:26
 6267,SenateRace,AR,Arkansas,21,U.S. Senate,Class II,2020,general,false,REP,,11/3/20,8/20/19 16:26,8/20/19 16:26
+9450,GubernatorialRace,CA,California,34,Governor,,2021,recall,true,"",,9/14/21,5/6/21 09:10,9/13/22 15:04
 6269,SenateRace,CO,Colorado,98,U.S. Senate,Class II,2020,general,false,REP,,11/3/20,8/20/19 16:26,8/20/19 16:26
 6270,SenateRace,DE,Delaware,111,U.S. Senate,Class II,2020,general,false,DEM,,11/3/20,8/20/19 16:26,8/20/19 16:26
 6271,SenateRace,GA,Georgia,154,U.S. Senate,Class II,2020,general,false,REP,,11/3/20,8/20/19 16:26,8/20/19 16:26
@@ -6555,6 +6557,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 6914,PresidentialRace,GA,Georgia,1,U.S. President,,1992,primary,false,REP,DEM,3/3/92,12/18/19 13:03,11/15/21 12:43
 6915,PresidentialRace,GA,Georgia,1,U.S. President,,1992,primary,false,REP,REP,3/3/92,12/18/19 13:03,11/15/21 12:43
 6916,PresidentialRace,ID,Idaho,1,U.S. President,,1992,caucus,false,REP,DEM,3/3/92,12/18/19 13:03,11/15/21 12:43
+8998,HouseRace,AK,Alaska,3,U.S. House,District 1,2022,general,false,DEM,,11/8/22,1/20/21 13:14,9/15/22 13:31
 7915,HouseRace,DE,Delaware,109,U.S. House,District 1,2020,general,false,DEM,,11/3/20,12/18/19 13:08,12/18/19 13:08
 7916,HouseRace,FL,Florida,113,U.S. House,District 1,2020,general,false,REP,,11/3/20,12/18/19 13:08,12/18/19 13:08
 7917,HouseRace,FL,Florida,114,U.S. House,District 2,2020,general,false,REP,,11/3/20,12/18/19 13:08,12/18/19 13:08
@@ -8553,7 +8556,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 8995,HouseRace,AL,Alabama,11,U.S. House,District 5,2022,general,false,REP,,11/8/22,1/20/21 13:14,1/20/21 13:14
 8996,HouseRace,AL,Alabama,12,U.S. House,District 6,2022,general,false,REP,,11/8/22,1/20/21 13:14,1/20/21 13:14
 8997,HouseRace,AL,Alabama,13,U.S. House,District 7,2022,general,false,DEM,,11/8/22,1/20/21 13:14,1/20/21 13:14
-8998,HouseRace,AK,Alaska,3,U.S. House,District 1,2022,general,false,REP,,11/8/22,1/20/21 13:14,1/20/21 13:14
 8999,HouseRace,AZ,Arizona,24,U.S. House,District 1,2022,general,false,DEM,,11/8/22,1/20/21 13:14,1/20/21 13:14
 9000,HouseRace,AZ,Arizona,25,U.S. House,District 2,2022,general,false,DEM,,11/8/22,1/20/21 13:14,1/20/21 13:14
 9001,HouseRace,AZ,Arizona,26,U.S. House,District 3,2022,general,false,DEM,,11/8/22,1/20/21 13:14,1/20/21 13:14
@@ -8980,7 +8982,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 9430,HouseRace,WI,Wisconsin,574,U.S. House,District 8,2022,general,false,REP,,11/8/22,1/20/21 13:16,1/20/21 13:16
 9431,HouseRace,WY,Wyoming,584,U.S. House,District 1,2022,general,false,REP,,11/8/22,1/20/21 13:16,1/20/21 13:16
 9432,HouseRace,PR,Puerto Rico,625,U.S. House,District 1,2022,general,false,NPP,,11/8/22,1/20/21 13:16,1/20/21 13:16
-408,HouseRace,NC,North Carolina,324,U.S. House,District 9,2018,general,false,REP,,,10/2/18 17:04,3/2/21 14:37
 7440,PresidentialRace,PR,Puerto Rico,1,U.S. President,,2008,caucus,false,REP,REP,2/24/08,12/18/19 13:06,11/15/21 12:43
 9451,HouseRace,FL,Florida,132,U.S. House,District 20,2022,general,true,DEM,,1/11/22,5/6/21 09:10,5/6/21 09:10
 7787,SenateRace,LA,Louisiana,232,U.S. Senate,Class II,2020,runoff,false,REP,,,12/18/19 13:08,5/26/21 10:45
@@ -9033,7 +9034,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 9474,GenericHouseRace,"",,587,U.S. House,Generic,1942,general,false,"",,11/3/42,9/14/21 13:11,9/14/21 13:11
 9475,GenericHouseRace,"",,587,U.S. House,Generic,1940,general,false,"",,11/5/40,9/14/21 13:11,9/14/21 13:11
 9476,GenericHouseRace,"",,587,U.S. House,Generic,1938,general,false,"",,11/8/38,9/14/21 13:11,9/14/21 13:11
-9450,GubernatorialRace,CA,California,34,Governor,,2021,recall,true,"",,,5/6/21 09:10,9/17/21 08:52
 1434,GubernatorialRace,AK,Alaska,2,Governor,,1998,general,false,DEM,,11/3/98,2/12/19 01:20,10/14/21 11:14
 1382,GubernatorialRace,AK,Alaska,2,Governor,,2002,general,false,DEM,,11/5/02,2/12/19 01:20,10/14/21 11:14
 1275,GubernatorialRace,AK,Alaska,2,Governor,,2010,general,false,REP,,11/2/10,2/12/19 01:20,10/14/21 11:14
