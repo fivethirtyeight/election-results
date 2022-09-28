@@ -6630,6 +6630,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 6953,PresidentialRace,MI,Michigan,1,U.S. President,,1992,primary,false,REP,REP,3/17/92,12/18/19 13:03,11/15/21 12:43
 6955,PresidentialRace,CT,Connecticut,1,U.S. President,,1992,primary,false,REP,REP,3/24/92,12/18/19 13:03,11/15/21 12:43
 6956,PresidentialRace,VT,Vermont,1,U.S. President,,1992,caucus,false,REP,DEM,3/31/92,12/18/19 13:03,11/15/21 12:43
+9504,SenateRace,VA,Virginia,548,U.S. Senate,Class I,2024,general,false,DEM,,11/5/24,9/28/22 10:47,9/28/22 10:47
 6958,PresidentialRace,HI,Hawaii,1,U.S. President,,1992,caucus,false,REP,REP,3/10/92,12/18/19 13:03,11/15/21 12:43
 6959,PresidentialRace,AK,Alaska,1,U.S. President,,1992,caucus,false,REP,DEM,4/2/92,12/18/19 13:03,11/15/21 12:43
 6960,PresidentialRace,KS,Kansas,1,U.S. President,,1992,primary,false,REP,DEM,4/7/92,12/18/19 13:03,11/15/21 12:43
