@@ -6698,6 +6698,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 7024,PresidentialRace,CT,Connecticut,1,U.S. President,,1996,primary,false,DEM,DEM,3/5/96,12/18/19 13:04,11/15/21 12:43
 7025,PresidentialRace,CT,Connecticut,1,U.S. President,,1996,primary,false,DEM,REP,3/5/96,12/18/19 13:04,11/15/21 12:43
 7026,PresidentialRace,GA,Georgia,1,U.S. President,,1996,primary,false,DEM,DEM,3/5/96,12/18/19 13:04,11/15/21 12:43
+9505,SenateRace,AZ,Arizona,32,U.S. Senate,Class I,2024,general,false,DEM,,11/5/24,9/29/22 10:43,9/29/22 10:43
 7028,PresidentialRace,ID,Idaho,1,U.S. President,,1996,caucus,false,DEM,DEM,3/5/96,12/18/19 13:04,11/15/21 12:43
 7029,PresidentialRace,ME,Maine,1,U.S. President,,1996,primary,false,DEM,DEM,3/5/96,12/18/19 13:04,11/15/21 12:43
 7030,PresidentialRace,ME,Maine,1,U.S. President,,1996,primary,false,DEM,REP,3/5/96,12/18/19 13:04,11/15/21 12:43
@@ -6765,6 +6766,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 7094,PresidentialRace,AR,Arkansas,1,U.S. President,,1996,primary,false,DEM,DEM,5/21/96,12/18/19 13:04,11/15/21 12:43
 7095,PresidentialRace,AR,Arkansas,1,U.S. President,,1996,primary,false,DEM,REP,5/21/96,12/18/19 13:04,11/15/21 12:43
 7096,PresidentialRace,ID,Idaho,1,U.S. President,,1996,primary,false,DEM,REP,5/28/96,12/18/19 13:04,11/15/21 12:43
+9506,SenateRace,CA,California,88,U.S. Senate,Class I,2024,general,false,DEM,,11/5/24,9/29/22 10:43,9/29/22 10:43
 7098,PresidentialRace,KY,Kentucky,1,U.S. President,,1996,primary,false,DEM,REP,5/28/96,12/18/19 13:04,11/15/21 12:43
 7099,PresidentialRace,AL,Alabama,1,U.S. President,,1996,primary,false,DEM,DEM,6/4/96,12/18/19 13:04,11/15/21 12:43
 7100,PresidentialRace,AL,Alabama,1,U.S. President,,1996,primary,false,DEM,REP,6/4/96,12/18/19 13:04,11/15/21 12:43
@@ -6832,6 +6834,8 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 7164,PresidentialRace,MN,Minnesota,1,U.S. President,,2000,caucus,false,DEM,DEM,3/11/00,12/18/19 13:04,11/15/21 12:43
 7165,PresidentialRace,NV,Nevada,1,U.S. President,,2000,caucus,false,DEM,DEM,3/12/00,12/18/19 13:04,11/15/21 12:43
 7166,PresidentialRace,FL,Florida,1,U.S. President,,2000,primary,false,DEM,DEM,3/14/00,12/18/19 13:04,11/15/21 12:43
+9507,SenateRace,CT,Connecticut,106,U.S. Senate,Class I,2024,general,false,DEM,,11/5/24,9/29/22 10:43,9/29/22 10:43
+9508,SenateRace,DE,Delaware,110,U.S. Senate,Class I,2024,general,false,DEM,,11/5/24,9/29/22 10:43,9/29/22 10:43
 7168,PresidentialRace,LA,Louisiana,1,U.S. President,,2000,primary,false,DEM,DEM,3/14/00,12/18/19 13:04,11/15/21 12:43
 7169,PresidentialRace,LA,Louisiana,1,U.S. President,,2000,primary,false,DEM,REP,3/14/00,12/18/19 13:04,11/15/21 12:43
 7170,PresidentialRace,MS,Mississippi,1,U.S. President,,2000,primary,false,DEM,DEM,3/14/00,12/18/19 13:04,11/15/21 12:43
@@ -6898,6 +6902,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 7234,PresidentialRace,AZ,Arizona,1,U.S. President,,2004,primary,false,REP,DEM,2/3/04,12/18/19 13:05,11/15/21 12:43
 7235,PresidentialRace,DE,Delaware,1,U.S. President,,2004,primary,false,REP,DEM,2/3/04,12/18/19 13:05,11/15/21 12:43
 7236,PresidentialRace,MO,Missouri,1,U.S. President,,2004,primary,false,REP,DEM,2/3/04,12/18/19 13:05,11/15/21 12:43
+9509,SenateRace,FL,Florida,138,U.S. Senate,Class I,2024,general,false,REP,,11/5/24,9/29/22 10:43,9/29/22 10:43
 7238,PresidentialRace,NM,New Mexico,1,U.S. President,,2004,caucus,false,REP,DEM,2/3/04,12/18/19 13:05,11/15/21 12:43
 7239,PresidentialRace,ND,North Dakota,1,U.S. President,,2004,caucus,false,REP,DEM,2/3/04,12/18/19 13:05,11/15/21 12:43
 7240,PresidentialRace,ND,North Dakota,1,U.S. President,,2004,caucus,false,REP,REP,2/3/04,12/18/19 13:05,11/15/21 12:43
@@ -6965,6 +6970,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 7305,PresidentialRace,NE,Nebraska,1,U.S. President,,2004,primary,false,REP,REP,5/11/04,12/18/19 13:05,11/15/21 12:43
 7306,PresidentialRace,WV,West Virginia,1,U.S. President,,2004,primary,false,REP,DEM,5/11/04,12/18/19 13:05,11/15/21 12:43
 7307,PresidentialRace,WV,West Virginia,1,U.S. President,,2004,primary,false,REP,REP,5/11/04,12/18/19 13:05,11/15/21 12:43
+9510,SenateRace,HI,Hawaii,159,U.S. Senate,Class I,2024,general,false,DEM,,11/5/24,9/29/22 10:43,9/29/22 10:43
 7309,PresidentialRace,AR,Arkansas,1,U.S. President,,2004,primary,false,REP,REP,5/18/04,12/18/19 13:05,11/15/21 12:43
 7310,PresidentialRace,KY,Kentucky,1,U.S. President,,2004,primary,false,REP,DEM,5/18/04,12/18/19 13:05,11/15/21 12:43
 7311,PresidentialRace,KY,Kentucky,1,U.S. President,,2004,primary,false,REP,REP,5/18/04,12/18/19 13:05,11/15/21 12:43
@@ -7032,6 +7038,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 7375,PresidentialRace,NJ,New Jersey,1,U.S. President,,2008,primary,false,REP,REP,2/5/08,12/18/19 13:05,11/15/21 12:43
 7376,PresidentialRace,NM,New Mexico,1,U.S. President,,2008,primary,false,REP,DEM,2/5/08,12/18/19 13:05,11/15/21 12:43
 7377,PresidentialRace,NY,New York,1,U.S. President,,2008,primary,false,REP,DEM,2/5/08,12/18/19 13:05,11/15/21 12:43
+9511,SenateRace,IN,Indiana,206,U.S. Senate,Class I,2024,general,false,REP,,11/5/24,9/29/22 10:43,9/29/22 10:43
 7379,PresidentialRace,OK,Oklahoma,1,U.S. President,,2008,primary,false,REP,DEM,2/5/08,12/18/19 13:05,11/15/21 12:43
 7380,PresidentialRace,OK,Oklahoma,1,U.S. President,,2008,primary,false,REP,REP,2/5/08,12/18/19 13:05,11/15/21 12:43
 7381,PresidentialRace,TN,Tennessee,1,U.S. President,,2008,primary,false,REP,DEM,2/5/08,12/18/19 13:05,11/15/21 12:43
@@ -7099,6 +7106,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 7446,PresidentialRace,NV,Nevada,1,U.S. President,,2012,caucus,false,DEM,DEM,1/21/12,12/18/19 13:06,11/15/21 12:43
 7447,PresidentialRace,SC,South Carolina,1,U.S. President,,2012,primary,false,DEM,REP,1/21/12,12/18/19 13:06,11/15/21 12:43
 7448,PresidentialRace,ME,Maine,1,U.S. President,,2012,caucus,false,DEM,REP,2/11/12,12/18/19 13:06,11/15/21 12:43
+9512,SenateRace,ME,Maine,261,U.S. Senate,Class I,2024,general,false,IND,,11/5/24,9/29/22 10:43,9/29/22 10:43
 7449,PresidentialRace,FL,Florida,1,U.S. President,,2012,primary,false,DEM,DEM,1/31/12,12/18/19 13:06,11/15/21 12:43
 7450,PresidentialRace,FL,Florida,1,U.S. President,,2012,primary,false,DEM,REP,1/31/12,12/18/19 13:06,11/15/21 12:43
 7451,PresidentialRace,NV,Nevada,1,U.S. President,,2012,caucus,false,DEM,REP,2/4/12,12/18/19 13:06,11/15/21 12:43
@@ -7166,6 +7174,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 7516,PresidentialRace,DE,Delaware,1,U.S. President,,2012,primary,false,DEM,REP,4/24/12,12/18/19 13:06,11/15/21 12:43
 7517,PresidentialRace,NY,New York,1,U.S. President,,2012,primary,false,DEM,DEM,4/24/12,12/18/19 13:06,11/15/21 12:43
 7518,PresidentialRace,NY,New York,1,U.S. President,,2012,primary,false,DEM,REP,4/24/12,12/18/19 13:06,11/15/21 12:43
+9513,SenateRace,MD,Maryland,256,U.S. Senate,Class I,2024,general,false,DEM,,11/5/24,9/29/22 10:43,9/29/22 10:43
 7520,PresidentialRace,PA,Pennsylvania,1,U.S. President,,2012,primary,false,DEM,REP,4/24/12,12/18/19 13:06,11/15/21 12:43
 7521,PresidentialRace,RI,Rhode Island,1,U.S. President,,2012,primary,false,DEM,DEM,4/24/12,12/18/19 13:06,11/15/21 12:43
 7522,PresidentialRace,RI,Rhode Island,1,U.S. President,,2012,primary,false,DEM,REP,4/24/12,12/18/19 13:06,11/15/21 12:43
@@ -7233,6 +7242,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 7586,PresidentialRace,VT,Vermont,1,U.S. President,,2016,primary,false,DEM,REP,3/1/16,12/18/19 13:06,11/15/21 12:43
 7587,PresidentialRace,VA,Virginia,1,U.S. President,,2016,primary,false,DEM,DEM,3/1/16,12/18/19 13:06,11/15/21 12:43
 7588,PresidentialRace,VA,Virginia,1,U.S. President,,2016,primary,false,DEM,REP,3/1/16,12/18/19 13:06,11/15/21 12:43
+9514,SenateRace,MA,Massachusetts,245,U.S. Senate,Class I,2024,general,false,DEM,,11/5/24,9/29/22 10:43,9/29/22 10:43
 7590,PresidentialRace,KS,Kansas,1,U.S. President,,2016,caucus,false,DEM,DEM,3/5/16,12/18/19 13:06,11/15/21 12:43
 7591,PresidentialRace,KS,Kansas,1,U.S. President,,2016,caucus,false,DEM,REP,3/5/16,12/18/19 13:06,11/15/21 12:43
 7592,PresidentialRace,KY,Kentucky,1,U.S. President,,2016,caucus,false,DEM,REP,3/5/16,12/18/19 13:06,11/15/21 12:43
@@ -7300,6 +7310,8 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 7656,PresidentialRace,VI,Virgin Islands,1,U.S. President,,2016,caucus,false,DEM,DEM,6/4/16,12/18/19 13:07,11/15/21 12:43
 7657,PresidentialRace,PR,Puerto Rico,1,U.S. President,,2016,caucus,false,DEM,DEM,6/5/16,12/18/19 13:07,11/15/21 12:43
 7658,PresidentialRace,CA,California,1,U.S. President,,2016,primary,false,DEM,DEM,6/7/16,12/18/19 13:07,11/15/21 12:43
+9515,SenateRace,MI,Michigan,279,U.S. Senate,Class I,2024,general,false,DEM,,11/5/24,9/29/22 10:43,9/29/22 10:43
+9516,SenateRace,MN,Minnesota,290,U.S. Senate,Class I,2024,general,false,DEM,,11/5/24,9/29/22 10:43,9/29/22 10:43
 7686,PresidentialRace,DE,Delaware,1,U.S. President,,2020,primary,false,REP,REP,7/7/20,12/18/19 13:07,11/15/21 12:43
 7659,PresidentialRace,CA,California,1,U.S. President,,2016,primary,false,DEM,REP,6/7/16,12/18/19 13:07,11/15/21 12:43
 7660,PresidentialRace,MT,Montana,1,U.S. President,,2016,primary,false,DEM,DEM,6/7/16,12/18/19 13:07,11/15/21 12:43
@@ -7366,6 +7378,8 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 7728,PresidentialRace,NE,Nebraska,1,U.S. President,,2020,primary,false,REP,REP,5/12/20,12/18/19 13:07,11/15/21 12:43
 7729,PresidentialRace,NH,New Hampshire,1,U.S. President,,2020,primary,false,REP,DEM,2/11/20,12/18/19 13:07,11/15/21 12:43
 7730,PresidentialRace,NH,New Hampshire,1,U.S. President,,2020,primary,false,REP,REP,2/11/20,12/18/19 13:07,11/15/21 12:43
+9517,SenateRace,MS,Mississippi,309,U.S. Senate,Class I,2024,general,false,REP,,11/5/24,9/29/22 10:43,9/29/22 10:43
+9518,SenateRace,MO,Missouri,302,U.S. Senate,Class I,2024,general,false,REP,,11/5/24,9/29/22 10:43,9/29/22 10:43
 7780,SenateRace,GA,Georgia,155,U.S. Senate,Class III,2020,jungle primary,true,REP,,11/3/20,12/18/19 13:08,12/18/19 13:08
 7781,SenateRace,GA,Georgia,155,U.S. Senate,Class III,2020,runoff,true,REP,,1/5/21,12/18/19 13:08,12/18/19 13:08
 7732,PresidentialRace,NJ,New Jersey,1,U.S. President,,2020,primary,false,REP,REP,6/2/20,12/18/19 13:07,11/15/21 12:43
@@ -7432,6 +7446,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 7801,SenateRace,NH,New Hampshire,344,U.S. Senate,Class II,2020,primary,false,DEM,REP,9/8/20,12/18/19 13:08,11/15/21 12:43
 7802,SenateRace,NJ,New Jersey,361,U.S. Senate,Class II,2020,primary,false,DEM,REP,6/2/20,12/18/19 13:08,11/15/21 12:43
 7803,SenateRace,NM,New Mexico,367,U.S. Senate,Class II,2020,primary,false,DEM,REP,6/2/20,12/18/19 13:08,11/15/21 12:43
+9519,SenateRace,MT,Montana,313,U.S. Senate,Class I,2024,general,false,DEM,,11/5/24,9/29/22 10:43,9/29/22 10:43
 7818,GubernatorialRace,DE,Delaware,108,Governor,,2020,general,false,DEM,,11/3/20,12/18/19 13:08,12/18/19 13:08
 7819,GubernatorialRace,IN,Indiana,196,Governor,,2020,general,false,REP,,11/3/20,12/18/19 13:08,12/18/19 13:08
 7820,GubernatorialRace,MO,Missouri,292,Governor,,2020,general,false,REP,,11/3/20,12/18/19 13:08,12/18/19 13:08
@@ -7557,9 +7572,12 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 8000,HouseRace,KY,Kentucky,220,U.S. House,District 5,2020,general,false,REP,,11/3/20,12/18/19 13:09,12/18/19 13:09
 8001,HouseRace,KY,Kentucky,221,U.S. House,District 6,2020,general,false,REP,,11/3/20,12/18/19 13:09,12/18/19 13:09
 8002,HouseRace,LA,Louisiana,225,U.S. House,District 1,2020,jungle primary,false,REP,,11/3/20,12/18/19 13:09,12/18/19 13:09
+9520,SenateRace,NE,Nebraska,339,U.S. Senate,Class I,2024,general,false,REP,,11/5/24,9/29/22 10:43,9/29/22 10:43
 8004,HouseRace,LA,Louisiana,226,U.S. House,District 2,2020,jungle primary,false,DEM,,11/3/20,12/18/19 13:09,12/18/19 13:09
 8006,HouseRace,LA,Louisiana,227,U.S. House,District 3,2020,jungle primary,false,REP,,11/3/20,12/18/19 13:09,12/18/19 13:09
+9521,SenateRace,NV,Nevada,372,U.S. Senate,Class I,2024,general,false,DEM,,11/5/24,9/29/22 10:43,9/29/22 10:43
 8008,HouseRace,LA,Louisiana,228,U.S. House,District 4,2020,jungle primary,false,REP,,11/3/20,12/18/19 13:09,12/18/19 13:09
+9522,SenateRace,NJ,New Jersey,360,U.S. Senate,Class I,2024,general,false,DEM,,11/5/24,9/29/22 10:43,9/29/22 10:43
 8010,HouseRace,LA,Louisiana,229,U.S. House,District 5,2020,jungle primary,false,REP,,11/3/20,12/18/19 13:09,12/18/19 13:09
 8011,HouseRace,LA,Louisiana,229,U.S. House,District 5,2020,runoff,false,REP,,12/5/20,12/18/19 13:09,12/18/19 13:09
 8012,HouseRace,LA,Louisiana,230,U.S. House,District 6,2020,jungle primary,false,REP,,11/3/20,12/18/19 13:09,12/18/19 13:09
@@ -7595,6 +7613,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 8042,HouseRace,MI,Michigan,273,U.S. House,District 10,2020,general,false,REP,,11/3/20,12/18/19 13:09,12/18/19 13:09
 8043,HouseRace,MI,Michigan,274,U.S. House,District 11,2020,general,false,DEM,,11/3/20,12/18/19 13:09,12/18/19 13:09
 8044,HouseRace,MI,Michigan,275,U.S. House,District 12,2020,general,false,DEM,,11/3/20,12/18/19 13:09,12/18/19 13:09
+9523,SenateRace,NM,New Mexico,366,U.S. Senate,Class I,2024,general,false,DEM,,11/5/24,9/29/22 10:43,9/29/22 10:43
 8046,HouseRace,MI,Michigan,277,U.S. House,District 14,2020,general,false,DEM,,11/3/20,12/18/19 13:09,12/18/19 13:09
 8047,HouseRace,MN,Minnesota,282,U.S. House,District 1,2020,general,false,REP,,11/3/20,12/18/19 13:09,12/18/19 13:09
 8048,HouseRace,MN,Minnesota,283,U.S. House,District 2,2020,general,false,DEM,,11/3/20,12/18/19 13:09,12/18/19 13:09
@@ -7667,6 +7686,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 8115,HouseRace,NY,New York,398,U.S. House,District 24,2020,general,false,REP,,11/3/20,12/18/19 13:10,12/18/19 13:10
 8116,HouseRace,NY,New York,399,U.S. House,District 25,2020,general,false,DEM,,11/3/20,12/18/19 13:10,12/18/19 13:10
 8117,HouseRace,NY,New York,400,U.S. House,District 26,2020,general,false,DEM,,11/3/20,12/18/19 13:10,12/18/19 13:10
+9524,SenateRace,NY,New York,404,U.S. Senate,Class I,2024,general,false,DEM,,11/5/24,9/29/22 10:43,9/29/22 10:43
 8119,HouseRace,NC,North Carolina,316,U.S. House,District 1,2020,general,false,DEM,,11/3/20,12/18/19 13:10,12/18/19 13:10
 8120,HouseRace,NC,North Carolina,317,U.S. House,District 2,2020,general,false,REP,,11/3/20,12/18/19 13:10,12/18/19 13:10
 8121,HouseRace,NC,North Carolina,318,U.S. House,District 3,2020,general,false,REP,,11/3/20,12/18/19 13:10,12/18/19 13:10
@@ -7815,6 +7835,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 8264,HouseRace,WI,Wisconsin,570,U.S. House,District 4,2020,general,false,DEM,,11/3/20,12/18/19 13:10,12/18/19 13:10
 8265,HouseRace,WI,Wisconsin,571,U.S. House,District 5,2020,general,false,REP,,11/3/20,12/18/19 13:10,12/18/19 13:10
 8266,HouseRace,WI,Wisconsin,572,U.S. House,District 6,2020,general,false,REP,,11/3/20,12/18/19 13:10,12/18/19 13:10
+9525,SenateRace,ND,North Dakota,333,U.S. Senate,Class I,2024,general,false,REP,,11/5/24,9/29/22 10:43,9/29/22 10:43
 8268,HouseRace,WI,Wisconsin,574,U.S. House,District 8,2020,general,false,REP,,11/3/20,12/18/19 13:10,12/18/19 13:10
 8269,HouseRace,WY,Wyoming,584,U.S. House,District 1,2020,general,false,REP,,11/3/20,12/18/19 13:10,12/18/19 13:10
 8270,GenericHouseRace,"",,587,U.S. House,Generic,2012,general,false,"",,11/6/12,12/23/19 12:24,12/23/19 12:24
@@ -7893,6 +7914,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 8343,PresidentialRace,NY,New York,1,U.S. President,,1944,general,false,DEM,,11/7/44,12/23/19 12:24,12/23/19 12:24
 8344,PresidentialRace,OH,Ohio,1,U.S. President,,1944,general,false,DEM,,11/7/44,12/23/19 12:24,12/23/19 12:24
 8345,PresidentialRace,OK,Oklahoma,1,U.S. President,,1944,general,false,DEM,,11/7/44,12/23/19 12:24,12/23/19 12:24
+9526,SenateRace,OH,Ohio,425,U.S. Senate,Class I,2024,general,false,DEM,,11/5/24,9/29/22 10:43,9/29/22 10:43
 8346,PresidentialRace,OR,Oregon,1,U.S. President,,1944,general,false,DEM,,11/7/44,12/23/19 12:24,12/23/19 12:24
 8347,PresidentialRace,PA,Pennsylvania,1,U.S. President,,1944,general,false,DEM,,11/7/44,12/23/19 12:24,12/23/19 12:24
 8348,PresidentialRace,RI,Rhode Island,1,U.S. President,,1944,general,false,DEM,,11/7/44,12/23/19 12:24,12/23/19 12:24
@@ -7964,6 +7986,8 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 8414,PresidentialRace,MI,Michigan,1,U.S. President,,1952,general,false,DEM,,11/4/52,12/23/19 12:25,12/23/19 12:25
 8415,PresidentialRace,NY,New York,1,U.S. President,,1952,general,false,DEM,,11/4/52,12/23/19 12:25,12/23/19 12:25
 8416,PresidentialRace,CA,California,1,U.S. President,,1952,general,false,DEM,,11/4/52,12/23/19 12:25,12/23/19 12:25
+9527,SenateRace,PA,Pennsylvania,463,U.S. Senate,Class I,2024,general,false,DEM,,11/5/24,9/29/22 10:43,9/29/22 10:43
+9528,SenateRace,RI,Rhode Island,468,U.S. Senate,Class I,2024,general,false,DEM,,11/5/24,9/29/22 10:43,9/29/22 10:43
 8422,PresidentialRace,M1,Maine CD-1,1,U.S. President,,2020,general,false,REP,,11/3/20,12/23/19 12:25,12/23/19 12:25
 8423,PresidentialRace,M2,Maine CD-2,1,U.S. President,,2020,general,false,REP,,11/3/20,12/23/19 12:25,12/23/19 12:25
 8426,SenateRace,AK,Alaska,5,U.S. Senate,Class III,1992,general,false,REP,,11/3/92,12/23/19 12:25,12/23/19 12:25
@@ -7975,6 +7999,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 8421,PresidentialRace,NV,Nevada,1,U.S. President,,2020,caucus,false,REP,REP,,12/23/19 12:25,11/15/21 12:43
 8428,SenateRace,AL,Alabama,14,U.S. Senate,Class II,1996,general,false,DEM,,11/5/96,12/23/19 12:25,12/23/19 12:25
 8429,SenateRace,AL,Alabama,15,U.S. Senate,Class III,1992,general,false,DEM,,11/3/92,12/23/19 12:25,12/23/19 12:25
+9529,SenateRace,TN,Tennessee,493,U.S. Senate,Class I,2024,general,false,REP,,11/5/24,9/29/22 10:43,9/29/22 10:43
 8431,SenateRace,AR,Arkansas,21,U.S. Senate,Class II,1996,general,false,DEM,,11/5/96,12/23/19 12:25,12/23/19 12:25
 8432,SenateRace,AR,Arkansas,22,U.S. Senate,Class III,1992,general,false,DEM,,11/3/92,12/23/19 12:25,12/23/19 12:25
 8434,SenateRace,AZ,Arizona,32,U.S. Senate,Class I,1994,general,false,DEM,,11/8/94,12/23/19 12:25,12/23/19 12:25
@@ -8051,6 +8076,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 8502,SenateRace,MD,Maryland,257,U.S. Senate,Class III,2016,primary,false,DEM,REP,4/26/16,12/23/19 12:25,11/15/21 12:43
 8506,SenateRace,ME,Maine,262,U.S. Senate,Class II,2014,primary,false,REP,REP,6/10/14,12/23/19 12:25,11/15/21 12:43
 8509,SenateRace,MI,Michigan,280,U.S. Senate,Class II,1996,general,false,DEM,,11/5/96,12/23/19 12:25,12/23/19 12:25
+9530,SenateRace,TX,Texas,528,U.S. Senate,Class I,2024,general,false,REP,,11/5/24,9/29/22 10:43,9/29/22 10:43
 8512,SenateRace,MN,Minnesota,290,U.S. Senate,Class I,1994,general,false,REP,,11/8/94,12/23/19 12:25,12/23/19 12:25
 8513,SenateRace,MN,Minnesota,291,U.S. Senate,Class II,1990,general,false,REP,,11/6/90,12/23/19 12:25,12/23/19 12:25
 8514,SenateRace,MN,Minnesota,291,U.S. Senate,Class II,1996,general,false,DEM,,11/5/96,12/23/19 12:25,12/23/19 12:25
@@ -8130,9 +8156,12 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 8589,SenateRace,TN,Tennessee,493,U.S. Senate,Class I,1994,general,false,DEM,,11/8/94,12/23/19 12:25,12/23/19 12:25
 8590,SenateRace,TN,Tennessee,494,U.S. Senate,Class II,1994,general,true,DEM,,11/8/94,12/23/19 12:25,12/23/19 12:25
 8591,SenateRace,TN,Tennessee,494,U.S. Senate,Class II,1996,general,false,REP,,11/5/96,12/23/19 12:25,12/23/19 12:25
+9531,SenateRace,UT,Utah,534,U.S. Senate,Class I,2024,general,false,REP,,11/5/24,9/29/22 10:43,9/29/22 10:43
 8593,SenateRace,TX,Texas,528,U.S. Senate,Class I,1994,general,false,REP,,11/8/94,12/23/19 12:25,12/23/19 12:25
 8594,SenateRace,TX,Texas,529,U.S. Senate,Class II,1990,general,false,REP,,11/6/90,12/23/19 12:25,12/23/19 12:25
 8595,SenateRace,TX,Texas,529,U.S. Senate,Class II,1996,general,false,REP,,11/5/96,12/23/19 12:25,12/23/19 12:25
+9532,SenateRace,VT,Vermont,552,U.S. Senate,Class I,2024,general,false,IND,,11/5/24,9/29/22 10:43,9/29/22 10:43
+9533,SenateRace,WA,Washington,564,U.S. Senate,Class I,2024,general,false,DEM,,11/5/24,9/29/22 10:43,9/29/22 10:43
 8600,SenateRace,UT,Utah,534,U.S. Senate,Class I,1994,general,false,REP,,11/8/94,12/23/19 12:26,12/23/19 12:26
 8601,SenateRace,UT,Utah,535,U.S. Senate,Class III,1992,general,false,REP,,11/3/92,12/23/19 12:26,12/23/19 12:26
 8602,SenateRace,VA,Virginia,548,U.S. Senate,Class I,1994,general,false,DEM,,11/8/94,12/23/19 12:26,12/23/19 12:26
@@ -8250,6 +8279,8 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 8717,PresidentialRace,N1,Nebraska CD-1,1,U.S. President,,2020,general,false,REP,,11/3/20,3/25/20 12:41,3/25/20 12:41
 8718,PresidentialRace,N2,Nebraska CD-2,1,U.S. President,,2020,general,false,REP,,11/3/20,3/25/20 12:41,3/25/20 12:41
 8719,PresidentialRace,N3,Nebraska CD-3,1,U.S. President,,2020,general,false,REP,,11/3/20,3/25/20 12:42,3/25/20 12:42
+9534,SenateRace,WI,Wisconsin,575,U.S. Senate,Class I,2024,general,false,DEM,,11/5/24,9/29/22 10:43,9/29/22 10:43
+9535,SenateRace,WY,Wyoming,585,U.S. Senate,Class I,2024,general,false,REP,,11/5/24,9/29/22 10:43,9/29/22 10:43
 8722,HouseRace,MS,Mississippi,305,U.S. House,District 1,2015,runoff,true,vacant,,6/2/15,4/17/20 13:56,10/14/21 11:14
 8721,PresidentialRace,WA,Washington,1,U.S. President,,1992,primary,false,REP,DEM,5/19/92,4/17/20 13:56,11/15/21 12:43
 6416,PresidentialRace,"",,1,U.S. President,,1984,primary,false,REP,REP,,12/18/19 13:01,11/15/21 12:43
@@ -8265,6 +8296,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 6426,PresidentialRace,"",,1,U.S. President,,2004,primary,false,REP,REP,,12/18/19 13:01,11/15/21 12:43
 6428,PresidentialRace,"",,1,U.S. President,,2008,primary,false,REP,REP,,12/18/19 13:01,11/15/21 12:43
 8754,PresidentialRace,AL,Alabama,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
+9536,GubernatorialRace,VI,Virgin Islands,684,Governor,,2022,general,false,DEM,,11/8/22,9/30/22 19:25,9/30/22 19:25
 8440,SenateRace,CA,California,89,U.S. Senate,Class III,2016,top two primary,false,DEM,,6/7/16,12/23/19 12:25,12/23/19 12:25
 8660,HouseRace,CA,California,84,U.S. House,District 50,2020,top two primary,false,REP,,3/3/20,3/25/20 12:41,3/25/20 12:41
 8729,GubernatorialRace,WA,Washington,554,Governor,,2020,general,false,DEM,,11/3/20,5/21/20 08:24,5/21/20 08:24
