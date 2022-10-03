@@ -6108,7 +6108,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 6483,PresidentialRace,DA,Democrats Abroad,1,U.S. President,,1972,caucus,false,REP,DEM,5/24/72,12/18/19 13:01,11/15/21 12:43
 6484,PresidentialRace,GU,Guam,1,U.S. President,,1972,caucus,false,REP,DEM,5/27/72,12/18/19 13:01,11/15/21 12:43
 6485,PresidentialRace,PR,Puerto Rico,1,U.S. President,,1972,caucus,false,REP,DEM,6/17/72,12/18/19 13:01,11/15/21 12:43
-6486,PresidentialRace,VI,Virgin Islands,1,U.S. President,,1972,caucus,false,REP,DEM,5/27/72,12/18/19 13:01,11/15/21 12:43
+6486,PresidentialRace,VI,U.S. Virgin Islands,1,U.S. President,,1972,caucus,false,REP,DEM,5/27/72,12/18/19 13:01,11/15/21 12:43
 6487,PresidentialRace,IA,Iowa,1,U.S. President,,1976,caucus,false,REP,DEM,1/19/76,12/18/19 13:01,11/15/21 12:43
 6488,PresidentialRace,IA,Iowa,1,U.S. President,,1976,caucus,false,REP,REP,1/19/76,12/18/19 13:01,11/15/21 12:43
 6489,PresidentialRace,MS,Mississippi,1,U.S. President,,1976,caucus,false,REP,DEM,1/24/76,12/18/19 13:01,11/15/21 12:43
@@ -6209,7 +6209,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 6588,PresidentialRace,DA,Democrats Abroad,1,U.S. President,,1976,caucus,false,REP,DEM,5/24/76,12/18/19 13:01,11/15/21 12:43
 6589,PresidentialRace,GU,Guam,1,U.S. President,,1976,caucus,false,REP,DEM,5/1/76,12/18/19 13:01,11/15/21 12:43
 6590,PresidentialRace,PR,Puerto Rico,1,U.S. President,,1976,caucus,false,REP,DEM,2/22/76,12/18/19 13:01,11/15/21 12:43
-6591,PresidentialRace,VI,Virgin Islands,1,U.S. President,,1976,caucus,false,REP,DEM,4/24/76,12/18/19 13:01,11/15/21 12:43
+6591,PresidentialRace,VI,U.S. Virgin Islands,1,U.S. President,,1976,caucus,false,REP,DEM,4/24/76,12/18/19 13:01,11/15/21 12:43
 6592,PresidentialRace,IA,Iowa,1,U.S. President,,1980,caucus,false,DEM,DEM,1/21/80,12/18/19 13:01,11/15/21 12:43
 6593,PresidentialRace,IA,Iowa,1,U.S. President,,1980,caucus,false,DEM,REP,1/21/80,12/18/19 13:01,11/15/21 12:43
 6594,PresidentialRace,HI,Hawaii,1,U.S. President,,1980,caucus,false,DEM,REP,1/22/80,12/18/19 13:02,11/15/21 12:43
@@ -6310,11 +6310,11 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 6694,PresidentialRace,DA,Democrats Abroad,1,U.S. President,,1980,caucus,false,DEM,DEM,5/22/80,12/18/19 13:02,11/15/21 12:43
 6695,PresidentialRace,GU,Guam,1,U.S. President,,1980,caucus,false,DEM,DEM,5/3/80,12/18/19 13:02,11/15/21 12:43
 6696,PresidentialRace,PR,Puerto Rico,1,U.S. President,,1980,primary,false,DEM,DEM,3/16/80,12/18/19 13:02,11/15/21 12:43
-6697,PresidentialRace,VI,Virgin Islands,1,U.S. President,,1980,caucus,false,DEM,DEM,5/31/80,12/18/19 13:02,11/15/21 12:43
+6697,PresidentialRace,VI,U.S. Virgin Islands,1,U.S. President,,1980,caucus,false,DEM,DEM,5/31/80,12/18/19 13:02,11/15/21 12:43
 6698,PresidentialRace,DC,District of Columbia,1,U.S. President,,1980,primary,false,DEM,REP,5/6/80,12/18/19 13:02,11/15/21 12:43
 6699,PresidentialRace,GU,Guam,1,U.S. President,,1980,caucus,false,DEM,REP,5/3/80,12/18/19 13:02,11/15/21 12:43
 6700,PresidentialRace,PR,Puerto Rico,1,U.S. President,,1980,primary,false,DEM,REP,2/17/80,12/18/19 13:02,11/15/21 12:43
-6701,PresidentialRace,VI,Virgin Islands,1,U.S. President,,1980,caucus,false,DEM,REP,5/3/80,12/18/19 13:02,11/15/21 12:43
+6701,PresidentialRace,VI,U.S. Virgin Islands,1,U.S. President,,1980,caucus,false,DEM,REP,5/3/80,12/18/19 13:02,11/15/21 12:43
 6702,PresidentialRace,IA,Iowa,1,U.S. President,,1984,caucus,false,REP,DEM,2/20/84,12/18/19 13:02,11/15/21 12:43
 6703,PresidentialRace,IA,Iowa,1,U.S. President,,1984,caucus,false,REP,REP,2/20/84,12/18/19 13:02,11/15/21 12:43
 6704,PresidentialRace,NH,New Hampshire,1,U.S. President,,1984,primary,false,REP,DEM,2/28/84,12/18/19 13:02,11/15/21 12:43
@@ -6396,7 +6396,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 6784,PresidentialRace,DA,Democrats Abroad,1,U.S. President,,1984,caucus,false,REP,DEM,3/13/84,12/18/19 13:02,11/15/21 12:43
 6785,PresidentialRace,GU,Guam,1,U.S. President,,1984,caucus,false,REP,DEM,4/28/84,12/18/19 13:02,11/15/21 12:43
 6786,PresidentialRace,PR,Puerto Rico,1,U.S. President,,1984,primary,false,REP,DEM,3/18/84,12/18/19 13:02,11/15/21 12:43
-6787,PresidentialRace,VI,Virgin Islands,1,U.S. President,,1984,caucus,false,REP,DEM,3/31/84,12/18/19 13:02,11/15/21 12:43
+6787,PresidentialRace,VI,U.S. Virgin Islands,1,U.S. President,,1984,caucus,false,REP,DEM,3/31/84,12/18/19 13:02,11/15/21 12:43
 6788,PresidentialRace,MI,Michigan,1,U.S. President,,1988,caucus,false,REP,REP,1/14/88,12/18/19 13:02,11/15/21 12:43
 6789,PresidentialRace,KS,Kansas,1,U.S. President,,1988,caucus,false,REP,REP,2/7/88,12/18/19 13:02,11/15/21 12:43
 6790,PresidentialRace,HI,Hawaii,1,U.S. President,,1988,caucus,false,REP,REP,2/4/88,12/18/19 13:02,11/15/21 12:43
@@ -6536,11 +6536,11 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 6893,PresidentialRace,DA,Democrats Abroad,1,U.S. President,,1988,caucus,false,REP,DEM,3/22/88,12/18/19 13:03,11/15/21 12:43
 6894,PresidentialRace,GU,Guam,1,U.S. President,,1988,caucus,false,REP,DEM,4/24/88,12/18/19 13:03,11/15/21 12:43
 6895,PresidentialRace,PR,Puerto Rico,1,U.S. President,,1988,primary,false,REP,DEM,3/20/88,12/18/19 13:03,11/15/21 12:43
-6896,PresidentialRace,VI,Virgin Islands,1,U.S. President,,1988,caucus,false,REP,DEM,4/2/88,12/18/19 13:03,11/15/21 12:43
+6896,PresidentialRace,VI,U.S. Virgin Islands,1,U.S. President,,1988,caucus,false,REP,DEM,4/2/88,12/18/19 13:03,11/15/21 12:43
 6897,PresidentialRace,DC,District of Columbia,1,U.S. President,,1988,primary,false,REP,REP,5/3/88,12/18/19 13:03,11/15/21 12:43
 6898,PresidentialRace,GU,Guam,1,U.S. President,,1988,caucus,false,REP,REP,4/4/88,12/18/19 13:03,11/15/21 12:43
 6899,PresidentialRace,PR,Puerto Rico,1,U.S. President,,1988,primary,false,REP,REP,3/20/88,12/18/19 13:03,11/15/21 12:43
-6900,PresidentialRace,VI,Virgin Islands,1,U.S. President,,1988,caucus,false,REP,REP,4/30/88,12/18/19 13:03,11/15/21 12:43
+6900,PresidentialRace,VI,U.S. Virgin Islands,1,U.S. President,,1988,caucus,false,REP,REP,4/30/88,12/18/19 13:03,11/15/21 12:43
 6901,PresidentialRace,ND,North Dakota,1,U.S. President,,1992,caucus,false,REP,REP,6/9/92,12/18/19 13:03,11/15/21 12:43
 6902,PresidentialRace,NV,Nevada,1,U.S. President,,1992,caucus,false,REP,REP,2/29/92,12/18/19 13:03,11/15/21 12:43
 6903,PresidentialRace,IA,Iowa,1,U.S. President,,1992,caucus,false,REP,DEM,2/10/92,12/18/19 13:03,11/15/21 12:43
@@ -6677,7 +6677,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 7003,PresidentialRace,DA,Democrats Abroad,1,U.S. President,,1992,caucus,false,REP,DEM,3/9/92,12/18/19 13:04,11/15/21 12:43
 7004,PresidentialRace,GU,Guam,1,U.S. President,,1992,caucus,false,REP,DEM,5/3/92,12/18/19 13:04,11/15/21 12:43
 7005,PresidentialRace,PR,Puerto Rico,1,U.S. President,,1992,primary,false,REP,DEM,4/5/92,12/18/19 13:04,11/15/21 12:43
-7006,PresidentialRace,VI,Virgin Islands,1,U.S. President,,1992,caucus,false,REP,DEM,3/28/92,12/18/19 13:04,11/15/21 12:43
+7006,PresidentialRace,VI,U.S. Virgin Islands,1,U.S. President,,1992,caucus,false,REP,DEM,3/28/92,12/18/19 13:04,11/15/21 12:43
 7007,PresidentialRace,OH,Ohio,1,U.S. President,,1996,caucus,false,DEM,DEM,1/11/96,12/18/19 13:04,11/15/21 12:43
 7008,PresidentialRace,HI,Hawaii,1,U.S. President,,1996,caucus,false,DEM,REP,1/25/96,12/18/19 13:04,11/15/21 12:43
 7009,PresidentialRace,AK,Alaska,1,U.S. President,,1996,caucus,false,DEM,REP,1/29/96,12/18/19 13:04,11/15/21 12:43
@@ -6780,7 +6780,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 7108,PresidentialRace,DC,District of Columbia,1,U.S. President,,1996,primary,false,DEM,REP,5/7/96,12/18/19 13:04,11/15/21 12:43
 7109,PresidentialRace,AS,American Samoa,1,U.S. President,,1996,caucus,false,DEM,REP,3/5/96,12/18/19 13:04,11/15/21 12:43
 7111,PresidentialRace,PR,Puerto Rico,1,U.S. President,,1996,primary,false,DEM,REP,3/3/96,12/18/19 13:04,11/15/21 12:43
-7112,PresidentialRace,VI,Virgin Islands,1,U.S. President,,1996,caucus,false,DEM,REP,3/30/96,12/18/19 13:04,11/15/21 12:43
+7112,PresidentialRace,VI,U.S. Virgin Islands,1,U.S. President,,1996,caucus,false,DEM,REP,3/30/96,12/18/19 13:04,11/15/21 12:43
 7113,PresidentialRace,IA,Iowa,1,U.S. President,,2000,caucus,false,DEM,DEM,1/24/00,12/18/19 13:04,11/15/21 12:43
 7114,PresidentialRace,IA,Iowa,1,U.S. President,,2000,caucus,false,DEM,REP,1/24/00,12/18/19 13:04,11/15/21 12:43
 7115,PresidentialRace,NH,New Hampshire,1,U.S. President,,2000,primary,false,DEM,DEM,2/1/00,12/18/19 13:04,11/15/21 12:43
@@ -6885,12 +6885,12 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 7217,PresidentialRace,DA,Democrats Abroad,1,U.S. President,,2000,caucus,false,DEM,DEM,3/21/00,12/18/19 13:05,11/15/21 12:43
 7218,PresidentialRace,GU,Guam,1,U.S. President,,2000,caucus,false,DEM,DEM,3/18/00,12/18/19 13:05,11/15/21 12:43
 7219,PresidentialRace,PR,Puerto Rico,1,U.S. President,,2000,caucus,false,DEM,DEM,4/2/00,12/18/19 13:05,11/15/21 12:43
-7220,PresidentialRace,VI,Virgin Islands,1,U.S. President,,2000,caucus,false,DEM,DEM,4/1/00,12/18/19 13:05,11/15/21 12:43
+7220,PresidentialRace,VI,U.S. Virgin Islands,1,U.S. President,,2000,caucus,false,DEM,DEM,4/1/00,12/18/19 13:05,11/15/21 12:43
 7221,PresidentialRace,DC,District of Columbia,1,U.S. President,,2000,primary,false,DEM,REP,5/2/00,12/18/19 13:05,11/15/21 12:43
 7222,PresidentialRace,AS,American Samoa,1,U.S. President,,2000,caucus,false,DEM,REP,2/26/00,12/18/19 13:05,11/15/21 12:43
 7223,PresidentialRace,GU,Guam,1,U.S. President,,2000,caucus,false,DEM,REP,2/26/00,12/18/19 13:05,11/15/21 12:43
 7224,PresidentialRace,PR,Puerto Rico,1,U.S. President,,2000,primary,false,DEM,REP,2/27/00,12/18/19 13:05,11/15/21 12:43
-7225,PresidentialRace,VI,Virgin Islands,1,U.S. President,,2000,caucus,false,DEM,REP,2/26/00,12/18/19 13:05,11/15/21 12:43
+7225,PresidentialRace,VI,U.S. Virgin Islands,1,U.S. President,,2000,caucus,false,DEM,REP,2/26/00,12/18/19 13:05,11/15/21 12:43
 7226,PresidentialRace,ME,Maine,1,U.S. President,,2004,caucus,false,REP,REP,3/19/04,12/18/19 13:05,11/15/21 12:43
 7227,PresidentialRace,SC,South Carolina,1,U.S. President,,2004,caucus,false,REP,REP,2/21/04,12/18/19 13:05,11/15/21 12:43
 7228,PresidentialRace,IA,Iowa,1,U.S. President,,2004,caucus,false,REP,DEM,1/19/04,12/18/19 13:05,11/15/21 12:43
@@ -6989,7 +6989,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 7325,PresidentialRace,DA,Democrats Abroad,1,U.S. President,,2004,caucus,false,REP,DEM,2/9/04,12/18/19 13:05,11/15/21 12:43
 7326,PresidentialRace,GU,Guam,1,U.S. President,,2004,caucus,false,REP,DEM,4/24/04,12/18/19 13:05,11/15/21 12:43
 7327,PresidentialRace,PR,Puerto Rico,1,U.S. President,,2004,caucus,false,REP,DEM,6/6/04,12/18/19 13:05,11/15/21 12:43
-7328,PresidentialRace,VI,Virgin Islands,1,U.S. President,,2004,caucus,false,REP,DEM,4/17/04,12/18/19 13:05,11/15/21 12:43
+7328,PresidentialRace,VI,U.S. Virgin Islands,1,U.S. President,,2004,caucus,false,REP,DEM,4/17/04,12/18/19 13:05,11/15/21 12:43
 7329,PresidentialRace,IA,Iowa,1,U.S. President,,2008,caucus,false,REP,DEM,1/3/08,12/18/19 13:05,11/15/21 12:43
 7330,PresidentialRace,IA,Iowa,1,U.S. President,,2008,caucus,false,REP,REP,1/3/08,12/18/19 13:05,11/15/21 12:43
 7331,PresidentialRace,WY,Wyoming,1,U.S. President,,2008,caucus,false,REP,REP,1/5/08,12/18/19 13:05,11/15/21 12:43
@@ -7094,11 +7094,11 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 7433,PresidentialRace,DA,Democrats Abroad,1,U.S. President,,2008,caucus,false,REP,DEM,2/12/08,12/18/19 13:06,11/15/21 12:43
 7434,PresidentialRace,GU,Guam,1,U.S. President,,2008,caucus,false,REP,DEM,5/3/08,12/18/19 13:06,11/15/21 12:43
 7435,PresidentialRace,PR,Puerto Rico,1,U.S. President,,2008,primary,false,REP,DEM,6/1/08,12/18/19 13:06,11/15/21 12:43
-7436,PresidentialRace,VI,Virgin Islands,1,U.S. President,,2008,caucus,false,REP,DEM,4/5/08,12/18/19 13:06,11/15/21 12:43
+7436,PresidentialRace,VI,U.S. Virgin Islands,1,U.S. President,,2008,caucus,false,REP,DEM,4/5/08,12/18/19 13:06,11/15/21 12:43
 7437,PresidentialRace,AS,American Samoa,1,U.S. President,,2008,caucus,false,REP,REP,2/23/08,12/18/19 13:06,11/15/21 12:43
 7438,PresidentialRace,GU,Guam,1,U.S. President,,2008,caucus,false,REP,REP,3/8/08,12/18/19 13:06,11/15/21 12:43
 7439,PresidentialRace,MP,Northern Marianas Islands,1,U.S. President,,2008,caucus,false,REP,REP,2/23/08,12/18/19 13:06,11/15/21 12:43
-7441,PresidentialRace,VI,Virgin Islands,1,U.S. President,,2008,caucus,false,REP,REP,4/5/08,12/18/19 13:06,11/15/21 12:43
+7441,PresidentialRace,VI,U.S. Virgin Islands,1,U.S. President,,2008,caucus,false,REP,REP,4/5/08,12/18/19 13:06,11/15/21 12:43
 7442,PresidentialRace,IA,Iowa,1,U.S. President,,2012,caucus,false,DEM,DEM,1/3/12,12/18/19 13:06,11/15/21 12:43
 7443,PresidentialRace,IA,Iowa,1,U.S. President,,2012,caucus,false,DEM,REP,1/3/12,12/18/19 13:06,11/15/21 12:43
 7444,PresidentialRace,NH,New Hampshire,1,U.S. President,,2012,primary,false,DEM,DEM,1/10/12,12/18/19 13:06,11/15/21 12:43
@@ -7143,7 +7143,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 7483,PresidentialRace,GU,Guam,1,U.S. President,,2012,caucus,false,DEM,REP,3/10/12,12/18/19 13:06,11/15/21 12:43
 7484,PresidentialRace,KS,Kansas,1,U.S. President,,2012,caucus,false,DEM,REP,3/10/12,12/18/19 13:06,11/15/21 12:43
 7485,PresidentialRace,MP,Northern Marianas Islands,1,U.S. President,,2012,caucus,false,DEM,REP,3/10/12,12/18/19 13:06,11/15/21 12:43
-7486,PresidentialRace,VI,Virgin Islands,1,U.S. President,,2012,caucus,false,DEM,REP,3/10/12,12/18/19 13:06,11/15/21 12:43
+7486,PresidentialRace,VI,U.S. Virgin Islands,1,U.S. President,,2012,caucus,false,DEM,REP,3/10/12,12/18/19 13:06,11/15/21 12:43
 7487,PresidentialRace,AL,Alabama,1,U.S. President,,2012,primary,false,DEM,DEM,3/13/12,12/18/19 13:06,11/15/21 12:43
 7488,PresidentialRace,AL,Alabama,1,U.S. President,,2012,primary,false,DEM,REP,3/13/12,12/18/19 13:06,11/15/21 12:43
 7489,PresidentialRace,AS,American Samoa,1,U.S. President,,2012,caucus,false,DEM,REP,3/13/12,12/18/19 13:06,11/15/21 12:43
@@ -7197,7 +7197,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 7540,PresidentialRace,KY,Kentucky,1,U.S. President,,2012,primary,false,DEM,REP,5/22/12,12/18/19 13:06,11/15/21 12:43
 7541,PresidentialRace,TX,Texas,1,U.S. President,,2012,primary,false,DEM,DEM,5/29/12,12/18/19 13:06,11/15/21 12:43
 7542,PresidentialRace,TX,Texas,1,U.S. President,,2012,primary,false,DEM,REP,5/29/12,12/18/19 13:06,11/15/21 12:43
-7543,PresidentialRace,VI,Virgin Islands,1,U.S. President,,2012,caucus,false,DEM,DEM,6/3/12,12/18/19 13:06,11/15/21 12:43
+7543,PresidentialRace,VI,U.S. Virgin Islands,1,U.S. President,,2012,caucus,false,DEM,DEM,6/3/12,12/18/19 13:06,11/15/21 12:43
 7544,PresidentialRace,PR,Puerto Rico,1,U.S. President,,2012,caucus,false,DEM,DEM,6/3/12,12/18/19 13:06,11/15/21 12:43
 7545,PresidentialRace,CA,California,1,U.S. President,,2012,primary,false,DEM,DEM,6/5/12,12/18/19 13:06,11/15/21 12:43
 7546,PresidentialRace,CA,California,1,U.S. President,,2012,primary,false,DEM,REP,6/5/12,12/18/19 13:06,11/15/21 12:43
@@ -7257,7 +7257,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 7601,PresidentialRace,MI,Michigan,1,U.S. President,,2016,primary,false,DEM,DEM,3/8/16,12/18/19 13:07,11/15/21 12:43
 7603,PresidentialRace,MS,Mississippi,1,U.S. President,,2016,primary,false,DEM,DEM,3/8/16,12/18/19 13:07,11/15/21 12:43
 7604,PresidentialRace,MS,Mississippi,1,U.S. President,,2016,primary,false,DEM,REP,3/8/16,12/18/19 13:07,11/15/21 12:43
-7605,PresidentialRace,VI,Virgin Islands,1,U.S. President,,2016,caucus,false,DEM,REP,3/10/16,12/18/19 13:07,11/15/21 12:43
+7605,PresidentialRace,VI,U.S. Virgin Islands,1,U.S. President,,2016,caucus,false,DEM,REP,3/10/16,12/18/19 13:07,11/15/21 12:43
 7606,PresidentialRace,GU,Guam,1,U.S. President,,2016,caucus,false,DEM,REP,3/12/16,12/18/19 13:07,11/15/21 12:43
 7607,PresidentialRace,MP,Northern Marianas Islands,1,U.S. President,,2016,caucus,false,DEM,DEM,3/12/16,12/18/19 13:07,11/15/21 12:43
 7608,PresidentialRace,DC,District of Columbia,1,U.S. President,,2016,caucus,false,DEM,REP,3/12/16,12/18/19 13:07,11/15/21 12:43
@@ -7307,7 +7307,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 7653,PresidentialRace,OR,Oregon,1,U.S. President,,2016,primary,false,DEM,REP,5/17/16,12/18/19 13:07,11/15/21 12:43
 7654,PresidentialRace,WA,Washington,1,U.S. President,,2016,primary,false,DEM,DEM,5/24/16,12/18/19 13:07,11/15/21 12:43
 7655,PresidentialRace,WA,Washington,1,U.S. President,,2016,primary,false,DEM,REP,5/24/16,12/18/19 13:07,11/15/21 12:43
-7656,PresidentialRace,VI,Virgin Islands,1,U.S. President,,2016,caucus,false,DEM,DEM,6/4/16,12/18/19 13:07,11/15/21 12:43
+7656,PresidentialRace,VI,U.S. Virgin Islands,1,U.S. President,,2016,caucus,false,DEM,DEM,6/4/16,12/18/19 13:07,11/15/21 12:43
 7657,PresidentialRace,PR,Puerto Rico,1,U.S. President,,2016,caucus,false,DEM,DEM,6/5/16,12/18/19 13:07,11/15/21 12:43
 7658,PresidentialRace,CA,California,1,U.S. President,,2016,primary,false,DEM,DEM,6/7/16,12/18/19 13:07,11/15/21 12:43
 9515,SenateRace,MI,Michigan,279,U.S. Senate,Class I,2024,general,false,DEM,,11/5/24,9/29/22 10:43,9/29/22 10:43
@@ -7410,7 +7410,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 7756,PresidentialRace,TX,Texas,1,U.S. President,,2020,primary,false,REP,REP,3/3/20,12/18/19 13:07,11/15/21 12:43
 7758,PresidentialRace,UT,Utah,1,U.S. President,,2020,primary,false,REP,REP,3/3/20,12/18/19 13:07,11/15/21 12:43
 7759,PresidentialRace,VA,Virginia,1,U.S. President,,2020,primary,false,REP,DEM,3/3/20,12/18/19 13:07,11/15/21 12:43
-7760,PresidentialRace,VI,Virgin Islands,1,U.S. President,,2020,caucus,false,REP,DEM,6/6/20,12/18/19 13:07,11/15/21 12:43
+7760,PresidentialRace,VI,U.S. Virgin Islands,1,U.S. President,,2020,caucus,false,REP,DEM,6/6/20,12/18/19 13:07,11/15/21 12:43
 7761,PresidentialRace,VT,Vermont,1,U.S. President,,2020,primary,false,REP,DEM,3/3/20,12/18/19 13:07,11/15/21 12:43
 7762,PresidentialRace,VT,Vermont,1,U.S. President,,2020,primary,false,REP,REP,3/3/20,12/18/19 13:07,11/15/21 12:43
 7763,PresidentialRace,WA,Washington,1,U.S. President,,2020,primary,false,REP,DEM,3/10/20,12/18/19 13:07,11/15/21 12:43
@@ -8296,7 +8296,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 6426,PresidentialRace,"",,1,U.S. President,,2004,primary,false,REP,REP,,12/18/19 13:01,11/15/21 12:43
 6428,PresidentialRace,"",,1,U.S. President,,2008,primary,false,REP,REP,,12/18/19 13:01,11/15/21 12:43
 8754,PresidentialRace,AL,Alabama,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-9536,GubernatorialRace,VI,Virgin Islands,684,Governor,,2022,general,false,DEM,,11/8/22,9/30/22 19:25,9/30/22 19:25
+9536,GubernatorialRace,VI,U.S. Virgin Islands,684,Governor,,2022,general,false,DEM,,11/8/22,9/30/22 19:25,9/30/22 19:25
 8440,SenateRace,CA,California,89,U.S. Senate,Class III,2016,top two primary,false,DEM,,6/7/16,12/23/19 12:25,12/23/19 12:25
 8660,HouseRace,CA,California,84,U.S. House,District 50,2020,top two primary,false,REP,,3/3/20,3/25/20 12:41,3/25/20 12:41
 8729,GubernatorialRace,WA,Washington,554,Governor,,2020,general,false,DEM,,11/3/20,5/21/20 08:24,5/21/20 08:24
@@ -8531,7 +8531,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 8894,PresidentialRace,UT,Utah,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:14,11/15/21 12:43
 8896,PresidentialRace,VA,Virginia,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:14,11/15/21 12:43
 8897,PresidentialRace,VA,Virginia,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:14,11/15/21 12:43
-8898,PresidentialRace,VI,Virgin Islands,1,U.S. President,,2024,caucus,false,DEM,DEM,,1/20/21 13:14,11/15/21 12:43
+8898,PresidentialRace,VI,U.S. Virgin Islands,1,U.S. President,,2024,caucus,false,DEM,DEM,,1/20/21 13:14,11/15/21 12:43
 8900,PresidentialRace,VT,Vermont,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:14,11/15/21 12:43
 8901,PresidentialRace,VT,Vermont,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:14,11/15/21 12:43
 8903,PresidentialRace,WA,Washington,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:14,11/15/21 12:43
