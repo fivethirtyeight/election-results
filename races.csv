@@ -6052,7 +6052,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 6265,SenateRace,AK,Alaska,4,U.S. Senate,Class II,2020,general,false,REP,,11/3/20,8/20/19 16:26,8/20/19 16:26
 6266,SenateRace,AL,Alabama,14,U.S. Senate,Class II,2020,general,false,DEM,,11/3/20,8/20/19 16:26,8/20/19 16:26
 6267,SenateRace,AR,Arkansas,21,U.S. Senate,Class II,2020,general,false,REP,,11/3/20,8/20/19 16:26,8/20/19 16:26
-9450,GubernatorialRace,CA,California,34,Governor,,2021,recall,true,"",,9/14/21,5/6/21 09:10,9/13/22 15:04
 6269,SenateRace,CO,Colorado,98,U.S. Senate,Class II,2020,general,false,REP,,11/3/20,8/20/19 16:26,8/20/19 16:26
 6270,SenateRace,DE,Delaware,111,U.S. Senate,Class II,2020,general,false,DEM,,11/3/20,8/20/19 16:26,8/20/19 16:26
 6271,SenateRace,GA,Georgia,154,U.S. Senate,Class II,2020,general,false,REP,,11/3/20,8/20/19 16:26,8/20/19 16:26
@@ -9590,12 +9589,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 9710,HouseRace,KY,Kentucky,219,U.S. House,District 4,2024,general,false,REP,,11/5/24,11/14/22 17:19,11/14/22 17:19
 9711,HouseRace,KY,Kentucky,220,U.S. House,District 5,2024,general,false,REP,,11/5/24,11/14/22 17:19,11/14/22 17:19
 9712,HouseRace,KY,Kentucky,221,U.S. House,District 6,2024,general,false,REP,,11/5/24,11/14/22 17:19,11/14/22 17:19
-9713,HouseRace,LA,Louisiana,225,U.S. House,District 1,2024,general,false,REP,,11/5/24,11/14/22 17:19,11/14/22 17:19
-9714,HouseRace,LA,Louisiana,226,U.S. House,District 2,2024,general,false,DEM,,11/5/24,11/14/22 17:19,11/14/22 17:19
-9715,HouseRace,LA,Louisiana,227,U.S. House,District 3,2024,general,false,REP,,11/5/24,11/14/22 17:19,11/14/22 17:19
-9716,HouseRace,LA,Louisiana,228,U.S. House,District 4,2024,general,false,REP,,11/5/24,11/14/22 17:19,11/14/22 17:19
-9717,HouseRace,LA,Louisiana,229,U.S. House,District 5,2024,general,false,REP,,11/5/24,11/14/22 17:19,11/14/22 17:19
-9718,HouseRace,LA,Louisiana,230,U.S. House,District 6,2024,general,false,REP,,11/5/24,11/14/22 17:19,11/14/22 17:19
 9719,HouseRace,ME,Maine,259,U.S. House,District 1,2024,general,false,DEM,,11/5/24,11/14/22 17:19,11/14/22 17:19
 9720,HouseRace,MD,Maryland,248,U.S. House,District 1,2024,general,false,REP,,11/5/24,11/14/22 17:19,11/14/22 17:19
 9721,HouseRace,MD,Maryland,249,U.S. House,District 2,2024,general,false,DEM,,11/5/24,11/14/22 17:19,11/14/22 17:19
@@ -9641,6 +9634,11 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 9762,HouseRace,MS,Mississippi,308,U.S. House,District 4,2024,general,false,REP,,11/5/24,11/14/22 17:21,11/14/22 17:21
 9763,HouseRace,MO,Missouri,293,U.S. House,District 1,2024,general,false,DEM,,11/5/24,11/14/22 17:21,11/14/22 17:21
 9764,HouseRace,MO,Missouri,294,U.S. House,District 2,2024,general,false,REP,,11/5/24,11/14/22 17:21,11/14/22 17:21
+9714,HouseRace,LA,Louisiana,226,U.S. House,District 2,2024,jungle primary,false,DEM,,11/5/24,11/14/22 17:19,12/7/22 14:19
+9715,HouseRace,LA,Louisiana,227,U.S. House,District 3,2024,jungle primary,false,REP,,11/5/24,11/14/22 17:19,12/7/22 14:19
+9716,HouseRace,LA,Louisiana,228,U.S. House,District 4,2024,jungle primary,false,REP,,11/5/24,11/14/22 17:19,12/7/22 14:19
+9717,HouseRace,LA,Louisiana,229,U.S. House,District 5,2024,jungle primary,false,REP,,11/5/24,11/14/22 17:19,12/7/22 14:19
+9718,HouseRace,LA,Louisiana,230,U.S. House,District 6,2024,jungle primary,false,REP,,11/5/24,11/14/22 17:19,12/7/22 14:19
 9765,HouseRace,MO,Missouri,295,U.S. House,District 3,2024,general,false,REP,,11/5/24,11/14/22 17:21,11/14/22 17:21
 9766,HouseRace,MO,Missouri,296,U.S. House,District 4,2024,general,false,REP,,11/5/24,11/14/22 17:21,11/14/22 17:21
 9767,HouseRace,MO,Missouri,297,U.S. House,District 5,2024,general,false,DEM,,11/5/24,11/14/22 17:21,11/14/22 17:21
@@ -9870,3 +9868,14 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 9165,HouseRace,LA,Louisiana,225,U.S. House,District 1,2022,runoff,false,REP,,,1/20/21 13:15,12/2/22 12:48
 9169,HouseRace,LA,Louisiana,227,U.S. House,District 3,2022,runoff,false,REP,,,1/20/21 13:15,12/2/22 12:49
 9996,HouseRace,CA,California,47,U.S. House,District 13,2024,general,false,REP,,11/5/24,12/7/22 13:10,12/7/22 13:10
+9713,HouseRace,LA,Louisiana,225,U.S. House,District 1,2024,jungle primary,false,REP,,11/5/24,11/14/22 17:19,12/7/22 14:19
+9997,HouseRace,LA,Louisiana,225,U.S. House,District 1,2024,runoff,false,REP,,12/7/24,12/7/22 14:21,12/7/22 14:21
+9998,HouseRace,LA,Louisiana,226,U.S. House,District 2,2024,runoff,false,DEM,,12/7/24,12/7/22 14:21,12/7/22 14:21
+9999,HouseRace,LA,Louisiana,227,U.S. House,District 3,2024,runoff,false,REP,,12/7/24,12/7/22 14:21,12/7/22 14:21
+10000,HouseRace,LA,Louisiana,228,U.S. House,District 4,2024,runoff,false,REP,,12/7/24,12/7/22 14:21,12/7/22 14:21
+10001,HouseRace,LA,Louisiana,229,U.S. House,District 5,2024,runoff,false,REP,,12/7/24,12/7/22 14:21,12/7/22 14:21
+10002,HouseRace,LA,Louisiana,230,U.S. House,District 6,2024,runoff,false,REP,,12/7/24,12/7/22 14:21,12/7/22 14:21
+10003,GubernatorialRace,LA,Louisiana,224,Governor,,2023,runoff,false,DEM,,11/18/23,12/7/22 14:22,12/7/22 14:22
+10004,HouseRace,VA,Virginia,540,U.S. House,District 4,2023,general,true,vacant,,2/21/23,12/12/22 12:03,12/12/22 12:03
+9450,GubernatorialRace,CA,California,34,Governor,,2021,recall,true,"",,,5/6/21 09:10,12/12/22 12:57
+10005,HouseRace,IN,Indiana,198,U.S. House,District 2,2022,general,true,vacant,,11/8/22,12/13/22 12:38,12/13/22 12:38
