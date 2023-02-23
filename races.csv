@@ -9879,3 +9879,5 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 10004,HouseRace,VA,Virginia,540,U.S. House,District 4,2023,general,true,vacant,,2/21/23,12/12/22 12:03,12/12/22 12:03
 9450,GubernatorialRace,CA,California,34,Governor,,2021,recall,true,"",,,5/6/21 09:10,12/12/22 12:57
 10005,HouseRace,IN,Indiana,198,U.S. House,District 2,2022,general,true,vacant,,11/8/22,12/13/22 12:38,12/13/22 12:38
+10006,MayoralRace,NY,New York,619,NYC Mayor,"",2001,primary,false,REP,REP,9/25/01,1/10/23 13:48,1/10/23 13:48
+10007,MayoralRace,NY,New York,619,NYC Mayor,"",2005,primary,false,REP,REP,9/13/05,1/10/23 13:55,1/10/23 13:55
