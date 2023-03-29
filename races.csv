@@ -9881,3 +9881,4 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 10005,HouseRace,IN,Indiana,198,U.S. House,District 2,2022,general,true,vacant,,11/8/22,12/13/22 12:38,12/13/22 12:38
 10006,MayoralRace,NY,New York,619,NYC Mayor,"",2001,primary,false,REP,REP,9/25/01,1/10/23 13:48,1/10/23 13:48
 10007,MayoralRace,NY,New York,619,NYC Mayor,"",2005,primary,false,REP,REP,9/13/05,1/10/23 13:55,1/10/23 13:55
+10008,HouseRace,RI,Rhode Island,466,U.S. House,District 1,2023,general,true,vacant,,11/7/23,3/29/23 10:53,3/29/23 10:53
