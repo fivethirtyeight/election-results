@@ -9884,3 +9884,4 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 10008,HouseRace,RI,Rhode Island,466,U.S. House,District 1,2023,general,true,vacant,,11/7/23,3/29/23 10:53,3/29/23 10:53
 10009,SenateRace,AK,Alaska,4,U.S. Senate,Class II,2026,general,false,REP,,11/3/26,5/2/23 19:16,5/2/23 19:16
 10010,GubernatorialRace,NV,Nevada,368,Governor,,2026,general,false,REP,,11/3/26,5/25/23 11:12,5/25/23 11:12
+10011,HouseRace,UT,Utah,532,U.S. House,District 2,2023,general,true,vacant,,11/21/23,6/9/23 10:25,6/9/23 10:25
