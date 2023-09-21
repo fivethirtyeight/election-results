@@ -108,7 +108,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 18,SenateRace,MS,Mississippi,310,U.S. Senate,Class II,2014,general,false,REP,,11/4/14,10/5/14 21:07,2/12/19 00:25
 1,SenateRace,NE,Nebraska,340,U.S. Senate,Class II,2014,general,false,REP,,11/4/14,10/5/14 21:07,2/12/19 00:25
 29,SenateRace,OK,Oklahoma,433,U.S. Senate,Class II,2014,general,false,REP,,11/4/14,10/5/14 21:07,2/12/19 00:25
-8844,PresidentialRace,ND,North Dakota,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
 11,SenateRace,SC,South Carolina,477,U.S. Senate,Class II,2014,general,false,REP,,11/4/14,10/5/14 21:07,2/12/19 00:25
 36,SenateRace,SC,South Carolina,478,U.S. Senate,Class III,2014,general,true,REP,,11/4/14,10/5/14 21:07,2/12/19 00:25
 28,SenateRace,TN,Tennessee,494,U.S. Senate,Class II,2014,general,false,REP,,11/4/14,10/5/14 21:07,2/12/19 00:25
@@ -780,7 +779,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 369,HouseRace,MI,Michigan,268,U.S. House,District 5,2018,general,false,DEM,,11/6/18,10/2/18 17:04,2/12/19 00:25
 373,HouseRace,MI,Michigan,272,U.S. House,District 9,2018,general,false,DEM,,11/6/18,10/2/18 17:04,2/12/19 00:25
 376,HouseRace,MI,Michigan,275,U.S. House,District 12,2018,general,false,DEM,,11/6/18,10/2/18 17:04,2/12/19 00:25
-8846,PresidentialRace,NE,Nebraska,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
 383,HouseRace,MN,Minnesota,286,U.S. House,District 5,2018,general,false,DEM,,11/6/18,10/2/18 17:04,2/12/19 00:25
 385,HouseRace,MN,Minnesota,288,U.S. House,District 7,2018,general,false,DEM,,11/6/18,10/2/18 17:04,2/12/19 00:25
 386,HouseRace,MN,Minnesota,289,U.S. House,District 8,2018,general,false,DEM,,11/6/18,10/2/18 17:04,2/12/19 00:25
@@ -859,7 +857,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 454,HouseRace,NY,New York,391,U.S. House,District 17,2018,general,false,DEM,,11/6/18,10/2/18 17:04,2/12/19 00:25
 455,HouseRace,NY,New York,392,U.S. House,District 18,2018,general,false,DEM,,11/6/18,10/2/18 17:04,2/12/19 00:25
 457,HouseRace,NY,New York,394,U.S. House,District 20,2018,general,false,DEM,,11/6/18,10/2/18 17:04,2/12/19 00:25
-8847,PresidentialRace,NE,Nebraska,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
 463,HouseRace,NY,New York,400,U.S. House,District 26,2018,general,false,DEM,,11/6/18,10/2/18 17:04,2/12/19 00:25
 1090,PresidentialRace,NE,Nebraska,1,U.S. President,,1980,general,false,DEM,,11/4/80,2/12/19 01:20,2/12/19 01:20
 1091,PresidentialRace,NH,New Hampshire,1,U.S. President,,1980,general,false,DEM,,11/4/80,2/12/19 01:20,2/12/19 01:20
@@ -1119,7 +1116,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 493,HouseRace,PA,Pennsylvania,446,U.S. House,District 3,2018,general,false,REP,,11/6/18,10/2/18 17:04,2/12/19 00:25
 494,HouseRace,PA,Pennsylvania,447,U.S. House,District 4,2018,general,false,REP,,11/6/18,10/2/18 17:04,2/12/19 00:25
 495,HouseRace,PA,Pennsylvania,448,U.S. House,District 5,2018,general,false,REP,,11/6/18,10/2/18 17:04,2/12/19 00:25
-8884,PresidentialRace,SD,South Dakota,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:14,11/15/21 12:43
 498,HouseRace,PA,Pennsylvania,451,U.S. House,District 8,2018,general,false,REP,,11/6/18,10/2/18 17:04,2/12/19 00:25
 499,HouseRace,PA,Pennsylvania,452,U.S. House,District 9,2018,general,false,REP,,11/6/18,10/2/18 17:04,2/12/19 00:25
 500,HouseRace,PA,Pennsylvania,453,U.S. House,District 10,2018,general,false,REP,,11/6/18,10/2/18 17:04,2/12/19 00:25
@@ -1262,7 +1258,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 1205,PresidentialRace,TN,Tennessee,1,U.S. President,,1972,general,false,REP,,11/7/72,2/12/19 01:20,2/12/19 01:20
 1206,PresidentialRace,TX,Texas,1,U.S. President,,1972,general,false,REP,,11/7/72,2/12/19 01:20,2/12/19 01:20
 1207,PresidentialRace,UT,Utah,1,U.S. President,,1972,general,false,REP,,11/7/72,2/12/19 01:20,2/12/19 01:20
-8907,PresidentialRace,WI,Wisconsin,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:14,11/15/21 12:43
 1274,GubernatorialRace,AL,Alabama,6,Governor,,2010,general,false,REP,,11/2/10,2/12/19 01:20,10/14/21 11:14
 1277,GubernatorialRace,AR,Arkansas,16,Governor,,2010,general,false,DEM,,11/2/10,2/12/19 01:20,10/14/21 11:14
 1276,GubernatorialRace,AZ,Arizona,23,Governor,,2010,general,false,DEM,,11/2/10,2/12/19 01:20,10/14/21 11:14
@@ -8334,9 +8329,9 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 6425,PresidentialRace,"",,1,U.S. President,,2004,primary,false,REP,DEM,,12/18/19 13:01,11/15/21 12:43
 6426,PresidentialRace,"",,1,U.S. President,,2004,primary,false,REP,REP,,12/18/19 13:01,11/15/21 12:43
 6428,PresidentialRace,"",,1,U.S. President,,2008,primary,false,REP,REP,,12/18/19 13:01,11/15/21 12:43
-8754,PresidentialRace,AL,Alabama,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
 9536,GubernatorialRace,VI,U.S. Virgin Islands,684,Governor,,2022,general,false,DEM,,11/8/22,9/30/22 19:25,9/30/22 19:25
 9538,GubernatorialRace,DE,Delaware,108,Governor,,2024,general,false,DEM,,11/5/24,10/28/22 14:48,10/28/22 14:48
+8751,PresidentialRace,AK,Alaska,1,U.S. President,,2024,primary,false,DEM,REP,3/5/24,1/20/21 13:13,9/5/23 10:56
 8440,SenateRace,CA,California,89,U.S. Senate,Class III,2016,top two primary,false,DEM,,6/7/16,12/23/19 12:25,12/23/19 12:25
 8660,HouseRace,CA,California,84,U.S. House,District 50,2020,top two primary,false,REP,,3/3/20,3/25/20 12:41,3/25/20 12:41
 8729,GubernatorialRace,WA,Washington,554,Governor,,2020,general,false,DEM,,11/3/20,5/21/20 08:24,5/21/20 08:24
@@ -8392,85 +8387,73 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 8728,SenateRace,SD,South Dakota,481,U.S. Senate,Class II,2020,primary runoff,false,REP,REP,8/11/20,4/29/20 15:01,11/15/21 12:43
 7213,PresidentialRace,SD,South Dakota,1,U.S. President,,2000,primary,false,DEM,DEM,,12/18/19 13:05,11/15/21 12:43
 8750,PresidentialRace,AK,Alaska,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8751,PresidentialRace,AK,Alaska,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8753,PresidentialRace,AL,Alabama,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
 8755,PresidentialRace,AR,Arkansas,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
 9537,HouseRace,NY,New York,397,U.S. House,District 23,2022,general,true,vacant,,8/23/22,10/11/22 16:58,10/11/22 16:58
+8761,PresidentialRace,AZ,Arizona,1,U.S. President,,2024,primary,false,DEM,REP,3/19/24,1/20/21 13:13,9/5/23 10:57
+8757,PresidentialRace,AR,Arkansas,1,U.S. President,,2024,primary,false,DEM,REP,3/5/24,1/20/21 13:13,11/15/21 12:43
 8759,PresidentialRace,AZ,Arizona,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
+8763,PresidentialRace,CA,California,1,U.S. President,,2024,primary,false,DEM,DEM,3/5/24,1/20/21 13:13,11/15/21 12:43
+8766,PresidentialRace,CO,Colorado,1,U.S. President,,2024,primary,false,DEM,DEM,3/5/24,1/20/21 13:13,11/15/21 12:43
 8762,PresidentialRace,CA,California,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
+8767,PresidentialRace,CO,Colorado,1,U.S. President,,2024,primary,false,DEM,REP,3/5/24,1/20/21 13:13,11/15/21 12:43
+8769,PresidentialRace,CT,Connecticut,1,U.S. President,,2024,primary,false,DEM,DEM,4/30/24,1/20/21 13:13,11/15/21 12:43
 8765,PresidentialRace,CO,Colorado,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
+8770,PresidentialRace,CT,Connecticut,1,U.S. President,,2024,primary,false,DEM,REP,4/30/24,1/20/21 13:13,11/15/21 12:43
+8773,PresidentialRace,DC,District of Columbia,1,U.S. President,,2024,primary,false,DEM,DEM,6/4/24,1/20/21 13:13,11/15/21 12:43
 8768,PresidentialRace,CT,Connecticut,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
+8774,PresidentialRace,DC,District of Columbia,1,U.S. President,,2024,primary,false,DEM,REP,6/4/24,1/20/21 13:13,11/15/21 12:43
+8776,PresidentialRace,DE,Delaware,1,U.S. President,,2024,primary,false,DEM,DEM,4/2/24,1/20/21 13:13,9/5/23 11:26
+8777,PresidentialRace,DE,Delaware,1,U.S. President,,2024,primary,false,DEM,REP,4/23/24,1/20/21 13:13,9/5/23 11:26
 8772,PresidentialRace,DC,District of Columbia,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
+8779,PresidentialRace,FL,Florida,1,U.S. President,,2024,primary,false,DEM,DEM,3/19/24,1/20/21 13:13,11/15/21 12:43
+8780,PresidentialRace,FL,Florida,1,U.S. President,,2024,primary,false,DEM,REP,3/19/24,1/20/21 13:13,11/15/21 12:43
 8775,PresidentialRace,DE,Delaware,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
+8782,PresidentialRace,GA,Georgia,1,U.S. President,,2024,primary,false,DEM,DEM,3/12/24,1/20/21 13:13,11/15/21 12:43
+8786,PresidentialRace,HI,Hawaii,1,U.S. President,,2024,caucus,false,DEM,REP,4/6/24,1/20/21 13:13,9/6/23 15:03
 8778,PresidentialRace,FL,Florida,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
+8787,PresidentialRace,HI,Hawaii,1,U.S. President,,2024,primary,false,DEM,DEM,3/12/24,1/20/21 13:13,9/6/23 15:03
+8792,PresidentialRace,ID,Idaho,1,U.S. President,,2024,primary,false,DEM,REP,3/12/24,1/20/21 13:13,9/6/23 15:05
 8781,PresidentialRace,GA,Georgia,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
+8793,PresidentialRace,ID,Idaho,1,U.S. President,,2024,primary,false,DEM,DEM,5/18/24,1/20/21 13:13,9/6/23 15:06
+8795,PresidentialRace,IL,Illinois,1,U.S. President,,2024,primary,false,DEM,DEM,3/19/24,1/20/21 13:13,11/15/21 12:43
+8796,PresidentialRace,IL,Illinois,1,U.S. President,,2024,primary,false,DEM,REP,3/19/24,1/20/21 13:13,11/15/21 12:43
 8785,PresidentialRace,HI,Hawaii,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
+8798,PresidentialRace,IN,Indiana,1,U.S. President,,2024,primary,false,DEM,DEM,5/7/24,1/20/21 13:13,11/15/21 12:43
+8799,PresidentialRace,IN,Indiana,1,U.S. President,,2024,primary,false,DEM,REP,5/7/24,1/20/21 13:13,11/15/21 12:43
 8788,PresidentialRace,IA,Iowa,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
+8801,PresidentialRace,KS,Kansas,1,U.S. President,,2024,caucus,false,DEM,REP,3/9/24,1/20/21 13:13,9/7/23 10:59
+8802,PresidentialRace,KS,Kansas,1,U.S. President,,2024,primary,false,DEM,DEM,3/19/24,1/20/21 13:13,9/7/23 10:59
 8791,PresidentialRace,ID,Idaho,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
+8804,PresidentialRace,KY,Kentucky,1,U.S. President,,2024,primary,false,DEM,REP,5/21/24,1/20/21 13:13,11/15/21 12:43
+8805,PresidentialRace,KY,Kentucky,1,U.S. President,,2024,primary,false,DEM,DEM,5/21/24,1/20/21 13:13,11/15/21 12:43
 8794,PresidentialRace,IL,Illinois,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
+8807,PresidentialRace,LA,Louisiana,1,U.S. President,,2024,primary,false,DEM,DEM,3/23/24,1/20/21 13:13,11/15/21 12:43
+8808,PresidentialRace,LA,Louisiana,1,U.S. President,,2024,primary,false,DEM,REP,3/23/24,1/20/21 13:13,11/15/21 12:43
 8797,PresidentialRace,IN,Indiana,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
+8812,PresidentialRace,MA,Massachusetts,1,U.S. President,,2024,primary,false,DEM,DEM,3/5/24,1/20/21 13:13,11/15/21 12:43
+8813,PresidentialRace,MA,Massachusetts,1,U.S. President,,2024,primary,false,DEM,REP,3/5/24,1/20/21 13:13,11/15/21 12:43
 8800,PresidentialRace,KS,Kansas,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
+8815,PresidentialRace,MD,Maryland,1,U.S. President,,2024,primary,false,DEM,DEM,5/14/24,1/20/21 13:13,11/15/21 12:43
+8816,PresidentialRace,MD,Maryland,1,U.S. President,,2024,primary,false,DEM,REP,5/14/24,1/20/21 13:13,11/15/21 12:43
 8803,PresidentialRace,KY,Kentucky,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
+8818,PresidentialRace,ME,Maine,1,U.S. President,,2024,primary,false,DEM,REP,3/5/24,1/20/21 13:13,11/15/21 12:43
 8806,PresidentialRace,LA,Louisiana,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
 8809,PresidentialRace,M1,Maine CD-1,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
 8810,PresidentialRace,M2,Maine CD-2,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
 8811,PresidentialRace,MA,Massachusetts,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
 8814,PresidentialRace,MD,Maryland,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
 8817,PresidentialRace,ME,Maine,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
-8757,PresidentialRace,AR,Arkansas,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
 8758,PresidentialRace,AS,American Samoa,1,U.S. President,,2024,caucus,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
 8760,PresidentialRace,AZ,Arizona,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8761,PresidentialRace,AZ,Arizona,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8763,PresidentialRace,CA,California,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8764,PresidentialRace,CA,California,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8766,PresidentialRace,CO,Colorado,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8767,PresidentialRace,CO,Colorado,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8769,PresidentialRace,CT,Connecticut,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8770,PresidentialRace,CT,Connecticut,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
 8771,PresidentialRace,DA,Democrats Abroad,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8773,PresidentialRace,DC,District of Columbia,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8774,PresidentialRace,DC,District of Columbia,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8776,PresidentialRace,DE,Delaware,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8777,PresidentialRace,DE,Delaware,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8779,PresidentialRace,FL,Florida,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8780,PresidentialRace,FL,Florida,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8782,PresidentialRace,GA,Georgia,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
 8784,PresidentialRace,GU,Guam,1,U.S. President,,2024,caucus,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8786,PresidentialRace,HI,Hawaii,1,U.S. President,,2024,caucus,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8787,PresidentialRace,HI,Hawaii,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
 8789,PresidentialRace,IA,Iowa,1,U.S. President,,2024,caucus,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8790,PresidentialRace,IA,Iowa,1,U.S. President,,2024,caucus,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8792,PresidentialRace,ID,Idaho,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8793,PresidentialRace,ID,Idaho,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8795,PresidentialRace,IL,Illinois,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8796,PresidentialRace,IL,Illinois,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8798,PresidentialRace,IN,Indiana,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8799,PresidentialRace,IN,Indiana,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8801,PresidentialRace,KS,Kansas,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8802,PresidentialRace,KS,Kansas,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8804,PresidentialRace,KY,Kentucky,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8805,PresidentialRace,KY,Kentucky,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8807,PresidentialRace,LA,Louisiana,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8808,PresidentialRace,LA,Louisiana,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8812,PresidentialRace,MA,Massachusetts,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8813,PresidentialRace,MA,Massachusetts,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8815,PresidentialRace,MD,Maryland,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8816,PresidentialRace,MD,Maryland,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8818,PresidentialRace,ME,Maine,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8843,PresidentialRace,ND,North Dakota,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
 8820,PresidentialRace,MI,Michigan,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
 8849,PresidentialRace,NH,New Hampshire,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8850,PresidentialRace,NH,New Hampshire,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
 8823,PresidentialRace,MN,Minnesota,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
-8852,PresidentialRace,NJ,New Jersey,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8853,PresidentialRace,NJ,New Jersey,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
 8826,PresidentialRace,MO,Missouri,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
-8855,PresidentialRace,NM,New Mexico,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8856,PresidentialRace,NM,New Mexico,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
 8858,PresidentialRace,NV,Nevada,1,U.S. President,,2024,caucus,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
 8830,PresidentialRace,MS,Mississippi,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
-8859,PresidentialRace,NV,Nevada,1,U.S. President,,2024,caucus,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8861,PresidentialRace,NY,New York,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
 8833,PresidentialRace,MT,Montana,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
 8836,PresidentialRace,N1,Nebraska CD-1,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
 8837,PresidentialRace,N2,Nebraska CD-2,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
@@ -8489,34 +8472,42 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 8872,PresidentialRace,PA,Pennsylvania,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
 8877,PresidentialRace,RI,Rhode Island,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:14,1/20/21 13:14
 8880,PresidentialRace,SC,South Carolina,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:14,1/20/21 13:14
-8821,PresidentialRace,MI,Michigan,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8822,PresidentialRace,MI,Michigan,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8824,PresidentialRace,MN,Minnesota,1,U.S. President,,2024,caucus,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8825,PresidentialRace,MN,Minnesota,1,U.S. President,,2024,caucus,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8827,PresidentialRace,MO,Missouri,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8828,PresidentialRace,MO,Missouri,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
 8829,PresidentialRace,MP,Northern Marianas Islands,1,U.S. President,,2024,caucus,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8831,PresidentialRace,MS,Mississippi,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8832,PresidentialRace,MS,Mississippi,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8834,PresidentialRace,MT,Montana,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8835,PresidentialRace,MT,Montana,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8840,PresidentialRace,NC,North Carolina,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8841,PresidentialRace,NC,North Carolina,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8862,PresidentialRace,NY,New York,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8864,PresidentialRace,OH,Ohio,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8865,PresidentialRace,OH,Ohio,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8867,PresidentialRace,OK,Oklahoma,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8868,PresidentialRace,OK,Oklahoma,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8870,PresidentialRace,OR,Oregon,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8871,PresidentialRace,OR,Oregon,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8873,PresidentialRace,PA,Pennsylvania,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8874,PresidentialRace,PA,Pennsylvania,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:14,11/15/21 12:43
 8875,PresidentialRace,PR,Puerto Rico,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:14,11/15/21 12:43
-8876,PresidentialRace,PR,Puerto Rico,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:14,11/15/21 12:43
-8878,PresidentialRace,RI,Rhode Island,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:14,11/15/21 12:43
-8879,PresidentialRace,RI,Rhode Island,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:14,11/15/21 12:43
-8881,PresidentialRace,SC,South Carolina,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:14,11/15/21 12:43
-8882,PresidentialRace,SC,South Carolina,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:14,11/15/21 12:43
+8850,PresidentialRace,NH,New Hampshire,1,U.S. President,,2024,primary,false,DEM,REP,1/23/24,1/20/21 13:13,9/5/23 10:49
+8882,PresidentialRace,SC,South Carolina,1,U.S. President,,2024,primary,false,DEM,REP,2/24/24,1/20/21 13:14,9/5/23 10:52
+8859,PresidentialRace,NV,Nevada,1,U.S. President,,2024,caucus,false,DEM,REP,2/8/24,1/20/21 13:13,9/5/23 10:51
+8821,PresidentialRace,MI,Michigan,1,U.S. President,,2024,primary,false,DEM,DEM,2/27/24,1/20/21 13:13,9/5/23 10:54
+8822,PresidentialRace,MI,Michigan,1,U.S. President,,2024,primary,false,DEM,REP,2/27/24,1/20/21 13:13,9/5/23 10:54
+8824,PresidentialRace,MN,Minnesota,1,U.S. President,,2024,caucus,false,DEM,DEM,3/5/24,1/20/21 13:13,11/15/21 12:43
+8825,PresidentialRace,MN,Minnesota,1,U.S. President,,2024,caucus,false,DEM,REP,3/5/24,1/20/21 13:13,11/15/21 12:43
+8828,PresidentialRace,MO,Missouri,1,U.S. President,,2024,primary,false,DEM,REP,3/12/24,1/20/21 13:13,9/7/23 12:40
+8827,PresidentialRace,MO,Missouri,1,U.S. President,,2024,primary,false,DEM,DEM,3/23/24,1/20/21 13:13,9/7/23 12:40
+8831,PresidentialRace,MS,Mississippi,1,U.S. President,,2024,primary,false,DEM,DEM,3/12/24,1/20/21 13:13,11/15/21 12:43
+8832,PresidentialRace,MS,Mississippi,1,U.S. President,,2024,primary,false,DEM,REP,3/12/24,1/20/21 13:13,11/15/21 12:43
+8834,PresidentialRace,MT,Montana,1,U.S. President,,2024,primary,false,DEM,DEM,6/4/24,1/20/21 13:13,11/15/21 12:43
+8835,PresidentialRace,MT,Montana,1,U.S. President,,2024,primary,false,DEM,REP,6/4/24,1/20/21 13:13,11/15/21 12:43
+8840,PresidentialRace,NC,North Carolina,1,U.S. President,,2024,primary,false,DEM,DEM,3/5/24,1/20/21 13:13,11/15/21 12:43
+8841,PresidentialRace,NC,North Carolina,1,U.S. President,,2024,primary,false,DEM,REP,3/5/24,1/20/21 13:13,11/15/21 12:43
+8843,PresidentialRace,ND,North Dakota,1,U.S. President,,2024,caucus,false,DEM,REP,3/4/24,1/20/21 13:13,9/7/23 12:44
+8852,PresidentialRace,NJ,New Jersey,1,U.S. President,,2024,primary,false,DEM,DEM,6/4/24,1/20/21 13:13,11/15/21 12:43
+8853,PresidentialRace,NJ,New Jersey,1,U.S. President,,2024,primary,false,DEM,REP,6/4/24,1/20/21 13:13,11/15/21 12:43
+8855,PresidentialRace,NM,New Mexico,1,U.S. President,,2024,primary,false,DEM,DEM,6/4/24,1/20/21 13:13,11/15/21 12:43
+8856,PresidentialRace,NM,New Mexico,1,U.S. President,,2024,primary,false,DEM,REP,6/4/24,1/20/21 13:13,11/15/21 12:43
+8862,PresidentialRace,NY,New York,1,U.S. President,,2024,primary,false,DEM,REP,4/30/24,1/20/21 13:13,9/7/23 12:48
+8861,PresidentialRace,NY,New York,1,U.S. President,,2024,primary,false,DEM,DEM,4/2/24,1/20/21 13:13,9/7/23 12:49
+8864,PresidentialRace,OH,Ohio,1,U.S. President,,2024,primary,false,DEM,DEM,3/19/24,1/20/21 13:13,11/15/21 12:43
+8865,PresidentialRace,OH,Ohio,1,U.S. President,,2024,primary,false,DEM,REP,3/19/24,1/20/21 13:13,11/15/21 12:43
+8867,PresidentialRace,OK,Oklahoma,1,U.S. President,,2024,primary,false,DEM,DEM,3/5/24,1/20/21 13:13,11/15/21 12:43
+8868,PresidentialRace,OK,Oklahoma,1,U.S. President,,2024,primary,false,DEM,REP,3/5/24,1/20/21 13:13,11/15/21 12:43
+8870,PresidentialRace,OR,Oregon,1,U.S. President,,2024,primary,false,DEM,DEM,5/21/24,1/20/21 13:13,11/15/21 12:43
+8871,PresidentialRace,OR,Oregon,1,U.S. President,,2024,primary,false,DEM,REP,5/21/24,1/20/21 13:13,11/15/21 12:43
+8873,PresidentialRace,PA,Pennsylvania,1,U.S. President,,2024,primary,false,DEM,DEM,4/23/24,1/20/21 13:13,11/15/21 12:43
+8874,PresidentialRace,PA,Pennsylvania,1,U.S. President,,2024,primary,false,DEM,REP,4/23/24,1/20/21 13:14,11/15/21 12:43
+8876,PresidentialRace,PR,Puerto Rico,1,U.S. President,,2024,primary,false,DEM,DEM,3/17/24,1/20/21 13:14,9/11/23 11:22
+8879,PresidentialRace,RI,Rhode Island,1,U.S. President,,2024,primary,false,DEM,REP,4/23/24,1/20/21 13:14,11/15/21 12:43
+8878,PresidentialRace,RI,Rhode Island,1,U.S. President,,2024,primary,false,DEM,DEM,4/2/24,1/20/21 13:14,11/15/21 12:43
+8881,PresidentialRace,SC,South Carolina,1,U.S. President,,2024,primary,false,DEM,DEM,2/3/24,1/20/21 13:14,9/11/23 11:24
 8883,PresidentialRace,SD,South Dakota,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:14,1/20/21 13:14
 8886,PresidentialRace,TN,Tennessee,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:14,1/20/21 13:14
 8889,PresidentialRace,TX,Texas,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:14,1/20/21 13:14
@@ -8524,7 +8515,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 8895,PresidentialRace,VA,Virginia,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:14,1/20/21 13:14
 8899,PresidentialRace,VT,Vermont,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:14,1/20/21 13:14
 8902,PresidentialRace,WA,Washington,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:14,1/20/21 13:14
-8905,PresidentialRace,WI,Wisconsin,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:14,1/20/21 13:14
 8908,PresidentialRace,WV,West Virginia,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:14,1/20/21 13:14
 8911,PresidentialRace,WY,Wyoming,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:14,1/20/21 13:14
 8914,PresidentialRace,"",,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:14,1/20/21 13:14
@@ -8562,28 +8552,28 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 8949,SenateRace,VT,Vermont,553,U.S. Senate,Class III,2022,general,false,DEM,,11/8/22,1/20/21 13:14,1/20/21 13:14
 8950,SenateRace,WA,Washington,565,U.S. Senate,Class III,2022,general,false,DEM,,11/8/22,1/20/21 13:14,1/20/21 13:14
 8951,SenateRace,WI,Wisconsin,576,U.S. Senate,Class III,2022,general,false,REP,,11/8/22,1/20/21 13:14,1/20/21 13:14
-8885,PresidentialRace,SD,South Dakota,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:14,11/15/21 12:43
-8887,PresidentialRace,TN,Tennessee,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:14,11/15/21 12:43
-8888,PresidentialRace,TN,Tennessee,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:14,11/15/21 12:43
-8890,PresidentialRace,TX,Texas,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:14,11/15/21 12:43
-8891,PresidentialRace,TX,Texas,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:14,11/15/21 12:43
-8893,PresidentialRace,UT,Utah,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:14,11/15/21 12:43
-8894,PresidentialRace,UT,Utah,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:14,11/15/21 12:43
-8896,PresidentialRace,VA,Virginia,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:14,11/15/21 12:43
-8897,PresidentialRace,VA,Virginia,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:14,11/15/21 12:43
 8898,PresidentialRace,VI,U.S. Virgin Islands,1,U.S. President,,2024,caucus,false,DEM,DEM,,1/20/21 13:14,11/15/21 12:43
-8900,PresidentialRace,VT,Vermont,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:14,11/15/21 12:43
-8901,PresidentialRace,VT,Vermont,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:14,11/15/21 12:43
-8903,PresidentialRace,WA,Washington,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:14,11/15/21 12:43
-8904,PresidentialRace,WA,Washington,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:14,11/15/21 12:43
-8906,PresidentialRace,WI,Wisconsin,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:14,11/15/21 12:43
-8909,PresidentialRace,WV,West Virginia,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:14,11/15/21 12:43
-8910,PresidentialRace,WV,West Virginia,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:14,11/15/21 12:43
-8912,PresidentialRace,WY,Wyoming,1,U.S. President,,2024,caucus,false,DEM,DEM,,1/20/21 13:14,11/15/21 12:43
-8913,PresidentialRace,WY,Wyoming,1,U.S. President,,2024,caucus,false,DEM,REP,,1/20/21 13:14,11/15/21 12:43
 8915,PresidentialRace,"",,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:14,11/15/21 12:43
 8916,PresidentialRace,"",,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:14,11/15/21 12:43
 8934,SenateRace,LA,Louisiana,233,U.S. Senate,Class III,2022,runoff,false,REP,,,1/20/21 13:14,12/2/22 12:51
+8885,PresidentialRace,SD,South Dakota,1,U.S. President,,2024,primary,false,DEM,REP,6/4/24,1/20/21 13:14,11/15/21 12:43
+8887,PresidentialRace,TN,Tennessee,1,U.S. President,,2024,primary,false,DEM,DEM,3/5/24,1/20/21 13:14,11/15/21 12:43
+8890,PresidentialRace,TX,Texas,1,U.S. President,,2024,primary,false,DEM,DEM,3/5/24,1/20/21 13:14,11/15/21 12:43
+8891,PresidentialRace,TX,Texas,1,U.S. President,,2024,primary,false,DEM,REP,3/5/24,1/20/21 13:14,11/15/21 12:43
+8893,PresidentialRace,UT,Utah,1,U.S. President,,2024,primary,false,DEM,DEM,3/5/24,1/20/21 13:14,11/15/21 12:43
+8894,PresidentialRace,UT,Utah,1,U.S. President,,2024,primary,false,DEM,REP,3/5/24,1/20/21 13:14,11/15/21 12:43
+8896,PresidentialRace,VA,Virginia,1,U.S. President,,2024,primary,false,DEM,DEM,3/5/24,1/20/21 13:14,11/15/21 12:43
+8897,PresidentialRace,VA,Virginia,1,U.S. President,,2024,primary,false,DEM,REP,3/5/24,1/20/21 13:14,11/15/21 12:43
+8900,PresidentialRace,VT,Vermont,1,U.S. President,,2024,primary,false,DEM,DEM,3/5/24,1/20/21 13:14,11/15/21 12:43
+8901,PresidentialRace,VT,Vermont,1,U.S. President,,2024,primary,false,DEM,REP,3/5/24,1/20/21 13:14,11/15/21 12:43
+8903,PresidentialRace,WA,Washington,1,U.S. President,,2024,primary,false,DEM,DEM,3/12/24,1/20/21 13:14,11/15/21 12:43
+8904,PresidentialRace,WA,Washington,1,U.S. President,,2024,primary,false,DEM,REP,3/12/24,1/20/21 13:14,11/15/21 12:43
+8910,PresidentialRace,WV,West Virginia,1,U.S. President,,2024,primary,false,DEM,REP,5/7/24,1/20/21 13:14,9/11/23 11:31
+8906,PresidentialRace,WI,Wisconsin,1,U.S. President,,2024,primary,false,DEM,DEM,4/2/24,1/20/21 13:14,11/15/21 12:43
+8905,PresidentialRace,WI,Wisconsin,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:14,9/11/23 11:30
+8909,PresidentialRace,WV,West Virginia,1,U.S. President,,2024,primary,false,DEM,DEM,5/14/24,1/20/21 13:14,9/11/23 11:31
+8912,PresidentialRace,WY,Wyoming,1,U.S. President,,2024,caucus,false,DEM,DEM,4/13/24,1/20/21 13:14,9/11/23 11:32
+8913,PresidentialRace,WY,Wyoming,1,U.S. President,,2024,caucus,false,DEM,REP,4/18/24,1/20/21 13:14,9/11/23 11:33
 8952,GubernatorialRace,AL,Alabama,6,Governor,,2022,general,false,REP,,11/8/22,1/20/21 13:14,1/20/21 13:14
 8953,GubernatorialRace,AK,Alaska,2,Governor,,2022,general,false,REP,,11/8/22,1/20/21 13:14,1/20/21 13:14
 8954,GubernatorialRace,AZ,Arizona,23,Governor,,2022,general,false,REP,,11/8/22,1/20/21 13:14,1/20/21 13:14
@@ -9459,9 +9449,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 8720,PresidentialRace,MN,Minnesota,1,U.S. President,,1992,primary,false,REP,DEM,4/7/92,4/17/20 13:56,11/15/21 12:43
 6427,PresidentialRace,"",,1,U.S. President,,2008,primary,false,REP,DEM,,12/18/19 13:01,11/15/21 12:43
 7797,SenateRace,NC,North Carolina,329,U.S. Senate,Class II,2020,primary runoff,false,REP,DEM,,12/18/19 13:08,11/15/21 12:43
-8756,PresidentialRace,AR,Arkansas,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
-8783,PresidentialRace,GA,Georgia,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:13,11/15/21 12:43
-8819,PresidentialRace,ME,Maine,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
 9543,GubernatorialRace,ND,North Dakota,331,Governor,,2024,general,false,REP,,11/5/24,10/28/22 14:48,10/28/22 14:48
 9544,GubernatorialRace,UT,Utah,530,Governor,,2024,general,false,REP,,11/5/24,10/28/22 14:48,10/28/22 14:48
 9545,GubernatorialRace,VT,Vermont,550,Governor,,2024,general,false,REP,,11/5/24,10/28/22 14:48,10/28/22 14:48
@@ -9481,6 +9468,8 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 9600,HouseRace,CA,California,69,U.S. House,District 35,2024,general,false,DEM,,11/5/24,11/14/22 17:14,11/14/22 17:14
 9601,HouseRace,CA,California,70,U.S. House,District 36,2024,general,false,DEM,,11/5/24,11/14/22 17:14,11/14/22 17:14
 9602,HouseRace,CA,California,71,U.S. House,District 37,2024,general,false,DEM,,11/5/24,11/14/22 17:14,11/14/22 17:14
+8783,PresidentialRace,GA,Georgia,1,U.S. President,,2024,primary,false,DEM,REP,3/12/24,1/20/21 13:13,11/15/21 12:43
+8819,PresidentialRace,ME,Maine,1,U.S. President,,2024,primary,false,DEM,DEM,3/5/24,1/20/21 13:13,11/15/21 12:43
 9603,HouseRace,CA,California,72,U.S. House,District 38,2024,general,false,DEM,,11/5/24,11/14/22 17:14,11/14/22 17:14
 9604,HouseRace,CA,California,73,U.S. House,District 39,2024,general,false,DEM,,11/5/24,11/14/22 17:15,11/14/22 17:15
 9605,HouseRace,CA,California,74,U.S. House,District 40,2024,general,false,REP,,11/5/24,11/14/22 17:15,11/14/22 17:15
@@ -9885,3 +9874,15 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 10009,SenateRace,AK,Alaska,4,U.S. Senate,Class II,2026,general,false,REP,,11/3/26,5/2/23 19:16,5/2/23 19:16
 10010,GubernatorialRace,NV,Nevada,368,Governor,,2026,general,false,REP,,11/3/26,5/25/23 11:12,5/25/23 11:12
 10011,HouseRace,UT,Utah,532,U.S. House,District 2,2023,general,true,vacant,,11/21/23,6/9/23 10:25,6/9/23 10:25
+8790,PresidentialRace,IA,Iowa,1,U.S. President,,2024,caucus,false,DEM,REP,1/15/24,1/20/21 13:13,9/5/23 10:48
+8753,PresidentialRace,AL,Alabama,1,U.S. President,,2024,primary,false,DEM,DEM,3/5/24,1/20/21 13:13,11/15/21 12:43
+8754,PresidentialRace,AL,Alabama,1,U.S. President,,2024,primary,false,DEM,REP,3/5/24,1/20/21 13:13,11/15/21 12:43
+8756,PresidentialRace,AR,Arkansas,1,U.S. President,,2024,primary,false,DEM,DEM,3/5/24,1/20/21 13:13,11/15/21 12:43
+8764,PresidentialRace,CA,California,1,U.S. President,,2024,primary,false,DEM,REP,3/5/24,1/20/21 13:13,11/15/21 12:43
+8844,PresidentialRace,ND,North Dakota,1,U.S. President,,2024,primary,false,DEM,DEM,4/6/24,1/20/21 13:13,9/7/23 12:45
+8846,PresidentialRace,NE,Nebraska,1,U.S. President,,2024,primary,false,DEM,DEM,5/14/24,1/20/21 13:13,11/15/21 12:43
+8847,PresidentialRace,NE,Nebraska,1,U.S. President,,2024,primary,false,DEM,REP,5/14/24,1/20/21 13:13,11/15/21 12:43
+8884,PresidentialRace,SD,South Dakota,1,U.S. President,,2024,primary,false,DEM,DEM,6/4/24,1/20/21 13:14,11/15/21 12:43
+8888,PresidentialRace,TN,Tennessee,1,U.S. President,,2024,primary,false,DEM,REP,3/5/24,1/20/21 13:14,11/15/21 12:43
+8907,PresidentialRace,WI,Wisconsin,1,U.S. President,,2024,primary,false,DEM,REP,4/2/24,1/20/21 13:14,11/15/21 12:43
+10012,GubernatorialRace,VA,Virginia,536,Governor,,2025,general,false,REP,,11/4/25,9/21/23 09:41,9/21/23 09:41
