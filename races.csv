@@ -9886,3 +9886,4 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 8888,PresidentialRace,TN,Tennessee,1,U.S. President,,2024,primary,false,DEM,REP,3/5/24,1/20/21 13:14,11/15/21 12:43
 8907,PresidentialRace,WI,Wisconsin,1,U.S. President,,2024,primary,false,DEM,REP,4/2/24,1/20/21 13:14,11/15/21 12:43
 10012,GubernatorialRace,VA,Virginia,536,Governor,,2025,general,false,REP,,11/4/25,9/21/23 09:41,9/21/23 09:41
+10013,SenateRace,CA,California,89,U.S. Senate,Class III,2024,general,true,DEM,,11/5/24,10/2/23 10:03,10/2/23 10:03
