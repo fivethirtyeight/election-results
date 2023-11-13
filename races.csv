@@ -9864,7 +9864,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 10000,HouseRace,LA,Louisiana,228,U.S. House,District 4,2024,runoff,false,REP,,12/7/24,12/7/22 14:21,12/7/22 14:21
 10001,HouseRace,LA,Louisiana,229,U.S. House,District 5,2024,runoff,false,REP,,12/7/24,12/7/22 14:21,12/7/22 14:21
 10002,HouseRace,LA,Louisiana,230,U.S. House,District 6,2024,runoff,false,REP,,12/7/24,12/7/22 14:21,12/7/22 14:21
-10003,GubernatorialRace,LA,Louisiana,224,Governor,,2023,runoff,false,DEM,,11/18/23,12/7/22 14:22,12/7/22 14:22
 10004,HouseRace,VA,Virginia,540,U.S. House,District 4,2023,general,true,vacant,,2/21/23,12/12/22 12:03,12/12/22 12:03
 9450,GubernatorialRace,CA,California,34,Governor,,2021,recall,true,"",,,5/6/21 09:10,12/12/22 12:57
 10005,HouseRace,IN,Indiana,198,U.S. House,District 2,2022,general,true,vacant,,11/8/22,12/13/22 12:38,12/13/22 12:38
@@ -9887,3 +9886,4 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 8907,PresidentialRace,WI,Wisconsin,1,U.S. President,,2024,primary,false,DEM,REP,4/2/24,1/20/21 13:14,11/15/21 12:43
 10012,GubernatorialRace,VA,Virginia,536,Governor,,2025,general,false,REP,,11/4/25,9/21/23 09:41,9/21/23 09:41
 10013,SenateRace,CA,California,88,U.S. Senate,Class I,2024,general,true,DEM,,11/5/24,10/2/23 10:03,10/2/23 10:05
+10003,GubernatorialRace,LA,Louisiana,224,Governor,,2023,runoff,false,DEM,,,12/7/22 14:22,10/20/23 10:03
