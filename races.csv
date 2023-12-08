@@ -8449,7 +8449,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 8784,PresidentialRace,GU,Guam,1,U.S. President,,2024,caucus,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
 8789,PresidentialRace,IA,Iowa,1,U.S. President,,2024,caucus,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
 8820,PresidentialRace,MI,Michigan,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
-8849,PresidentialRace,NH,New Hampshire,1,U.S. President,,2024,primary,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
 8823,PresidentialRace,MN,Minnesota,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
 8826,PresidentialRace,MO,Missouri,1,U.S. President,,2024,general,false,DEM,,11/5/24,1/20/21 13:13,1/20/21 13:13
 8858,PresidentialRace,NV,Nevada,1,U.S. President,,2024,caucus,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
@@ -8475,6 +8474,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 8829,PresidentialRace,MP,Northern Marianas Islands,1,U.S. President,,2024,caucus,false,DEM,DEM,,1/20/21 13:13,11/15/21 12:43
 8875,PresidentialRace,PR,Puerto Rico,1,U.S. President,,2024,primary,false,DEM,REP,,1/20/21 13:14,11/15/21 12:43
 8850,PresidentialRace,NH,New Hampshire,1,U.S. President,,2024,primary,false,DEM,REP,1/23/24,1/20/21 13:13,9/5/23 10:49
+8849,PresidentialRace,NH,New Hampshire,1,U.S. President,,2024,primary,false,DEM,DEM,1/23/24,1/20/21 13:13,11/16/23 10:05
 8882,PresidentialRace,SC,South Carolina,1,U.S. President,,2024,primary,false,DEM,REP,2/24/24,1/20/21 13:14,9/5/23 10:52
 8859,PresidentialRace,NV,Nevada,1,U.S. President,,2024,caucus,false,DEM,REP,2/8/24,1/20/21 13:13,9/5/23 10:51
 8821,PresidentialRace,MI,Michigan,1,U.S. President,,2024,primary,false,DEM,DEM,2/27/24,1/20/21 13:13,9/5/23 10:54
@@ -9887,3 +9887,4 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 10012,GubernatorialRace,VA,Virginia,536,Governor,,2025,general,false,REP,,11/4/25,9/21/23 09:41,9/21/23 09:41
 10013,SenateRace,CA,California,88,U.S. Senate,Class I,2024,general,true,DEM,,11/5/24,10/2/23 10:03,10/2/23 10:05
 10003,GubernatorialRace,LA,Louisiana,224,Governor,,2023,runoff,false,DEM,,,12/7/22 14:22,10/20/23 10:03
+10014,HouseRace,NY,New York,377,U.S. House,District 3,2024,general,true,vacant,,2/13/24,12/5/23 21:05,12/5/23 21:05
