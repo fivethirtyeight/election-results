@@ -10775,3 +10775,5 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 10911,GubernatorialRace,VT,Vermont,550,Governor,,2024,primary,false,REP,REP,8/13/24,1/8/24 15:40,1/8/24 15:40
 10912,GubernatorialRace,WA,Washington,554,Governor,,2024,primary,false,DEM,REP,8/6/24,1/8/24 15:40,1/8/24 15:40
 10913,GubernatorialRace,WV,West Virginia,577,Governor,,2024,primary,false,REP,REP,5/14/24,1/8/24 15:40,1/8/24 15:40
+10914,HouseRace,CA,California,54,U.S. House,District 20,2024,top two primary,true,vacant,,3/19/24,1/8/24 16:47,1/8/24 16:47
+10915,HouseRace,CA,California,54,U.S. House,District 20,2024,general,true,vacant,,5/21/24,1/8/24 16:47,1/8/24 16:47
