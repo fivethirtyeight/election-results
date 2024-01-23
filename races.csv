@@ -10686,7 +10686,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 10822,HouseRace,OH,Ohio,412,U.S. House,District 6,2024,primary,true,REP,REP,3/19/24,1/8/24 15:34,1/8/24 15:34
 10823,HouseRace,OH,Ohio,412,U.S. House,District 6,2024,general,true,REP,,6/11/24,1/8/24 15:40,1/8/24 15:40
 10824,SenateRace,AZ,Arizona,32,U.S. Senate,Class I,2024,primary,false,IND,DEM,8/6/24,1/8/24 15:40,1/8/24 15:40
-10825,SenateRace,CA,California,88,U.S. Senate,Class I,2024,primary,false,DEM,DEM,3/5/24,1/8/24 15:40,1/8/24 15:40
 10826,SenateRace,CT,Connecticut,106,U.S. Senate,Class I,2024,primary,false,DEM,DEM,8/13/24,1/8/24 15:40,1/8/24 15:40
 10827,SenateRace,DE,Delaware,110,U.S. Senate,Class I,2024,primary,false,DEM,DEM,9/10/24,1/8/24 15:40,1/8/24 15:40
 10828,SenateRace,FL,Florida,138,U.S. Senate,Class I,2024,primary,false,REP,DEM,8/20/24,1/8/24 15:40,1/8/24 15:40
@@ -10715,12 +10714,10 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 10851,SenateRace,UT,Utah,534,U.S. Senate,Class I,2024,primary,false,REP,DEM,6/25/24,1/8/24 15:40,1/8/24 15:40
 10852,SenateRace,VT,Vermont,552,U.S. Senate,Class I,2024,primary,false,IND,DEM,8/13/24,1/8/24 15:40,1/8/24 15:40
 10853,SenateRace,VA,Virginia,548,U.S. Senate,Class I,2024,primary,false,DEM,DEM,6/18/24,1/8/24 15:40,1/8/24 15:40
-10854,SenateRace,WA,Washington,564,U.S. Senate,Class I,2024,primary,false,DEM,DEM,8/6/24,1/8/24 15:40,1/8/24 15:40
 10855,SenateRace,WV,West Virginia,581,U.S. Senate,Class I,2024,primary,false,DEM,DEM,5/14/24,1/8/24 15:40,1/8/24 15:40
 10856,SenateRace,WI,Wisconsin,575,U.S. Senate,Class I,2024,primary,false,DEM,DEM,8/13/24,1/8/24 15:40,1/8/24 15:40
 10857,SenateRace,WY,Wyoming,585,U.S. Senate,Class I,2024,primary,false,REP,DEM,8/20/24,1/8/24 15:40,1/8/24 15:40
 10858,SenateRace,AZ,Arizona,32,U.S. Senate,Class I,2024,primary,false,IND,REP,8/6/24,1/8/24 15:40,1/8/24 15:40
-10859,SenateRace,CA,California,88,U.S. Senate,Class I,2024,primary,false,DEM,REP,3/5/24,1/8/24 15:40,1/8/24 15:40
 10860,SenateRace,CT,Connecticut,106,U.S. Senate,Class I,2024,primary,false,DEM,REP,8/13/24,1/8/24 15:40,1/8/24 15:40
 10861,SenateRace,DE,Delaware,110,U.S. Senate,Class I,2024,primary,false,DEM,REP,9/10/24,1/8/24 15:40,1/8/24 15:40
 10862,SenateRace,FL,Florida,138,U.S. Senate,Class I,2024,primary,false,REP,REP,8/20/24,1/8/24 15:40,1/8/24 15:40
@@ -10749,7 +10746,8 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 10885,SenateRace,UT,Utah,534,U.S. Senate,Class I,2024,primary,false,REP,REP,6/25/24,1/8/24 15:40,1/8/24 15:40
 10886,SenateRace,VT,Vermont,552,U.S. Senate,Class I,2024,primary,false,IND,REP,8/13/24,1/8/24 15:40,1/8/24 15:40
 10887,SenateRace,VA,Virginia,548,U.S. Senate,Class I,2024,primary,false,DEM,REP,6/18/24,1/8/24 15:40,1/8/24 15:40
-10888,SenateRace,WA,Washington,564,U.S. Senate,Class I,2024,primary,false,DEM,REP,8/6/24,1/8/24 15:40,1/8/24 15:40
+10854,SenateRace,WA,Washington,564,U.S. Senate,Class I,2024,top two primary,false,"",,8/6/24,1/8/24 15:40,1/8/24 16:54
+10825,SenateRace,CA,California,88,U.S. Senate,Class I,2024,top two primary,false,"",,3/5/24,1/8/24 15:40,1/8/24 16:55
 10889,SenateRace,WV,West Virginia,581,U.S. Senate,Class I,2024,primary,false,DEM,REP,5/14/24,1/8/24 15:40,1/8/24 15:40
 10890,SenateRace,WI,Wisconsin,575,U.S. Senate,Class I,2024,primary,false,DEM,REP,8/13/24,1/8/24 15:40,1/8/24 15:40
 10891,SenateRace,WY,Wyoming,585,U.S. Senate,Class I,2024,primary,false,REP,REP,8/20/24,1/8/24 15:40,1/8/24 15:40
@@ -10762,7 +10760,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 10898,GubernatorialRace,ND,North Dakota,331,Governor,,2024,primary,false,REP,DEM,6/11/24,1/8/24 15:40,1/8/24 15:40
 10899,GubernatorialRace,UT,Utah,530,Governor,,2024,primary,false,REP,DEM,6/25/24,1/8/24 15:40,1/8/24 15:40
 10900,GubernatorialRace,VT,Vermont,550,Governor,,2024,primary,false,REP,DEM,8/13/24,1/8/24 15:40,1/8/24 15:40
-10901,GubernatorialRace,WA,Washington,554,Governor,,2024,primary,false,DEM,DEM,8/6/24,1/8/24 15:40,1/8/24 15:40
 10902,GubernatorialRace,WV,West Virginia,577,Governor,,2024,primary,false,REP,DEM,5/14/24,1/8/24 15:40,1/8/24 15:40
 10903,GubernatorialRace,DE,Delaware,108,Governor,,2024,primary,false,DEM,REP,9/10/24,1/8/24 15:40,1/8/24 15:40
 10904,GubernatorialRace,IN,Indiana,196,Governor,,2024,primary,false,REP,REP,5/7/24,1/8/24 15:40,1/8/24 15:40
@@ -10773,7 +10770,10 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 10909,GubernatorialRace,ND,North Dakota,331,Governor,,2024,primary,false,REP,REP,6/11/24,1/8/24 15:40,1/8/24 15:40
 10910,GubernatorialRace,UT,Utah,530,Governor,,2024,primary,false,REP,REP,6/25/24,1/8/24 15:40,1/8/24 15:40
 10911,GubernatorialRace,VT,Vermont,550,Governor,,2024,primary,false,REP,REP,8/13/24,1/8/24 15:40,1/8/24 15:40
-10912,GubernatorialRace,WA,Washington,554,Governor,,2024,primary,false,DEM,REP,8/6/24,1/8/24 15:40,1/8/24 15:40
 10913,GubernatorialRace,WV,West Virginia,577,Governor,,2024,primary,false,REP,REP,5/14/24,1/8/24 15:40,1/8/24 15:40
 10914,HouseRace,CA,California,54,U.S. House,District 20,2024,top two primary,true,vacant,,3/19/24,1/8/24 16:47,1/8/24 16:47
 10915,HouseRace,CA,California,54,U.S. House,District 20,2024,general,true,vacant,,5/21/24,1/8/24 16:47,1/8/24 16:47
+10912,GubernatorialRace,WA,Washington,554,Governor,,2024,top two primary,false,"",,8/6/24,1/8/24 15:40,1/8/24 16:52
+10916,SenateRace,CA,California,88,U.S. Senate,Class I,2024,top two primary,true,DEM,,3/5/24,1/12/24 10:24,1/12/24 10:24
+10917,PresidentialRace,"",,1,U.S. President,,2028,primary,false,unknown,REP,,1/21/24 18:39,1/21/24 18:41
+10918,PresidentialRace,"",,1,U.S. President,,2028,primary,false,unknown,DEM,,1/23/24 08:54,1/23/24 08:54
