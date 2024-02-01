@@ -10778,3 +10778,4 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 10917,PresidentialRace,"",,1,U.S. President,,2028,primary,false,unknown,REP,,1/21/24 18:39,1/21/24 18:41
 10918,PresidentialRace,"",,1,U.S. President,,2028,primary,false,unknown,DEM,,1/23/24 08:54,1/23/24 08:54
 10919,GubernatorialRace,VA,Virginia,536,Governor,,2025,primary,false,REP,DEM,,1/24/24 14:50,1/24/24 14:50
+10920,SenateRace,TX,Texas,528,U.S. Senate,Class I,2024,primary runoff,false,REP,DEM,5/28/24,2/1/24 12:36,2/1/24 12:36
