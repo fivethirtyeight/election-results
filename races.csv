@@ -10784,3 +10784,10 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 10924,PresidentialRace,UT,Utah,1,U.S. President,,1964,general,false,DEM,,11/3/64,2/16/24 15:54,2/16/24 15:54
 10925,GubernatorialRace,FL,Florida,112,Governor,,2026,primary,false,REP,REP,,2/21/24 11:35,2/21/24 11:35
 10926,GubernatorialRace,VA,Virginia,536,Governor,,2025,primary,false,REP,REP,,2/21/24 11:37,2/21/24 11:37
+10927,GubernatorialRace,FL,Florida,112,Governor,,2026,general,false,REP,,11/3/26,2/21/24 12:04,2/21/24 12:04
+10928,SenateRace,AK,Alaska,4,U.S. Senate,Class II,2026,top four primary,false,REP,,,2/21/24 12:13,2/21/24 12:13
+10929,GubernatorialRace,NV,Nevada,368,Governor,,2026,primary,false,REP,REP,,2/21/24 12:13,2/21/24 12:13
+10932,GubernatorialRace,FL,Florida,112,Governor,,2026,primary,false,REP,DEM,,2/21/24 12:13,2/21/24 12:13
+10931,GubernatorialRace,VA,Virginia,536,Governor,,2025,primary,false,REP,DEM,,2/21/24 12:13,2/21/24 12:16
+10930,GubernatorialRace,NV,Nevada,368,Governor,,2026,primary,false,REP,DEM,,2/21/24 12:13,2/21/24 12:16
+10933,HouseRace,AL,Alabama,8,U.S. House,District 2,2024,primary runoff,false,REP,DEM,4/16/24,3/27/24 10:05,3/27/24 10:05
