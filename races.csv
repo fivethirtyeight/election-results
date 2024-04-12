@@ -10791,4 +10791,3 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 10930,GubernatorialRace,NV,Nevada,368,Governor,,2026,primary,false,REP,DEM,,2/21/24 12:13,2/21/24 12:16
 10933,HouseRace,AL,Alabama,8,U.S. House,District 2,2024,primary runoff,false,REP,DEM,4/16/24,3/27/24 10:05,3/27/24 10:05
 10934,HouseRace,NC,North Carolina,328,U.S. House,District 13,2024,primary runoff,false,DEM,REP,5/14/24,4/12/24 09:51,4/12/24 09:51
-10935,GubernatorialRace,NJ,New Jersey,346,Governor,,2025,primary,false,DEM,DEM,,4/12/24 09:54,4/12/24 09:54
