@@ -15475,3 +15475,4 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 1524,SenateRace,LA,Louisiana,233,U.S. Senate,Class III,2010,general,false,REP,,11/2/10,2/12/19 01:20,5/9/24 11:16
 15632,SenateRace,LA,Louisiana,233,U.S. Senate,Class III,1998,runoff,false,DEM,,,5/9/24 11:17,5/9/24 11:17
 15633,SenateRace,LA,Louisiana,233,U.S. Senate,Class III,2004,runoff,false,DEM,,,5/9/24 11:17,5/9/24 11:17
+15634,SenateRace,GA,Georgia,155,U.S. Senate,Class III,1992,runoff,false,DEM,,11/24/92,5/9/24 11:30,5/9/24 11:30
