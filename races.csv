@@ -15472,3 +15472,4 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 15628,SenateRace,WA,Washington,564,U.S. Senate,Class I,1976,general,false,DEM,,11/2/76,5/7/24 14:10,5/7/24 14:10
 15629,SenateRace,WI,Wisconsin,575,U.S. Senate,Class I,1976,general,false,DEM,,11/2/76,5/7/24 14:10,5/7/24 14:10
 15630,SenateRace,WY,Wyoming,585,U.S. Senate,Class I,1976,general,false,DEM,,11/2/76,5/7/24 14:10,5/7/24 14:10
+15631,SenateRace,LA,Louisiana,232,U.S. Senate,Class II,1990,runoff,false,DEM,,11/6/90,5/9/24 11:03,5/9/24 11:03
