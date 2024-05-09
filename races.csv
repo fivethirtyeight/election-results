@@ -1558,7 +1558,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 1556,SenateRace,KY,Kentucky,222,U.S. Senate,Class II,2008,general,false,REP,,11/4/08,2/12/19 01:20,10/14/21 11:14
 1629,SenateRace,KY,Kentucky,223,U.S. Senate,Class III,2004,general,false,REP,,11/2/04,2/12/19 01:20,10/14/21 11:14
 1630,SenateRace,LA,Louisiana,233,U.S. Senate,Class III,2004,jungle primary,false,DEM,,11/2/04,2/12/19 01:20,10/14/21 11:14
-1524,SenateRace,LA,Louisiana,233,U.S. Senate,Class III,2010,jungle primary,false,REP,,11/2/10,2/12/19 01:20,10/14/21 11:14
 1590,SenateRace,MA,Massachusetts,245,U.S. Senate,Class I,2006,general,false,DEM,,11/7/06,2/12/19 01:20,10/14/21 11:14
 1559,SenateRace,MA,Massachusetts,246,U.S. Senate,Class II,2008,general,false,DEM,,11/4/08,2/12/19 01:20,10/14/21 11:14
 1589,SenateRace,MD,Maryland,256,U.S. Senate,Class I,2006,general,false,DEM,,11/7/06,2/12/19 01:20,10/14/21 11:14
@@ -9047,7 +9046,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 9432,HouseRace,PR,Puerto Rico,625,U.S. House,District 1,2022,general,false,NPP,,11/8/22,1/20/21 13:16,1/20/21 13:16
 7440,PresidentialRace,PR,Puerto Rico,1,U.S. President,,2008,caucus,false,REP,REP,2/24/08,12/18/19 13:06,11/15/21 12:43
 9451,HouseRace,FL,Florida,132,U.S. House,District 20,2022,general,true,DEM,,1/11/22,5/6/21 09:10,5/6/21 09:10
-7787,SenateRace,LA,Louisiana,232,U.S. Senate,Class II,2020,runoff,false,REP,,,12/18/19 13:08,5/26/21 10:45
 7715,PresidentialRace,MN,Minnesota,1,U.S. President,,2020,primary,false,REP,DEM,3/3/20,12/18/19 13:07,11/15/21 12:43
 9452,MayoralRace,NY,New York,619,NYC Mayor,"",1985,general,false,DEM,,11/5/85,6/10/21 11:59,6/10/21 12:00
 9540,GubernatorialRace,MO,Missouri,292,Governor,,2024,general,false,REP,,11/5/24,10/28/22 14:48,10/28/22 14:48
@@ -15227,7 +15225,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 15383,SenateRace,MS,Mississippi,309,U.S. Senate,Class I,1994,general,false,REP,,11/8/94,5/7/24 14:09,5/7/24 14:09
 15384,SenateRace,ND,North Dakota,333,U.S. Senate,Class I,1994,general,false,DEM,,11/8/94,5/7/24 14:09,5/7/24 14:09
 15385,SenateRace,LA,Louisiana,233,U.S. Senate,Class III,1992,jungle primary,false,DEM,,10/3/92,5/7/24 14:09,5/7/24 14:09
-15386,SenateRace,LA,Louisiana,233,U.S. Senate,Class III,1992,runoff,false,DEM,,11/3/92,5/7/24 14:09,5/7/24 14:09
 15387,SenateRace,AK,Alaska,4,U.S. Senate,Class II,1990,general,false,REP,,11/6/90,5/7/24 14:10,5/7/24 14:10
 15388,SenateRace,AR,Arkansas,21,U.S. Senate,Class II,1990,general,false,DEM,,11/6/90,5/7/24 14:10,5/7/24 14:10
 15389,SenateRace,DE,Delaware,111,U.S. Senate,Class II,1990,general,false,DEM,,11/6/90,5/7/24 14:10,5/7/24 14:10
@@ -15317,7 +15314,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 15473,SenateRace,KS,Kansas,213,U.S. Senate,Class II,1984,general,false,REP,,11/6/84,5/7/24 14:10,5/7/24 14:10
 15474,SenateRace,KY,Kentucky,222,U.S. Senate,Class II,1984,general,false,DEM,,11/6/84,5/7/24 14:10,5/7/24 14:10
 15475,SenateRace,LA,Louisiana,232,U.S. Senate,Class II,1984,jungle primary,false,DEM,,9/29/84,5/7/24 14:10,5/7/24 14:10
-15476,SenateRace,LA,Louisiana,232,U.S. Senate,Class II,1984,runoff,false,DEM,,11/6/84,5/7/24 14:10,5/7/24 14:10
 15477,SenateRace,ME,Maine,262,U.S. Senate,Class II,1984,general,false,REP,,11/6/84,5/7/24 14:10,5/7/24 14:10
 15478,SenateRace,MA,Massachusetts,246,U.S. Senate,Class II,1984,general,false,DEM,,11/6/84,5/7/24 14:10,5/7/24 14:10
 15479,SenateRace,MI,Michigan,280,U.S. Senate,Class II,1984,general,false,DEM,,11/6/84,5/7/24 14:10,5/7/24 14:10
@@ -15388,7 +15384,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 15544,SenateRace,KS,Kansas,214,U.S. Senate,Class III,1980,general,false,REP,,11/4/80,5/7/24 14:10,5/7/24 14:10
 15545,SenateRace,KY,Kentucky,223,U.S. Senate,Class III,1980,general,false,DEM,,11/4/80,5/7/24 14:10,5/7/24 14:10
 15546,SenateRace,LA,Louisiana,233,U.S. Senate,Class III,1980,jungle primary,false,DEM,,9/13/80,5/7/24 14:10,5/7/24 14:10
-15547,SenateRace,LA,Louisiana,233,U.S. Senate,Class III,1980,runoff,false,DEM,,11/4/80,5/7/24 14:10,5/7/24 14:10
 15548,SenateRace,MD,Maryland,257,U.S. Senate,Class III,1980,general,false,REP,,11/4/80,5/7/24 14:10,5/7/24 14:10
 15549,SenateRace,MO,Missouri,303,U.S. Senate,Class III,1980,general,false,DEM,,11/4/80,5/7/24 14:10,5/7/24 14:10
 15550,SenateRace,NV,Nevada,373,U.S. Senate,Class III,1980,general,false,REP,,11/4/80,5/7/24 14:10,5/7/24 14:10
@@ -15419,7 +15414,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 15575,SenateRace,KS,Kansas,213,U.S. Senate,Class II,1978,general,false,REP,,11/7/78,5/7/24 14:10,5/7/24 14:10
 15576,SenateRace,KY,Kentucky,222,U.S. Senate,Class II,1978,general,false,DEM,,11/7/78,5/7/24 14:10,5/7/24 14:10
 15577,SenateRace,LA,Louisiana,232,U.S. Senate,Class II,1978,jungle primary,false,DEM,,9/16/78,5/7/24 14:10,5/7/24 14:10
-15578,SenateRace,LA,Louisiana,232,U.S. Senate,Class II,1978,runoff,false,DEM,,11/7/78,5/7/24 14:10,5/7/24 14:10
 15579,SenateRace,ME,Maine,262,U.S. Senate,Class II,1978,general,false,DEM,,11/7/78,5/7/24 14:10,5/7/24 14:10
 15580,SenateRace,MA,Massachusetts,246,U.S. Senate,Class II,1978,general,false,REP,,11/7/78,5/7/24 14:10,5/7/24 14:10
 15581,SenateRace,MI,Michigan,280,U.S. Senate,Class II,1978,general,false,REP,,11/7/78,5/7/24 14:10,5/7/24 14:10
@@ -15472,4 +15466,12 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 15628,SenateRace,WA,Washington,564,U.S. Senate,Class I,1976,general,false,DEM,,11/2/76,5/7/24 14:10,5/7/24 14:10
 15629,SenateRace,WI,Wisconsin,575,U.S. Senate,Class I,1976,general,false,DEM,,11/2/76,5/7/24 14:10,5/7/24 14:10
 15630,SenateRace,WY,Wyoming,585,U.S. Senate,Class I,1976,general,false,DEM,,11/2/76,5/7/24 14:10,5/7/24 14:10
-15631,SenateRace,LA,Louisiana,232,U.S. Senate,Class II,1990,runoff,false,DEM,,11/6/90,5/9/24 11:03,5/9/24 11:03
+15578,SenateRace,LA,Louisiana,232,U.S. Senate,Class II,1978,runoff,false,DEM,,,5/7/24 14:10,5/9/24 11:10
+15547,SenateRace,LA,Louisiana,233,U.S. Senate,Class III,1980,runoff,false,DEM,,,5/7/24 14:10,5/9/24 11:11
+15476,SenateRace,LA,Louisiana,232,U.S. Senate,Class II,1984,runoff,false,DEM,,,5/7/24 14:10,5/9/24 11:11
+15631,SenateRace,LA,Louisiana,232,U.S. Senate,Class II,1990,runoff,false,DEM,,,5/9/24 11:03,5/9/24 11:11
+15386,SenateRace,LA,Louisiana,233,U.S. Senate,Class III,1992,runoff,false,DEM,,,5/7/24 14:09,5/9/24 11:11
+7787,SenateRace,LA,Louisiana,232,U.S. Senate,Class II,2020,runoff,false,REP,,,12/18/19 13:08,5/9/24 11:12
+1524,SenateRace,LA,Louisiana,233,U.S. Senate,Class III,2010,general,false,REP,,11/2/10,2/12/19 01:20,5/9/24 11:16
+15632,SenateRace,LA,Louisiana,233,U.S. Senate,Class III,1998,runoff,false,DEM,,,5/9/24 11:17,5/9/24 11:17
+15633,SenateRace,LA,Louisiana,233,U.S. Senate,Class III,2004,runoff,false,DEM,,,5/9/24 11:17,5/9/24 11:17
