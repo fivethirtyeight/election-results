@@ -15476,3 +15476,441 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 15632,SenateRace,LA,Louisiana,233,U.S. Senate,Class III,1998,runoff,false,DEM,,,5/9/24 11:17,5/9/24 11:17
 15633,SenateRace,LA,Louisiana,233,U.S. Senate,Class III,2004,runoff,false,DEM,,,5/9/24 11:17,5/9/24 11:17
 15634,SenateRace,GA,Georgia,155,U.S. Senate,Class III,1992,runoff,false,DEM,,11/24/92,5/9/24 11:30,5/9/24 11:30
+15635,HouseRace,AL,Alabama,7,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15636,HouseRace,AL,Alabama,8,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15637,HouseRace,AL,Alabama,9,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15638,HouseRace,AL,Alabama,10,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15639,HouseRace,AL,Alabama,11,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15640,HouseRace,AL,Alabama,12,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15641,HouseRace,AL,Alabama,13,U.S. House,District 7,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15642,HouseRace,AK,Alaska,3,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15643,HouseRace,AZ,Arizona,24,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15644,HouseRace,AZ,Arizona,25,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15645,HouseRace,AZ,Arizona,26,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15646,HouseRace,AZ,Arizona,27,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15647,HouseRace,AR,Arkansas,17,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15648,HouseRace,AR,Arkansas,18,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15649,HouseRace,AR,Arkansas,19,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15650,HouseRace,AR,Arkansas,20,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15651,HouseRace,CA,California,35,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15652,HouseRace,CA,California,36,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15653,HouseRace,CA,California,37,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15654,HouseRace,CA,California,38,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15655,HouseRace,CA,California,39,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15656,HouseRace,CA,California,40,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15657,HouseRace,CA,California,41,U.S. House,District 7,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15658,HouseRace,CA,California,42,U.S. House,District 8,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15659,HouseRace,CA,California,43,U.S. House,District 9,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15660,HouseRace,CA,California,44,U.S. House,District 10,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15661,HouseRace,CA,California,45,U.S. House,District 11,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15662,HouseRace,CA,California,46,U.S. House,District 12,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15663,HouseRace,CA,California,47,U.S. House,District 13,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15664,HouseRace,CA,California,48,U.S. House,District 14,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15665,HouseRace,CA,California,49,U.S. House,District 15,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15666,HouseRace,CA,California,50,U.S. House,District 16,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15667,HouseRace,CA,California,51,U.S. House,District 17,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15668,HouseRace,CA,California,52,U.S. House,District 18,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15669,HouseRace,CA,California,53,U.S. House,District 19,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15670,HouseRace,CA,California,54,U.S. House,District 20,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15671,HouseRace,CA,California,55,U.S. House,District 21,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15672,HouseRace,CA,California,56,U.S. House,District 22,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15673,HouseRace,CA,California,57,U.S. House,District 23,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15674,HouseRace,CA,California,58,U.S. House,District 24,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15675,HouseRace,CA,California,59,U.S. House,District 25,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15676,HouseRace,CA,California,60,U.S. House,District 26,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15677,HouseRace,CA,California,61,U.S. House,District 27,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15678,HouseRace,CA,California,62,U.S. House,District 28,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15679,HouseRace,CA,California,63,U.S. House,District 29,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15680,HouseRace,CA,California,64,U.S. House,District 30,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15681,HouseRace,CA,California,65,U.S. House,District 31,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15682,HouseRace,CA,California,66,U.S. House,District 32,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15683,HouseRace,CA,California,67,U.S. House,District 33,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15684,HouseRace,CA,California,68,U.S. House,District 34,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15685,HouseRace,CA,California,69,U.S. House,District 35,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15686,HouseRace,CA,California,70,U.S. House,District 36,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15687,HouseRace,CA,California,71,U.S. House,District 37,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15688,HouseRace,CA,California,72,U.S. House,District 38,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15689,HouseRace,CA,California,73,U.S. House,District 39,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15690,HouseRace,CA,California,74,U.S. House,District 40,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15691,HouseRace,CA,California,75,U.S. House,District 41,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15692,HouseRace,CA,California,76,U.S. House,District 42,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15693,HouseRace,CA,California,77,U.S. House,District 43,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15694,HouseRace,CO,Colorado,91,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15695,HouseRace,CO,Colorado,92,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15696,HouseRace,CO,Colorado,93,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15697,HouseRace,CO,Colorado,94,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15698,HouseRace,CO,Colorado,95,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15699,HouseRace,CT,Connecticut,101,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15700,HouseRace,CT,Connecticut,102,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15701,HouseRace,CT,Connecticut,103,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15702,HouseRace,CT,Connecticut,104,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15703,HouseRace,CT,Connecticut,105,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15704,HouseRace,CT,Connecticut,591,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15705,HouseRace,DE,Delaware,109,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15706,HouseRace,FL,Florida,113,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15707,HouseRace,FL,Florida,114,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15708,HouseRace,FL,Florida,115,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15709,HouseRace,FL,Florida,116,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15710,HouseRace,FL,Florida,117,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15711,HouseRace,FL,Florida,118,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15712,HouseRace,FL,Florida,119,U.S. House,District 7,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15713,HouseRace,FL,Florida,120,U.S. House,District 8,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15714,HouseRace,FL,Florida,121,U.S. House,District 9,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15715,HouseRace,FL,Florida,122,U.S. House,District 10,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15716,HouseRace,FL,Florida,123,U.S. House,District 11,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15717,HouseRace,FL,Florida,124,U.S. House,District 12,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15718,HouseRace,FL,Florida,125,U.S. House,District 13,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15719,HouseRace,FL,Florida,126,U.S. House,District 14,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15720,HouseRace,FL,Florida,127,U.S. House,District 15,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15721,HouseRace,GA,Georgia,141,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15722,HouseRace,GA,Georgia,142,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15723,HouseRace,GA,Georgia,143,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15724,HouseRace,GA,Georgia,144,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15725,HouseRace,GA,Georgia,145,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15726,HouseRace,GA,Georgia,146,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15727,HouseRace,GA,Georgia,147,U.S. House,District 7,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15728,HouseRace,GA,Georgia,148,U.S. House,District 8,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15729,HouseRace,GA,Georgia,149,U.S. House,District 9,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15730,HouseRace,GA,Georgia,150,U.S. House,District 10,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15731,HouseRace,HI,Hawaii,157,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15732,HouseRace,HI,Hawaii,158,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15733,HouseRace,ID,Idaho,170,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15734,HouseRace,ID,Idaho,171,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15735,HouseRace,IL,Illinois,175,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15736,HouseRace,IL,Illinois,176,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15737,HouseRace,IL,Illinois,177,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15738,HouseRace,IL,Illinois,178,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15739,HouseRace,IL,Illinois,179,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15740,HouseRace,IL,Illinois,180,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15741,HouseRace,IL,Illinois,181,U.S. House,District 7,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15742,HouseRace,IL,Illinois,182,U.S. House,District 8,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15743,HouseRace,IL,Illinois,183,U.S. House,District 9,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15744,HouseRace,IL,Illinois,184,U.S. House,District 10,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15745,HouseRace,IL,Illinois,185,U.S. House,District 11,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15746,HouseRace,IL,Illinois,186,U.S. House,District 12,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15747,HouseRace,IL,Illinois,187,U.S. House,District 13,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15748,HouseRace,IL,Illinois,188,U.S. House,District 14,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15749,HouseRace,IL,Illinois,189,U.S. House,District 15,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15750,HouseRace,IL,Illinois,190,U.S. House,District 16,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15751,HouseRace,IL,Illinois,191,U.S. House,District 17,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15752,HouseRace,IL,Illinois,192,U.S. House,District 18,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15753,HouseRace,IL,Illinois,193,U.S. House,District 19,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15754,HouseRace,IL,Illinois,595,U.S. House,District 20,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15755,HouseRace,IL,Illinois,685,U.S. House,District 21,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15756,HouseRace,IL,Illinois,686,U.S. House,District 22,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15757,HouseRace,IL,Illinois,703,U.S. House,District 23,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15758,HouseRace,IL,Illinois,704,U.S. House,District 24,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15759,HouseRace,IN,Indiana,197,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15760,HouseRace,IN,Indiana,198,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15761,HouseRace,IN,Indiana,199,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15762,HouseRace,IN,Indiana,200,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15763,HouseRace,IN,Indiana,201,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15764,HouseRace,IN,Indiana,202,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15765,HouseRace,IN,Indiana,203,U.S. House,District 7,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15766,HouseRace,IN,Indiana,204,U.S. House,District 8,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15767,HouseRace,IN,Indiana,205,U.S. House,District 9,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15768,HouseRace,IN,Indiana,596,U.S. House,District 10,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15769,HouseRace,IN,Indiana,705,U.S. House,District 11,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15770,HouseRace,IA,Iowa,162,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15771,HouseRace,IA,Iowa,163,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15772,HouseRace,IA,Iowa,164,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15773,HouseRace,IA,Iowa,165,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15774,HouseRace,IA,Iowa,166,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15775,HouseRace,IA,Iowa,687,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15776,HouseRace,KS,Kansas,209,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15777,HouseRace,KS,Kansas,210,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15778,HouseRace,KS,Kansas,211,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15779,HouseRace,KS,Kansas,212,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15780,HouseRace,KS,Kansas,688,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15781,HouseRace,KY,Kentucky,216,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15782,HouseRace,KY,Kentucky,217,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15783,HouseRace,KY,Kentucky,218,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15784,HouseRace,KY,Kentucky,219,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15785,HouseRace,KY,Kentucky,220,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15786,HouseRace,KY,Kentucky,221,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15787,HouseRace,KY,Kentucky,689,U.S. House,District 7,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15788,HouseRace,LA,Louisiana,225,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15789,HouseRace,LA,Louisiana,226,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15790,HouseRace,LA,Louisiana,227,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15791,HouseRace,LA,Louisiana,228,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15792,HouseRace,LA,Louisiana,229,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15793,HouseRace,LA,Louisiana,230,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15794,HouseRace,LA,Louisiana,231,U.S. House,District 7,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15795,HouseRace,LA,Louisiana,690,U.S. House,District 8,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15796,HouseRace,ME,Maine,259,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15797,HouseRace,ME,Maine,260,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15798,HouseRace,MD,Maryland,248,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15799,HouseRace,MD,Maryland,249,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15800,HouseRace,MD,Maryland,250,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15801,HouseRace,MD,Maryland,251,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15802,HouseRace,MD,Maryland,252,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15803,HouseRace,MD,Maryland,253,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15804,HouseRace,MD,Maryland,254,U.S. House,District 7,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15805,HouseRace,MD,Maryland,255,U.S. House,District 8,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15806,HouseRace,MA,Massachusetts,235,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15807,HouseRace,MA,Massachusetts,236,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15808,HouseRace,MA,Massachusetts,237,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15809,HouseRace,MA,Massachusetts,238,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15810,HouseRace,MA,Massachusetts,239,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15811,HouseRace,MA,Massachusetts,240,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15812,HouseRace,MA,Massachusetts,241,U.S. House,District 7,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15813,HouseRace,MA,Massachusetts,242,U.S. House,District 8,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15814,HouseRace,MA,Massachusetts,243,U.S. House,District 9,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15815,HouseRace,MA,Massachusetts,244,U.S. House,District 10,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15816,HouseRace,MA,Massachusetts,691,U.S. House,District 11,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15817,HouseRace,MA,Massachusetts,706,U.S. House,District 12,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15818,HouseRace,MI,Michigan,264,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15819,HouseRace,MI,Michigan,265,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15820,HouseRace,MI,Michigan,266,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15821,HouseRace,MI,Michigan,267,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15822,HouseRace,MI,Michigan,268,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15823,HouseRace,MI,Michigan,269,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15824,HouseRace,MI,Michigan,270,U.S. House,District 7,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15825,HouseRace,MI,Michigan,271,U.S. House,District 8,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15826,HouseRace,MI,Michigan,272,U.S. House,District 9,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15827,HouseRace,MI,Michigan,273,U.S. House,District 10,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15828,HouseRace,MI,Michigan,274,U.S. House,District 11,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15829,HouseRace,MI,Michigan,275,U.S. House,District 12,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15830,HouseRace,MI,Michigan,276,U.S. House,District 13,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15831,HouseRace,MI,Michigan,277,U.S. House,District 14,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15832,HouseRace,MI,Michigan,278,U.S. House,District 15,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15833,HouseRace,MI,Michigan,599,U.S. House,District 16,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15834,HouseRace,MI,Michigan,692,U.S. House,District 17,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15835,HouseRace,MI,Michigan,693,U.S. House,District 18,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15836,HouseRace,MI,Michigan,707,U.S. House,District 19,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15837,HouseRace,MN,Minnesota,282,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15838,HouseRace,MN,Minnesota,283,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15839,HouseRace,MN,Minnesota,284,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15840,HouseRace,MN,Minnesota,285,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15841,HouseRace,MN,Minnesota,286,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15842,HouseRace,MN,Minnesota,287,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15843,HouseRace,MN,Minnesota,288,U.S. House,District 7,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15844,HouseRace,MN,Minnesota,289,U.S. House,District 8,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15845,HouseRace,MS,Mississippi,305,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15846,HouseRace,MS,Mississippi,306,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15847,HouseRace,MS,Mississippi,307,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15848,HouseRace,MS,Mississippi,308,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15849,HouseRace,MS,Mississippi,600,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15850,HouseRace,MO,Missouri,293,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15851,HouseRace,MO,Missouri,294,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15852,HouseRace,MO,Missouri,295,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15853,HouseRace,MO,Missouri,296,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15854,HouseRace,MO,Missouri,297,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15855,HouseRace,MO,Missouri,298,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15856,HouseRace,MO,Missouri,299,U.S. House,District 7,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15857,HouseRace,MO,Missouri,300,U.S. House,District 8,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15858,HouseRace,MO,Missouri,301,U.S. House,District 9,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15859,HouseRace,MO,Missouri,708,U.S. House,District 10,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15860,HouseRace,MT,Montana,312,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15861,HouseRace,MT,Montana,629,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15862,HouseRace,NE,Nebraska,336,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15863,HouseRace,NE,Nebraska,337,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15864,HouseRace,NE,Nebraska,338,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15865,HouseRace,NV,Nevada,369,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15866,HouseRace,NH,New Hampshire,342,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15867,HouseRace,NH,New Hampshire,343,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15868,HouseRace,NJ,New Jersey,347,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15869,HouseRace,NJ,New Jersey,348,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15870,HouseRace,NJ,New Jersey,349,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15871,HouseRace,NJ,New Jersey,350,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15872,HouseRace,NJ,New Jersey,351,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15873,HouseRace,NJ,New Jersey,352,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15874,HouseRace,NJ,New Jersey,353,U.S. House,District 7,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15875,HouseRace,NJ,New Jersey,354,U.S. House,District 8,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15876,HouseRace,NJ,New Jersey,355,U.S. House,District 9,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15877,HouseRace,NJ,New Jersey,356,U.S. House,District 10,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15878,HouseRace,NJ,New Jersey,357,U.S. House,District 11,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15879,HouseRace,NJ,New Jersey,358,U.S. House,District 12,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15880,HouseRace,NJ,New Jersey,359,U.S. House,District 13,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15881,HouseRace,NJ,New Jersey,694,U.S. House,District 14,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15882,HouseRace,NJ,New Jersey,709,U.S. House,District 15,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15883,HouseRace,NM,New Mexico,363,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15884,HouseRace,NM,New Mexico,364,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15885,HouseRace,NY,New York,375,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15886,HouseRace,NY,New York,376,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15887,HouseRace,NY,New York,377,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15888,HouseRace,NY,New York,378,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15889,HouseRace,NY,New York,379,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15890,HouseRace,NY,New York,380,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15891,HouseRace,NY,New York,381,U.S. House,District 7,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15892,HouseRace,NY,New York,382,U.S. House,District 8,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15893,HouseRace,NY,New York,383,U.S. House,District 9,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15894,HouseRace,NY,New York,384,U.S. House,District 10,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15895,HouseRace,NY,New York,385,U.S. House,District 11,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15896,HouseRace,NY,New York,386,U.S. House,District 12,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15897,HouseRace,NY,New York,387,U.S. House,District 13,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15898,HouseRace,NY,New York,388,U.S. House,District 14,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15899,HouseRace,NY,New York,389,U.S. House,District 15,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15900,HouseRace,NY,New York,390,U.S. House,District 16,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15901,HouseRace,NY,New York,391,U.S. House,District 17,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15902,HouseRace,NY,New York,392,U.S. House,District 18,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15903,HouseRace,NY,New York,393,U.S. House,District 19,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15904,HouseRace,NY,New York,394,U.S. House,District 20,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15905,HouseRace,NY,New York,395,U.S. House,District 21,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15906,HouseRace,NY,New York,396,U.S. House,District 22,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15907,HouseRace,NY,New York,397,U.S. House,District 23,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15908,HouseRace,NY,New York,398,U.S. House,District 24,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15909,HouseRace,NY,New York,399,U.S. House,District 25,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15910,HouseRace,NY,New York,400,U.S. House,District 26,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15911,HouseRace,NY,New York,401,U.S. House,District 27,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15912,HouseRace,NY,New York,402,U.S. House,District 28,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15913,HouseRace,NY,New York,403,U.S. House,District 29,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15914,HouseRace,NY,New York,605,U.S. House,District 30,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15915,HouseRace,NY,New York,606,U.S. House,District 31,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15916,HouseRace,NY,New York,695,U.S. House,District 32,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15917,HouseRace,NY,New York,696,U.S. House,District 33,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15918,HouseRace,NY,New York,697,U.S. House,District 34,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15919,HouseRace,NY,New York,710,U.S. House,District 35,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15920,HouseRace,NY,New York,711,U.S. House,District 36,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15921,HouseRace,NY,New York,712,U.S. House,District 37,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15922,HouseRace,NY,New York,713,U.S. House,District 38,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15923,HouseRace,NY,New York,714,U.S. House,District 39,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15924,HouseRace,NC,North Carolina,316,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15925,HouseRace,NC,North Carolina,317,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15926,HouseRace,NC,North Carolina,318,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15927,HouseRace,NC,North Carolina,319,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15928,HouseRace,NC,North Carolina,320,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15929,HouseRace,NC,North Carolina,321,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15930,HouseRace,NC,North Carolina,322,U.S. House,District 7,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15931,HouseRace,NC,North Carolina,323,U.S. House,District 8,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15932,HouseRace,NC,North Carolina,324,U.S. House,District 9,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15933,HouseRace,NC,North Carolina,325,U.S. House,District 10,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15934,HouseRace,NC,North Carolina,326,U.S. House,District 11,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15935,HouseRace,ND,North Dakota,332,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15936,HouseRace,OH,Ohio,407,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15937,HouseRace,OH,Ohio,408,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15938,HouseRace,OH,Ohio,409,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15939,HouseRace,OH,Ohio,410,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15940,HouseRace,OH,Ohio,411,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15941,HouseRace,OH,Ohio,412,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15942,HouseRace,OH,Ohio,413,U.S. House,District 7,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15943,HouseRace,OH,Ohio,414,U.S. House,District 8,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15944,HouseRace,OH,Ohio,415,U.S. House,District 9,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15945,HouseRace,OH,Ohio,416,U.S. House,District 10,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15946,HouseRace,OH,Ohio,417,U.S. House,District 11,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15947,HouseRace,OH,Ohio,418,U.S. House,District 12,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15948,HouseRace,OH,Ohio,419,U.S. House,District 13,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15949,HouseRace,OH,Ohio,420,U.S. House,District 14,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15950,HouseRace,OH,Ohio,421,U.S. House,District 15,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15951,HouseRace,OH,Ohio,422,U.S. House,District 16,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15952,HouseRace,OH,Ohio,423,U.S. House,District 17,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15953,HouseRace,OH,Ohio,424,U.S. House,District 18,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15954,HouseRace,OH,Ohio,607,U.S. House,District 19,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15955,HouseRace,OH,Ohio,698,U.S. House,District 20,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15956,HouseRace,OH,Ohio,699,U.S. House,District 21,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15957,HouseRace,OH,Ohio,716,U.S. House,District 22,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15958,HouseRace,OH,Ohio,715,U.S. House,District 23,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15959,HouseRace,OK,Oklahoma,428,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15960,HouseRace,OK,Oklahoma,429,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15961,HouseRace,OK,Oklahoma,430,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15962,HouseRace,OK,Oklahoma,431,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15963,HouseRace,OK,Oklahoma,432,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15964,HouseRace,OK,Oklahoma,608,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15965,HouseRace,OR,Oregon,436,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15966,HouseRace,OR,Oregon,437,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15967,HouseRace,OR,Oregon,438,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15968,HouseRace,OR,Oregon,439,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15969,HouseRace,PA,Pennsylvania,444,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15970,HouseRace,PA,Pennsylvania,445,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15971,HouseRace,PA,Pennsylvania,446,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15972,HouseRace,PA,Pennsylvania,447,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15973,HouseRace,PA,Pennsylvania,448,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15974,HouseRace,PA,Pennsylvania,449,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15975,HouseRace,PA,Pennsylvania,450,U.S. House,District 7,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15976,HouseRace,PA,Pennsylvania,451,U.S. House,District 8,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15977,HouseRace,PA,Pennsylvania,452,U.S. House,District 9,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15978,HouseRace,PA,Pennsylvania,453,U.S. House,District 10,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15979,HouseRace,PA,Pennsylvania,454,U.S. House,District 11,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15980,HouseRace,PA,Pennsylvania,455,U.S. House,District 12,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15981,HouseRace,PA,Pennsylvania,456,U.S. House,District 13,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15982,HouseRace,PA,Pennsylvania,457,U.S. House,District 14,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15983,HouseRace,PA,Pennsylvania,458,U.S. House,District 15,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15984,HouseRace,PA,Pennsylvania,459,U.S. House,District 16,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15985,HouseRace,PA,Pennsylvania,460,U.S. House,District 17,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15986,HouseRace,PA,Pennsylvania,461,U.S. House,District 18,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15987,HouseRace,PA,Pennsylvania,462,U.S. House,District 19,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15988,HouseRace,PA,Pennsylvania,609,U.S. House,District 20,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15989,HouseRace,PA,Pennsylvania,610,U.S. House,District 21,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15990,HouseRace,PA,Pennsylvania,700,U.S. House,District 22,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15991,HouseRace,PA,Pennsylvania,701,U.S. House,District 23,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15992,HouseRace,PA,Pennsylvania,717,U.S. House,District 24,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15993,HouseRace,PA,Pennsylvania,718,U.S. House,District 25,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15994,HouseRace,RI,Rhode Island,466,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15995,HouseRace,RI,Rhode Island,467,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15996,HouseRace,SC,South Carolina,471,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15997,HouseRace,SC,South Carolina,472,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15998,HouseRace,SC,South Carolina,473,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+15999,HouseRace,SC,South Carolina,474,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16000,HouseRace,SC,South Carolina,475,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16001,HouseRace,SC,South Carolina,476,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16002,HouseRace,SD,South Dakota,480,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16003,HouseRace,SD,South Dakota,719,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16004,HouseRace,TN,Tennessee,484,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16005,HouseRace,TN,Tennessee,485,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16006,HouseRace,TN,Tennessee,486,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16007,HouseRace,TN,Tennessee,487,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16008,HouseRace,TN,Tennessee,488,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16009,HouseRace,TN,Tennessee,489,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16010,HouseRace,TN,Tennessee,490,U.S. House,District 7,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16011,HouseRace,TN,Tennessee,491,U.S. House,District 8,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16012,HouseRace,TX,Texas,496,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16013,HouseRace,TX,Texas,497,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16014,HouseRace,TX,Texas,498,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16015,HouseRace,TX,Texas,499,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16016,HouseRace,TX,Texas,500,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16017,HouseRace,TX,Texas,501,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16018,HouseRace,TX,Texas,502,U.S. House,District 7,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16019,HouseRace,TX,Texas,503,U.S. House,District 8,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16020,HouseRace,TX,Texas,504,U.S. House,District 9,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16021,HouseRace,TX,Texas,505,U.S. House,District 10,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16022,HouseRace,TX,Texas,506,U.S. House,District 11,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16023,HouseRace,TX,Texas,507,U.S. House,District 12,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16024,HouseRace,TX,Texas,508,U.S. House,District 13,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16025,HouseRace,TX,Texas,509,U.S. House,District 14,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16026,HouseRace,TX,Texas,510,U.S. House,District 15,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16027,HouseRace,TX,Texas,511,U.S. House,District 16,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16028,HouseRace,TX,Texas,512,U.S. House,District 17,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16029,HouseRace,TX,Texas,513,U.S. House,District 18,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16030,HouseRace,TX,Texas,514,U.S. House,District 19,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16031,HouseRace,TX,Texas,515,U.S. House,District 20,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16032,HouseRace,TX,Texas,516,U.S. House,District 21,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16033,HouseRace,TX,Texas,517,U.S. House,District 22,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16034,HouseRace,TX,Texas,518,U.S. House,District 23,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16035,HouseRace,TX,Texas,519,U.S. House,District 24,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16036,HouseRace,UT,Utah,531,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16037,HouseRace,UT,Utah,532,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16038,HouseRace,VT,Vermont,551,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16039,HouseRace,VA,Virginia,537,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16040,HouseRace,VA,Virginia,538,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16041,HouseRace,VA,Virginia,539,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16042,HouseRace,VA,Virginia,540,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16043,HouseRace,VA,Virginia,541,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16044,HouseRace,VA,Virginia,542,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16045,HouseRace,VA,Virginia,543,U.S. House,District 7,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16046,HouseRace,VA,Virginia,544,U.S. House,District 8,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16047,HouseRace,VA,Virginia,545,U.S. House,District 9,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16048,HouseRace,VA,Virginia,546,U.S. House,District 10,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16049,HouseRace,WA,Washington,555,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16050,HouseRace,WA,Washington,556,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16051,HouseRace,WA,Washington,557,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16052,HouseRace,WA,Washington,558,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16053,HouseRace,WA,Washington,559,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16054,HouseRace,WA,Washington,560,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16055,HouseRace,WA,Washington,561,U.S. House,District 7,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16056,HouseRace,WV,West Virginia,578,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16057,HouseRace,WV,West Virginia,579,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16058,HouseRace,WV,West Virginia,580,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16059,HouseRace,WV,West Virginia,702,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16060,HouseRace,WI,Wisconsin,567,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16061,HouseRace,WI,Wisconsin,568,U.S. House,District 2,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16062,HouseRace,WI,Wisconsin,569,U.S. House,District 3,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16063,HouseRace,WI,Wisconsin,570,U.S. House,District 4,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16064,HouseRace,WI,Wisconsin,571,U.S. House,District 5,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16065,HouseRace,WI,Wisconsin,572,U.S. House,District 6,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16066,HouseRace,WI,Wisconsin,573,U.S. House,District 7,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16067,HouseRace,WI,Wisconsin,574,U.S. House,District 8,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16068,HouseRace,WI,Wisconsin,618,U.S. House,District 9,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16069,HouseRace,WY,Wyoming,584,U.S. House,District 1,1976,general,false,,,11/2/76,5/13/24 13:42,5/13/24 13:42
+16070,SenateRace,WV,West Virginia,581,U.S. Senate,Class I,1976,general,false,DEM,,11/2/76,5/16/24 15:37,5/16/24 15:37
+16071,HouseRace,PR,Puerto Rico,625,U.S. House,District 1,2024,primary,false,NPP,NPP,6/2/24,5/31/24 16:08,5/31/24 16:08
+16072,GubernatorialRace,PR,Puerto Rico,624,Governor,,2024,primary,false,NPP,NPP,6/2/24,5/31/24 16:09,5/31/24 16:09
