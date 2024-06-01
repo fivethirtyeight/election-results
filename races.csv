@@ -15914,3 +15914,5 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,sp
 16070,SenateRace,WV,West Virginia,581,U.S. Senate,Class I,1976,general,false,DEM,,11/2/76,5/16/24 15:37,5/16/24 15:37
 16071,HouseRace,PR,Puerto Rico,625,U.S. House,District 1,2024,primary,false,NPP,NPP,6/2/24,5/31/24 16:08,5/31/24 16:08
 16072,GubernatorialRace,PR,Puerto Rico,624,Governor,,2024,primary,false,NPP,NPP,6/2/24,5/31/24 16:09,5/31/24 16:09
+16073,HouseRace,PR,Puerto Rico,625,U.S. House,District 1,2024,primary,false,PPD,PPD,6/2/24,5/31/24 21:31,5/31/24 21:31
+16074,GubernatorialRace,PR,Puerto Rico,624,Governor,,2024,primary,false,PPD,PPD,6/2/24,5/31/24 21:31,5/31/24 21:31
