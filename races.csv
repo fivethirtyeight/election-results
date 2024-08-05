@@ -5102,7 +5102,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 5282,HouseRace,TX,Texas,520,U.S. House,District 25,2012,general,,false,DEM,11/6/12,REP,2/12/19 01:22,10/14/21 11:14
 5283,HouseRace,TX,Texas,521,U.S. House,District 26,2012,general,,false,REP,11/6/12,REP,2/12/19 01:22,10/14/21 11:14
 5247,HouseRace,SC,South Carolina,611,U.S. House,District 7,2012,general,,false,new_seat,11/6/12,REP,2/12/19 01:22,10/14/21 11:14
-408,HouseRace,NC,North Carolina,324,U.S. House,District 9,2018,general,,false,REP,11/6/18,,10/2/18 17:04,9/13/22 14:49
+408,HouseRace,NC,North Carolina,324,U.S. House,District 9,2018,general,,false,REP,11/6/18,REP,10/2/18 17:04,9/13/22 14:49
 5332,HouseRace,AL,Alabama,7,U.S. House,District 1,2014,general,,false,REP,11/4/14,REP,2/12/19 01:22,10/14/21 11:14
 5333,HouseRace,AL,Alabama,8,U.S. House,District 2,2014,general,,false,REP,11/4/14,REP,2/12/19 01:22,10/14/21 11:14
 5334,HouseRace,AL,Alabama,9,U.S. House,District 3,2014,general,,false,REP,11/4/14,REP,2/12/19 01:22,10/14/21 11:14
@@ -15917,3 +15917,4 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 15098,HouseRace,LA,Louisiana,231,U.S. House,District 7,1978,runoff,,false,DEM,,,5/7/24 14:09,5/7/24 14:09
 15099,HouseRace,LA,Louisiana,690,U.S. House,District 8,1978,runoff,,false,DEM,,,5/7/24 14:09,5/7/24 14:09
 16075,HouseRace,WI,Wisconsin,573,U.S. House,District 7,2024,general,,false,REP,11/5/24,,7/10/24 15:22,7/10/24 15:22
+16076,HouseRace,TX,Texas,513,U.S. House,District 18,2024,general,,true,DEM,11/5/24,,8/5/24 10:40,8/5/24 10:40
