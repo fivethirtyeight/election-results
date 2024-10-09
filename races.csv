@@ -526,7 +526,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 1214,GubernatorialRace,VA,Virginia,536,Governor,,2017,general,,false,DEM,11/7/17,DEM,2/12/19 01:20,10/14/21 11:14
 1266,GubernatorialRace,VT,Vermont,550,Governor,,2012,general,,false,DEM,11/6/12,DEM,2/12/19 01:20,10/14/21 11:14
 1230,GubernatorialRace,VT,Vermont,550,Governor,,2014,general,,false,DEM,11/4/14,DEM,2/12/19 01:20,10/14/21 11:14
-123,SenateRace,VT,Vermont,552,U.S. Senate,Class I,2018,general,,false,DEM,11/6/18,IND,6/22/18 15:15,10/14/21 11:14
 1245,GubernatorialRace,WI,Wisconsin,566,Governor,,2014,general,,false,REP,11/4/14,REP,2/12/19 01:20,10/14/21 11:14
 1231,GubernatorialRace,WY,Wyoming,583,Governor,,2014,general,,false,REP,11/4/14,REP,2/12/19 01:20,10/14/21 11:14
 924,PresidentialRace,KS,Kansas,1,U.S. President,,1992,general,,false,REP,11/3/92,,2/12/19 01:20,2/12/19 01:20
@@ -15382,7 +15381,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 15551,SenateRace,NH,New Hampshire,345,U.S. Senate,Class III,1980,general,,false,DEM,11/4/80,REP,5/7/24 14:10,5/7/24 14:10
 15552,SenateRace,NY,New York,405,U.S. Senate,Class III,1980,general,,false,REP,11/4/80,CRV,5/7/24 14:10,5/7/24 14:10
 15553,SenateRace,NC,North Carolina,330,U.S. Senate,Class III,1980,general,,false,DEM,11/4/80,REP,5/7/24 14:10,5/7/24 14:10
-15554,SenateRace,ND,North Dakota,334,U.S. Senate,Class III,1980,general,,false,REP,11/4/80,,5/7/24 14:10,5/7/24 14:10
+15554,SenateRace,ND,North Dakota,334,U.S. Senate,Class III,1980,general,,false,REP,11/4/80,REP,5/7/24 14:10,5/7/24 14:10
 15555,SenateRace,OH,Ohio,426,U.S. Senate,Class III,1980,general,,false,DEM,11/4/80,DEM,5/7/24 14:10,5/7/24 14:10
 15556,SenateRace,OK,Oklahoma,434,U.S. Senate,Class III,1980,general,,false,REP,11/4/80,REP,5/7/24 14:10,5/7/24 14:10
 15557,SenateRace,OR,Oregon,442,U.S. Senate,Class III,1980,general,,false,REP,11/4/80,REP,5/7/24 14:10,5/7/24 14:10
@@ -15920,3 +15919,4 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 16076,HouseRace,TX,Texas,513,U.S. House,District 18,2024,general,,true,DEM,11/5/24,,8/5/24 10:40,8/5/24 10:40
 16077,GubernatorialRace,CA,California,34,Governor,,2026,top two primary,,false,DEM,,,8/30/24 12:40,8/30/24 12:40
 16078,GubernatorialRace,CA,California,34,Governor,,2026,general,,false,DEM,11/3/26,,8/30/24 12:40,8/30/24 12:40
+123,SenateRace,VT,Vermont,552,U.S. Senate,Class I,2018,general,,false,IND,11/6/18,IND,6/22/18 15:15,10/9/24 16:08
