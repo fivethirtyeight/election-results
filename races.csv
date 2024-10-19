@@ -15921,3 +15921,10 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 16078,GubernatorialRace,CA,California,34,Governor,,2026,general,,false,DEM,11/3/26,,8/30/24 12:40,8/30/24 12:40
 123,SenateRace,VT,Vermont,552,U.S. Senate,Class I,2018,general,,false,IND,11/6/18,IND,6/22/18 15:15,10/9/24 16:08
 16079,PresidentialRace,PR,Puerto Rico,1,U.S. President,,2024,general,,false,DEM,11/5/24,,10/12/24 10:08,10/12/24 10:08
+16080,GubernatorialRace,MD,Maryland,247,Governor,,2026,general,,false,DEM,11/3/26,,10/17/24 08:29,10/17/24 08:29
+16081,GubernatorialRace,MD,Maryland,247,Governor,,2026,primary,REP,false,DEM,,,10/17/24 08:29,10/17/24 08:29
+16082,GubernatorialRace,MD,Maryland,247,Governor,,2026,primary,DEM,false,DEM,,,10/17/24 08:29,10/17/24 08:29
+16083,GubernatorialRace,MA,Massachusetts,234,Governor,,2026,general,,false,DEM,11/3/26,,10/17/24 08:41,10/17/24 08:41
+16084,GubernatorialRace,MA,Massachusetts,234,Governor,,2026,primary,REP,false,DEM,,,10/17/24 08:41,10/17/24 08:41
+16085,GubernatorialRace,MA,Massachusetts,234,Governor,,2026,primary,DEM,false,DEM,,,10/17/24 08:41,10/17/24 08:41
+16086,HouseRace,GU,Guam,720,U.S. House,District 1,2024,general,,false,"",11/5/24,,10/18/24 20:23,10/18/24 20:23
