@@ -15928,3 +15928,191 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 16084,GubernatorialRace,MA,Massachusetts,234,Governor,,2026,primary,REP,false,DEM,,,10/17/24 08:41,10/17/24 08:41
 16085,GubernatorialRace,MA,Massachusetts,234,Governor,,2026,primary,DEM,false,DEM,,,10/17/24 08:41,10/17/24 08:41
 16086,HouseRace,GU,Guam,720,U.S. House,District 1,2024,general,,false,"",11/5/24,,10/18/24 20:23,10/18/24 20:23
+16087,SenateRace,AL,Alabama,14,U.S. Senate,Class II,2026,general,,false,REP,11/3/26,,11/4/24 13:56,11/4/24 13:56
+16088,SenateRace,AR,Arkansas,21,U.S. Senate,Class II,2026,general,,false,REP,11/3/26,,11/4/24 13:56,11/4/24 13:56
+16089,SenateRace,CO,Colorado,98,U.S. Senate,Class II,2026,general,,false,DEM,11/3/26,,11/4/24 13:56,11/4/24 13:56
+16090,SenateRace,DE,Delaware,111,U.S. Senate,Class II,2026,general,,false,DEM,11/3/26,,11/4/24 13:56,11/4/24 13:56
+16091,SenateRace,GA,Georgia,154,U.S. Senate,Class II,2026,general,,false,DEM,11/3/26,,11/4/24 13:56,11/4/24 13:56
+16092,SenateRace,ID,Idaho,172,U.S. Senate,Class II,2026,general,,false,REP,11/3/26,,11/4/24 13:56,11/4/24 13:56
+16093,SenateRace,IL,Illinois,194,U.S. Senate,Class II,2026,general,,false,DEM,11/3/26,,11/4/24 13:56,11/4/24 13:56
+16094,SenateRace,IA,Iowa,167,U.S. Senate,Class II,2026,general,,false,REP,11/3/26,,11/4/24 13:56,11/4/24 13:56
+16095,SenateRace,KS,Kansas,213,U.S. Senate,Class II,2026,general,,false,REP,11/3/26,,11/4/24 13:56,11/4/24 13:56
+16096,SenateRace,KY,Kentucky,222,U.S. Senate,Class II,2026,general,,false,REP,11/3/26,,11/4/24 13:56,11/4/24 13:56
+16098,SenateRace,ME,Maine,262,U.S. Senate,Class II,2026,general,,false,REP,11/3/26,,11/4/24 13:56,11/4/24 13:56
+16099,SenateRace,MA,Massachusetts,246,U.S. Senate,Class II,2026,general,,false,DEM,11/3/26,,11/4/24 13:56,11/4/24 13:56
+16100,SenateRace,MI,Michigan,280,U.S. Senate,Class II,2026,general,,false,DEM,11/3/26,,11/4/24 13:57,11/4/24 13:57
+16101,SenateRace,MN,Minnesota,291,U.S. Senate,Class II,2026,general,,false,DEM,11/3/26,,11/4/24 13:57,11/4/24 13:57
+16102,SenateRace,MS,Mississippi,310,U.S. Senate,Class II,2026,general,,false,REP,11/3/26,,11/4/24 13:57,11/4/24 13:57
+16103,SenateRace,MT,Montana,314,U.S. Senate,Class II,2026,general,,false,REP,11/3/26,,11/4/24 13:57,11/4/24 13:57
+16104,SenateRace,NE,Nebraska,340,U.S. Senate,Class II,2026,general,,false,REP,11/3/26,,11/4/24 13:57,11/4/24 13:57
+16105,SenateRace,NH,New Hampshire,344,U.S. Senate,Class II,2026,general,,false,DEM,11/3/26,,11/4/24 13:57,11/4/24 13:57
+16106,SenateRace,NJ,New Jersey,361,U.S. Senate,Class II,2026,general,,false,DEM,11/3/26,,11/4/24 13:57,11/4/24 13:57
+16107,SenateRace,NM,New Mexico,367,U.S. Senate,Class II,2026,general,,false,DEM,11/3/26,,11/4/24 13:57,11/4/24 13:57
+16108,SenateRace,NC,North Carolina,329,U.S. Senate,Class II,2026,general,,false,REP,11/3/26,,11/4/24 13:57,11/4/24 13:57
+16109,SenateRace,OK,Oklahoma,433,U.S. Senate,Class II,2026,general,,false,REP,11/3/26,,11/4/24 13:57,11/4/24 13:57
+16110,SenateRace,OR,Oregon,441,U.S. Senate,Class II,2026,general,,false,DEM,11/3/26,,11/4/24 13:57,11/4/24 13:57
+16111,SenateRace,RI,Rhode Island,469,U.S. Senate,Class II,2026,general,,false,DEM,11/3/26,,11/4/24 13:57,11/4/24 13:57
+16112,SenateRace,SC,South Carolina,477,U.S. Senate,Class II,2026,general,,false,REP,11/3/26,,11/4/24 13:57,11/4/24 13:57
+16113,SenateRace,SD,South Dakota,481,U.S. Senate,Class II,2026,general,,false,REP,11/3/26,,11/4/24 13:57,11/4/24 13:57
+16114,SenateRace,TN,Tennessee,494,U.S. Senate,Class II,2026,general,,false,REP,11/3/26,,11/4/24 13:57,11/4/24 13:57
+16115,SenateRace,TX,Texas,529,U.S. Senate,Class II,2026,general,,false,REP,11/3/26,,11/4/24 13:57,11/4/24 13:57
+16116,SenateRace,VA,Virginia,549,U.S. Senate,Class II,2026,general,,false,DEM,11/3/26,,11/4/24 13:57,11/4/24 13:57
+16118,SenateRace,WV,West Virginia,582,U.S. Senate,Class II,2026,general,,false,REP,11/3/26,,11/4/24 13:58,11/4/24 13:58
+16119,SenateRace,WY,Wyoming,586,U.S. Senate,Class II,2026,general,,false,REP,11/3/26,,11/4/24 13:58,11/4/24 13:58
+16120,SenateRace,AL,Alabama,14,U.S. Senate,Class II,2026,primary,REP,false,REP,,,11/4/24 13:58,11/4/24 13:58
+16121,SenateRace,AR,Arkansas,21,U.S. Senate,Class II,2026,primary,REP,false,REP,,,11/4/24 13:58,11/4/24 13:58
+16122,SenateRace,CO,Colorado,98,U.S. Senate,Class II,2026,primary,REP,false,DEM,,,11/4/24 13:58,11/4/24 13:58
+16123,SenateRace,DE,Delaware,111,U.S. Senate,Class II,2026,primary,REP,false,DEM,,,11/4/24 13:58,11/4/24 13:58
+16124,SenateRace,GA,Georgia,154,U.S. Senate,Class II,2026,primary,REP,false,DEM,,,11/4/24 13:58,11/4/24 13:58
+16125,SenateRace,ID,Idaho,172,U.S. Senate,Class II,2026,primary,REP,false,REP,,,11/4/24 13:58,11/4/24 13:58
+16126,SenateRace,IL,Illinois,194,U.S. Senate,Class II,2026,primary,REP,false,DEM,,,11/4/24 13:58,11/4/24 13:58
+16127,SenateRace,IA,Iowa,167,U.S. Senate,Class II,2026,primary,REP,false,REP,,,11/4/24 13:58,11/4/24 13:58
+16128,SenateRace,KS,Kansas,213,U.S. Senate,Class II,2026,primary,REP,false,REP,,,11/4/24 13:58,11/4/24 13:58
+16129,SenateRace,KY,Kentucky,222,U.S. Senate,Class II,2026,primary,REP,false,REP,,,11/4/24 13:58,11/4/24 13:58
+16131,SenateRace,ME,Maine,262,U.S. Senate,Class II,2026,primary,REP,false,REP,,,11/4/24 13:58,11/4/24 13:58
+16132,SenateRace,MA,Massachusetts,246,U.S. Senate,Class II,2026,primary,REP,false,DEM,,,11/4/24 13:58,11/4/24 13:58
+16133,SenateRace,MI,Michigan,280,U.S. Senate,Class II,2026,primary,REP,false,DEM,,,11/4/24 13:58,11/4/24 13:58
+16134,SenateRace,MN,Minnesota,291,U.S. Senate,Class II,2026,primary,REP,false,DEM,,,11/4/24 13:58,11/4/24 13:58
+16135,SenateRace,MS,Mississippi,310,U.S. Senate,Class II,2026,primary,REP,false,REP,,,11/4/24 13:58,11/4/24 13:58
+16136,SenateRace,MT,Montana,314,U.S. Senate,Class II,2026,primary,REP,false,REP,,,11/4/24 13:58,11/4/24 13:58
+16137,SenateRace,NE,Nebraska,340,U.S. Senate,Class II,2026,primary,REP,false,REP,,,11/4/24 13:58,11/4/24 13:58
+16138,SenateRace,NH,New Hampshire,344,U.S. Senate,Class II,2026,primary,REP,false,DEM,,,11/4/24 13:58,11/4/24 13:58
+16139,SenateRace,NJ,New Jersey,361,U.S. Senate,Class II,2026,primary,REP,false,DEM,,,11/4/24 13:58,11/4/24 13:58
+16140,SenateRace,NM,New Mexico,367,U.S. Senate,Class II,2026,primary,REP,false,DEM,,,11/4/24 13:58,11/4/24 13:58
+16141,SenateRace,NC,North Carolina,329,U.S. Senate,Class II,2026,primary,REP,false,REP,,,11/4/24 13:58,11/4/24 13:58
+16142,SenateRace,OK,Oklahoma,433,U.S. Senate,Class II,2026,primary,REP,false,REP,,,11/4/24 13:58,11/4/24 13:58
+16143,SenateRace,OR,Oregon,441,U.S. Senate,Class II,2026,primary,REP,false,DEM,,,11/4/24 13:58,11/4/24 13:58
+16144,SenateRace,RI,Rhode Island,469,U.S. Senate,Class II,2026,primary,REP,false,DEM,,,11/4/24 13:58,11/4/24 13:58
+16145,SenateRace,SC,South Carolina,477,U.S. Senate,Class II,2026,primary,REP,false,REP,,,11/4/24 13:58,11/4/24 13:58
+16146,SenateRace,SD,South Dakota,481,U.S. Senate,Class II,2026,primary,REP,false,REP,,,11/4/24 13:58,11/4/24 13:58
+16148,SenateRace,TN,Tennessee,494,U.S. Senate,Class II,2026,primary,REP,false,REP,,,11/4/24 13:59,11/4/24 13:59
+16149,SenateRace,TX,Texas,529,U.S. Senate,Class II,2026,primary,REP,false,REP,,,11/4/24 13:59,11/4/24 13:59
+16150,SenateRace,VA,Virginia,549,U.S. Senate,Class II,2026,primary,REP,false,DEM,,,11/4/24 13:59,11/4/24 13:59
+16151,SenateRace,WV,West Virginia,582,U.S. Senate,Class II,2026,primary,REP,false,REP,,,11/4/24 13:59,11/4/24 13:59
+16152,SenateRace,WY,Wyoming,586,U.S. Senate,Class II,2026,primary,REP,false,REP,,,11/4/24 13:59,11/4/24 13:59
+16153,SenateRace,AL,Alabama,14,U.S. Senate,Class II,2026,primary,DEM,false,REP,,,11/4/24 13:59,11/4/24 13:59
+16154,SenateRace,AR,Arkansas,21,U.S. Senate,Class II,2026,primary,DEM,false,REP,,,11/4/24 13:59,11/4/24 13:59
+16155,SenateRace,CO,Colorado,98,U.S. Senate,Class II,2026,primary,DEM,false,DEM,,,11/4/24 13:59,11/4/24 13:59
+16156,SenateRace,DE,Delaware,111,U.S. Senate,Class II,2026,primary,DEM,false,DEM,,,11/4/24 13:59,11/4/24 13:59
+16157,SenateRace,GA,Georgia,154,U.S. Senate,Class II,2026,primary,DEM,false,DEM,,,11/4/24 13:59,11/4/24 13:59
+16158,SenateRace,ID,Idaho,172,U.S. Senate,Class II,2026,primary,DEM,false,REP,,,11/4/24 13:59,11/4/24 13:59
+16159,SenateRace,IL,Illinois,194,U.S. Senate,Class II,2026,primary,DEM,false,DEM,,,11/4/24 13:59,11/4/24 13:59
+16160,SenateRace,IA,Iowa,167,U.S. Senate,Class II,2026,primary,DEM,false,REP,,,11/4/24 13:59,11/4/24 13:59
+16161,SenateRace,KS,Kansas,213,U.S. Senate,Class II,2026,primary,DEM,false,REP,,,11/4/24 13:59,11/4/24 13:59
+16162,SenateRace,KY,Kentucky,222,U.S. Senate,Class II,2026,primary,DEM,false,REP,,,11/4/24 13:59,11/4/24 13:59
+16164,SenateRace,ME,Maine,262,U.S. Senate,Class II,2026,primary,DEM,false,REP,,,11/4/24 13:59,11/4/24 13:59
+16165,SenateRace,MA,Massachusetts,246,U.S. Senate,Class II,2026,primary,DEM,false,DEM,,,11/4/24 13:59,11/4/24 13:59
+16166,SenateRace,MI,Michigan,280,U.S. Senate,Class II,2026,primary,DEM,false,DEM,,,11/4/24 13:59,11/4/24 13:59
+16167,SenateRace,MN,Minnesota,291,U.S. Senate,Class II,2026,primary,DEM,false,DEM,,,11/4/24 13:59,11/4/24 13:59
+16168,SenateRace,MS,Mississippi,310,U.S. Senate,Class II,2026,primary,DEM,false,REP,,,11/4/24 13:59,11/4/24 13:59
+16169,SenateRace,MT,Montana,314,U.S. Senate,Class II,2026,primary,DEM,false,REP,,,11/4/24 13:59,11/4/24 13:59
+16170,SenateRace,NE,Nebraska,340,U.S. Senate,Class II,2026,primary,DEM,false,REP,,,11/4/24 13:59,11/4/24 13:59
+16171,SenateRace,NH,New Hampshire,344,U.S. Senate,Class II,2026,primary,DEM,false,DEM,,,11/4/24 13:59,11/4/24 13:59
+16172,SenateRace,NJ,New Jersey,361,U.S. Senate,Class II,2026,primary,DEM,false,DEM,,,11/4/24 13:59,11/4/24 13:59
+16173,SenateRace,NM,New Mexico,367,U.S. Senate,Class II,2026,primary,DEM,false,DEM,,,11/4/24 13:59,11/4/24 13:59
+16174,SenateRace,NC,North Carolina,329,U.S. Senate,Class II,2026,primary,DEM,false,REP,,,11/4/24 13:59,11/4/24 13:59
+16175,SenateRace,OK,Oklahoma,433,U.S. Senate,Class II,2026,primary,DEM,false,REP,,,11/4/24 13:59,11/4/24 13:59
+16176,SenateRace,OR,Oregon,441,U.S. Senate,Class II,2026,primary,DEM,false,DEM,,,11/4/24 13:59,11/4/24 13:59
+16177,SenateRace,RI,Rhode Island,469,U.S. Senate,Class II,2026,primary,DEM,false,DEM,,,11/4/24 13:59,11/4/24 13:59
+16178,SenateRace,SC,South Carolina,477,U.S. Senate,Class II,2026,primary,DEM,false,REP,,,11/4/24 13:59,11/4/24 13:59
+16179,SenateRace,SD,South Dakota,481,U.S. Senate,Class II,2026,primary,DEM,false,REP,,,11/4/24 13:59,11/4/24 13:59
+16180,SenateRace,TN,Tennessee,494,U.S. Senate,Class II,2026,primary,DEM,false,REP,,,11/4/24 13:59,11/4/24 13:59
+16181,SenateRace,TX,Texas,529,U.S. Senate,Class II,2026,primary,DEM,false,REP,,,11/4/24 13:59,11/4/24 13:59
+16182,SenateRace,VA,Virginia,549,U.S. Senate,Class II,2026,primary,DEM,false,DEM,,,11/4/24 14:00,11/4/24 14:00
+16183,SenateRace,WV,West Virginia,582,U.S. Senate,Class II,2026,primary,DEM,false,REP,,,11/4/24 14:00,11/4/24 14:00
+16184,SenateRace,WY,Wyoming,586,U.S. Senate,Class II,2026,primary,DEM,false,REP,,,11/4/24 14:00,11/4/24 14:00
+16185,GubernatorialRace,AL,Alabama,6,Governor,,2026,general,,false,REP,11/3/26,,11/4/24 14:00,11/4/24 14:00
+16186,GubernatorialRace,AK,Alaska,2,Governor,,2026,general,,false,REP,11/3/26,,11/4/24 14:00,11/4/24 14:00
+16187,GubernatorialRace,AZ,Arizona,23,Governor,,2026,general,,false,DEM,11/3/26,,11/4/24 14:00,11/4/24 14:00
+16188,GubernatorialRace,AR,Arkansas,16,Governor,,2026,general,,false,DEM,11/3/26,,11/4/24 14:00,11/4/24 14:00
+16189,GubernatorialRace,CO,Colorado,90,Governor,,2026,general,,false,DEM,11/3/26,,11/4/24 14:00,11/4/24 14:00
+16190,GubernatorialRace,CT,Connecticut,100,Governor,,2026,general,,false,DEM,11/3/26,,11/4/24 14:00,11/4/24 14:00
+16191,GubernatorialRace,GA,Georgia,140,Governor,,2026,general,,false,REP,11/3/26,,11/4/24 14:00,11/4/24 14:00
+16192,GubernatorialRace,HI,Hawaii,156,Governor,,2026,general,,false,DEM,11/3/26,,11/4/24 14:00,11/4/24 14:00
+16193,GubernatorialRace,ID,Idaho,169,Governor,,2026,general,,false,REP,11/3/26,,11/4/24 14:00,11/4/24 14:00
+16194,GubernatorialRace,IL,Illinois,174,Governor,,2026,general,,false,DEM,11/3/26,,11/4/24 14:00,11/4/24 14:00
+16195,GubernatorialRace,IA,Iowa,161,Governor,,2026,general,,false,REP,11/3/26,,11/4/24 14:00,11/4/24 14:00
+16196,GubernatorialRace,KS,Kansas,208,Governor,,2026,general,,false,DEM,11/3/26,,11/4/24 14:00,11/4/24 14:00
+16197,GubernatorialRace,ME,Maine,258,Governor,,2026,general,,false,DEM,11/3/26,,11/4/24 14:00,11/4/24 14:00
+16198,GubernatorialRace,MI,Michigan,263,Governor,,2026,general,,false,DEM,11/3/26,,11/4/24 14:00,11/4/24 14:00
+16199,GubernatorialRace,MN,Minnesota,281,Governor,,2026,general,,false,DEM,11/3/26,,11/4/24 14:00,11/4/24 14:00
+16200,GubernatorialRace,NE,Nebraska,335,Governor,,2026,general,,false,REP,11/3/26,,11/4/24 14:00,11/4/24 14:00
+16097,SenateRace,LA,Louisiana,232,U.S. Senate,Class II,2026,jungle primary,,false,REP,11/3/26,,11/4/24 13:56,11/4/24 14:01
+16130,SenateRace,LA,Louisiana,232,U.S. Senate,Class II,2026,runoff,,false,REP,,,11/4/24 13:58,11/4/24 14:01
+16202,GubernatorialRace,NH,New Hampshire,341,Governor,,2026,general,,false,"",11/3/26,,11/4/24 14:02,11/4/24 14:02
+16203,GubernatorialRace,NM,New Mexico,362,Governor,,2026,general,,false,DEM,11/3/26,,11/4/24 14:02,11/4/24 14:02
+16204,GubernatorialRace,NY,New York,374,Governor,,2026,general,,false,DEM,11/3/26,,11/4/24 14:02,11/4/24 14:02
+16205,GubernatorialRace,OH,Ohio,406,Governor,,2026,general,,false,REP,11/3/26,,11/4/24 14:02,11/4/24 14:02
+16206,GubernatorialRace,OK,Oklahoma,427,Governor,,2026,general,,false,REP,11/3/26,,11/4/24 14:02,11/4/24 14:02
+16207,GubernatorialRace,OR,Oregon,435,Governor,,2026,general,,false,DEM,11/3/26,,11/4/24 14:02,11/4/24 14:02
+16208,GubernatorialRace,PA,Pennsylvania,443,Governor,,2026,general,,false,DEM,11/3/26,,11/4/24 14:02,11/4/24 14:02
+16209,GubernatorialRace,RI,Rhode Island,465,Governor,,2026,general,,false,DEM,11/3/26,,11/4/24 14:02,11/4/24 14:02
+16210,GubernatorialRace,SC,South Carolina,470,Governor,,2026,general,,false,REP,11/3/26,,11/4/24 14:02,11/4/24 14:02
+16211,GubernatorialRace,SD,South Dakota,479,Governor,,2026,general,,false,REP,11/3/26,,11/4/24 14:02,11/4/24 14:02
+16212,GubernatorialRace,TN,Tennessee,483,Governor,,2026,general,,false,REP,11/3/26,,11/4/24 14:02,11/4/24 14:02
+16213,GubernatorialRace,TX,Texas,495,Governor,,2026,general,,false,REP,11/3/26,,11/4/24 14:02,11/4/24 14:02
+16214,GubernatorialRace,VT,Vermont,550,Governor,,2026,general,,false,REP,11/3/26,,11/4/24 14:02,11/4/24 14:02
+16215,GubernatorialRace,WI,Wisconsin,566,Governor,,2026,general,,false,DEM,11/3/26,,11/4/24 14:02,11/4/24 14:02
+16216,GubernatorialRace,WY,Wyoming,583,Governor,,2026,general,,false,REP,11/3/26,,11/4/24 14:02,11/4/24 14:02
+16217,GubernatorialRace,AL,Alabama,6,Governor,,2026,primary,DEM,false,REP,,,11/4/24 14:02,11/4/24 14:02
+16218,GubernatorialRace,AK,Alaska,2,Governor,,2026,top four primary,,false,REP,,,11/4/24 14:02,11/4/24 14:02
+16219,GubernatorialRace,AZ,Arizona,23,Governor,,2026,primary,DEM,false,DEM,,,11/4/24 14:02,11/4/24 14:02
+16220,GubernatorialRace,AR,Arkansas,16,Governor,,2026,primary,DEM,false,DEM,,,11/4/24 14:02,11/4/24 14:02
+16221,GubernatorialRace,CO,Colorado,90,Governor,,2026,primary,DEM,false,DEM,,,11/4/24 14:02,11/4/24 14:02
+16222,GubernatorialRace,CT,Connecticut,100,Governor,,2026,primary,DEM,false,DEM,,,11/4/24 14:02,11/4/24 14:02
+16223,GubernatorialRace,GA,Georgia,140,Governor,,2026,primary,DEM,false,REP,,,11/4/24 14:02,11/4/24 14:02
+16224,GubernatorialRace,HI,Hawaii,156,Governor,,2026,primary,DEM,false,DEM,,,11/4/24 14:02,11/4/24 14:02
+16225,GubernatorialRace,ID,Idaho,169,Governor,,2026,primary,DEM,false,REP,,,11/4/24 14:02,11/4/24 14:02
+16226,GubernatorialRace,IL,Illinois,174,Governor,,2026,primary,DEM,false,DEM,,,11/4/24 14:02,11/4/24 14:02
+16227,GubernatorialRace,IA,Iowa,161,Governor,,2026,primary,DEM,false,REP,,,11/4/24 14:02,11/4/24 14:02
+16228,GubernatorialRace,KS,Kansas,208,Governor,,2026,primary,DEM,false,DEM,,,11/4/24 14:02,11/4/24 14:02
+16229,GubernatorialRace,ME,Maine,258,Governor,,2026,primary,DEM,false,DEM,,,11/4/24 14:02,11/4/24 14:02
+16230,GubernatorialRace,MI,Michigan,263,Governor,,2026,primary,DEM,false,DEM,,,11/4/24 14:02,11/4/24 14:02
+16231,GubernatorialRace,MN,Minnesota,281,Governor,,2026,primary,DEM,false,DEM,,,11/4/24 14:02,11/4/24 14:02
+16232,GubernatorialRace,NE,Nebraska,335,Governor,,2026,primary,DEM,false,REP,,,11/4/24 14:02,11/4/24 14:02
+16233,GubernatorialRace,NH,New Hampshire,341,Governor,,2026,primary,DEM,false,"",,,11/4/24 14:02,11/4/24 14:02
+16235,GubernatorialRace,NM,New Mexico,362,Governor,,2026,primary,DEM,false,DEM,,,11/4/24 14:03,11/4/24 14:03
+16236,GubernatorialRace,NY,New York,374,Governor,,2026,primary,DEM,false,DEM,,,11/4/24 14:03,11/4/24 14:03
+16237,GubernatorialRace,OH,Ohio,406,Governor,,2026,primary,DEM,false,REP,,,11/4/24 14:03,11/4/24 14:03
+16238,GubernatorialRace,OK,Oklahoma,427,Governor,,2026,primary,DEM,false,REP,,,11/4/24 14:03,11/4/24 14:03
+16239,GubernatorialRace,OR,Oregon,435,Governor,,2026,primary,DEM,false,DEM,,,11/4/24 14:03,11/4/24 14:03
+16240,GubernatorialRace,PA,Pennsylvania,443,Governor,,2026,primary,DEM,false,DEM,,,11/4/24 14:03,11/4/24 14:03
+16241,GubernatorialRace,RI,Rhode Island,465,Governor,,2026,primary,DEM,false,DEM,,,11/4/24 14:03,11/4/24 14:03
+16242,GubernatorialRace,SC,South Carolina,470,Governor,,2026,primary,DEM,false,REP,,,11/4/24 14:03,11/4/24 14:03
+16243,GubernatorialRace,SD,South Dakota,479,Governor,,2026,primary,DEM,false,REP,,,11/4/24 14:03,11/4/24 14:03
+16244,GubernatorialRace,TN,Tennessee,483,Governor,,2026,primary,DEM,false,REP,,,11/4/24 14:03,11/4/24 14:03
+16245,GubernatorialRace,TX,Texas,495,Governor,,2026,primary,DEM,false,REP,,,11/4/24 14:03,11/4/24 14:03
+16246,GubernatorialRace,VT,Vermont,550,Governor,,2026,primary,DEM,false,REP,,,11/4/24 14:03,11/4/24 14:03
+16247,GubernatorialRace,WI,Wisconsin,566,Governor,,2026,primary,DEM,false,DEM,,,11/4/24 14:03,11/4/24 14:03
+16248,GubernatorialRace,WY,Wyoming,583,Governor,,2026,primary,DEM,false,REP,,,11/4/24 14:03,11/4/24 14:03
+16249,GubernatorialRace,AL,Alabama,6,Governor,,2026,primary,REP,false,REP,,,11/4/24 14:03,11/4/24 14:03
+16250,GubernatorialRace,AZ,Arizona,23,Governor,,2026,primary,REP,false,DEM,,,11/4/24 14:03,11/4/24 14:03
+16251,GubernatorialRace,AR,Arkansas,16,Governor,,2026,primary,REP,false,DEM,,,11/4/24 14:03,11/4/24 14:03
+16252,GubernatorialRace,CO,Colorado,90,Governor,,2026,primary,REP,false,DEM,,,11/4/24 14:03,11/4/24 14:03
+16253,GubernatorialRace,CT,Connecticut,100,Governor,,2026,primary,REP,false,DEM,,,11/4/24 14:03,11/4/24 14:03
+16254,GubernatorialRace,GA,Georgia,140,Governor,,2026,primary,REP,false,REP,,,11/4/24 14:03,11/4/24 14:03
+16255,GubernatorialRace,HI,Hawaii,156,Governor,,2026,primary,REP,false,DEM,,,11/4/24 14:03,11/4/24 14:03
+16256,GubernatorialRace,ID,Idaho,169,Governor,,2026,primary,REP,false,REP,,,11/4/24 14:03,11/4/24 14:03
+16257,GubernatorialRace,IL,Illinois,174,Governor,,2026,primary,REP,false,DEM,,,11/4/24 14:03,11/4/24 14:03
+16258,GubernatorialRace,IA,Iowa,161,Governor,,2026,primary,REP,false,REP,,,11/4/24 14:03,11/4/24 14:03
+16259,GubernatorialRace,KS,Kansas,208,Governor,,2026,primary,REP,false,DEM,,,11/4/24 14:03,11/4/24 14:03
+16260,GubernatorialRace,ME,Maine,258,Governor,,2026,primary,REP,false,DEM,,,11/4/24 14:03,11/4/24 14:03
+16261,GubernatorialRace,MI,Michigan,263,Governor,,2026,primary,REP,false,DEM,,,11/4/24 14:03,11/4/24 14:03
+16262,GubernatorialRace,MN,Minnesota,281,Governor,,2026,primary,REP,false,DEM,,,11/4/24 14:03,11/4/24 14:03
+16263,GubernatorialRace,NE,Nebraska,335,Governor,,2026,primary,REP,false,REP,,,11/4/24 14:03,11/4/24 14:03
+16264,GubernatorialRace,NH,New Hampshire,341,Governor,,2026,primary,REP,false,"",,,11/4/24 14:03,11/4/24 14:03
+16266,GubernatorialRace,NM,New Mexico,362,Governor,,2026,primary,REP,false,DEM,,,11/4/24 14:03,11/4/24 14:03
+16267,GubernatorialRace,NY,New York,374,Governor,,2026,primary,REP,false,DEM,,,11/4/24 14:03,11/4/24 14:03
+16268,GubernatorialRace,OH,Ohio,406,Governor,,2026,primary,REP,false,REP,,,11/4/24 14:03,11/4/24 14:03
+16269,GubernatorialRace,OK,Oklahoma,427,Governor,,2026,primary,REP,false,REP,,,11/4/24 14:03,11/4/24 14:03
+16270,GubernatorialRace,OR,Oregon,435,Governor,,2026,primary,REP,false,DEM,,,11/4/24 14:03,11/4/24 14:03
+16271,GubernatorialRace,PA,Pennsylvania,443,Governor,,2026,primary,REP,false,DEM,,,11/4/24 14:03,11/4/24 14:03
+16272,GubernatorialRace,RI,Rhode Island,465,Governor,,2026,primary,REP,false,DEM,,,11/4/24 14:03,11/4/24 14:03
+16273,GubernatorialRace,SC,South Carolina,470,Governor,,2026,primary,REP,false,REP,,,11/4/24 14:03,11/4/24 14:03
+16274,GubernatorialRace,SD,South Dakota,479,Governor,,2026,primary,REP,false,REP,,,11/4/24 14:03,11/4/24 14:03
+16275,GubernatorialRace,TN,Tennessee,483,Governor,,2026,primary,REP,false,REP,,,11/4/24 14:04,11/4/24 14:04
+16276,GubernatorialRace,TX,Texas,495,Governor,,2026,primary,REP,false,REP,,,11/4/24 14:04,11/4/24 14:04
+16277,GubernatorialRace,VT,Vermont,550,Governor,,2026,primary,REP,false,REP,,,11/4/24 14:04,11/4/24 14:04
+16278,GubernatorialRace,WI,Wisconsin,566,Governor,,2026,primary,REP,false,DEM,,,11/4/24 14:04,11/4/24 14:04
+16279,GubernatorialRace,WY,Wyoming,583,Governor,,2026,primary,REP,false,REP,,,11/4/24 14:04,11/4/24 14:04
+16280,HouseRace,VI,U.S. Virgin Islands,721,U.S. House,District 1,2024,general,,false,DEM,11/5/24,,11/4/24 23:23,11/4/24 23:23
