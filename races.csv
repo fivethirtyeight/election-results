@@ -5178,7 +5178,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 5292,HouseRace,TX,Texas,614,U.S. House,District 35,2012,general,,false,new_seat,11/6/12,DEM,2/12/19 01:22,10/14/21 11:14
 5293,HouseRace,TX,Texas,615,U.S. House,District 36,2012,general,,false,new_seat,11/6/12,REP,2/12/19 01:22,10/14/21 11:14
 5297,HouseRace,UT,Utah,616,U.S. House,District 4,2012,general,,false,new_seat,11/6/12,DEM,2/12/19 01:22,10/14/21 11:14
-9568,HouseRace,AR,Arkansas,17,U.S. House,District 1,2024,general,,false,REP,11/5/24,,11/14/22 17:13,11/14/22 17:13
+9568,HouseRace,AR,Arkansas,17,U.S. House,District 1,2024,general,,false,REP,11/5/24,REP,11/14/22 17:13,11/14/22 17:13
 5366,HouseRace,CA,California,48,U.S. House,District 14,2014,general,,false,DEM,11/4/14,DEM,2/12/19 01:22,10/14/21 11:14
 5367,HouseRace,CA,California,49,U.S. House,District 15,2014,general,,false,DEM,11/4/14,DEM,2/12/19 01:22,10/14/21 11:14
 5368,HouseRace,CA,California,50,U.S. House,District 16,2014,general,,false,DEM,11/4/14,DEM,2/12/19 01:22,10/14/21 11:14
@@ -5333,7 +5333,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 5513,HouseRace,ME,Maine,259,U.S. House,District 1,2014,general,,false,DEM,11/4/14,DEM,2/12/19 01:22,10/14/21 11:14
 5514,HouseRace,ME,Maine,260,U.S. House,District 2,2014,general,,false,DEM,11/4/14,REP,2/12/19 01:22,10/14/21 11:14
 5459,HouseRace,GA,Georgia,594,U.S. House,District 14,2014,general,,false,REP,11/4/14,REP,2/12/19 01:22,10/14/21 11:14
-9569,HouseRace,AR,Arkansas,18,U.S. House,District 2,2024,general,,false,REP,11/5/24,,11/14/22 17:13,11/14/22 17:13
+9569,HouseRace,AR,Arkansas,18,U.S. House,District 2,2024,general,,false,REP,11/5/24,REP,11/14/22 17:13,11/14/22 17:13
 5528,HouseRace,MA,Massachusetts,240,U.S. House,District 6,2014,general,,false,DEM,11/4/14,DEM,2/12/19 01:22,10/14/21 11:14
 5529,HouseRace,MA,Massachusetts,241,U.S. House,District 7,2014,general,,false,DEM,11/4/14,DEM,2/12/19 01:22,10/14/21 11:14
 5530,HouseRace,MA,Massachusetts,242,U.S. House,District 8,2014,general,,false,DEM,11/4/14,DEM,2/12/19 01:22,10/14/21 11:14
@@ -5411,7 +5411,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 5606,HouseRace,NY,New York,390,U.S. House,District 16,2014,general,,false,DEM,11/4/14,DEM,2/12/19 01:22,10/14/21 11:14
 5607,HouseRace,NY,New York,391,U.S. House,District 17,2014,general,,false,DEM,11/4/14,DEM,2/12/19 01:22,10/14/21 11:14
 5573,HouseRace,NV,Nevada,604,U.S. House,District 4,2014,general,,false,DEM,11/4/14,REP,2/12/19 01:22,10/14/21 11:14
-9570,HouseRace,AR,Arkansas,19,U.S. House,District 3,2024,general,,false,REP,11/5/24,,11/14/22 17:13,11/14/22 17:13
+9570,HouseRace,AR,Arkansas,19,U.S. House,District 3,2024,general,,false,REP,11/5/24,REP,11/14/22 17:13,11/14/22 17:13
 5619,HouseRace,NC,North Carolina,317,U.S. House,District 2,2014,general,,false,REP,11/4/14,REP,2/12/19 01:22,10/14/21 11:14
 5620,HouseRace,NC,North Carolina,318,U.S. House,District 3,2014,general,,false,REP,11/4/14,REP,2/12/19 01:22,10/14/21 11:14
 5621,HouseRace,NC,North Carolina,319,U.S. House,District 4,2014,general,,false,DEM,11/4/14,DEM,2/12/19 01:22,10/14/21 11:14
@@ -5489,7 +5489,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 5687,HouseRace,TN,Tennessee,485,U.S. House,District 2,2014,general,,false,REP,11/4/14,REP,2/12/19 01:22,10/14/21 11:14
 5688,HouseRace,TN,Tennessee,486,U.S. House,District 3,2014,general,,false,REP,11/4/14,REP,2/12/19 01:22,10/14/21 11:14
 5684,HouseRace,SC,South Carolina,611,U.S. House,District 7,2014,general,,false,REP,11/4/14,REP,2/12/19 01:22,10/14/21 11:14
-9571,HouseRace,AR,Arkansas,20,U.S. House,District 4,2024,general,,false,REP,11/5/24,,11/14/22 17:13,11/14/22 17:13
+9571,HouseRace,AR,Arkansas,20,U.S. House,District 4,2024,general,,false,REP,11/5/24,REP,11/14/22 17:13,11/14/22 17:13
 5689,HouseRace,TN,Tennessee,487,U.S. House,District 4,2014,general,,false,REP,11/4/14,REP,2/12/19 01:22,10/14/21 11:14
 5690,HouseRace,TN,Tennessee,488,U.S. House,District 5,2014,general,,false,DEM,11/4/14,DEM,2/12/19 01:22,10/14/21 11:14
 5691,HouseRace,TN,Tennessee,489,U.S. House,District 6,2014,general,,false,REP,11/4/14,REP,2/12/19 01:22,10/14/21 11:14
@@ -6866,7 +6866,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 7165,PresidentialRace,NV,Nevada,1,U.S. President,,2000,caucus,DEM,false,DEM,3/12/00,DEM,12/18/19 13:04,11/15/21 12:43
 7166,PresidentialRace,FL,Florida,1,U.S. President,,2000,primary,DEM,false,DEM,3/14/00,DEM,12/18/19 13:04,11/15/21 12:43
 9507,SenateRace,CT,Connecticut,106,U.S. Senate,Class I,2024,general,,false,DEM,11/5/24,,9/29/22 10:43,9/29/22 10:43
-9508,SenateRace,DE,Delaware,110,U.S. Senate,Class I,2024,general,,false,DEM,11/5/24,,9/29/22 10:43,9/29/22 10:43
+9508,SenateRace,DE,Delaware,110,U.S. Senate,Class I,2024,general,,false,DEM,11/5/24,DEM,9/29/22 10:43,9/29/22 10:43
 7168,PresidentialRace,LA,Louisiana,1,U.S. President,,2000,primary,DEM,false,DEM,3/14/00,DEM,12/18/19 13:04,11/15/21 12:43
 7169,PresidentialRace,LA,Louisiana,1,U.S. President,,2000,primary,REP,false,DEM,3/14/00,REP,12/18/19 13:04,11/15/21 12:43
 7170,PresidentialRace,MS,Mississippi,1,U.S. President,,2000,primary,DEM,false,DEM,3/14/00,DEM,12/18/19 13:04,11/15/21 12:43
@@ -6933,7 +6933,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 7234,PresidentialRace,AZ,Arizona,1,U.S. President,,2004,primary,DEM,false,REP,2/3/04,DEM,12/18/19 13:05,11/15/21 12:43
 7235,PresidentialRace,DE,Delaware,1,U.S. President,,2004,primary,DEM,false,REP,2/3/04,DEM,12/18/19 13:05,11/15/21 12:43
 7236,PresidentialRace,MO,Missouri,1,U.S. President,,2004,primary,DEM,false,REP,2/3/04,DEM,12/18/19 13:05,11/15/21 12:43
-9509,SenateRace,FL,Florida,138,U.S. Senate,Class I,2024,general,,false,REP,11/5/24,,9/29/22 10:43,9/29/22 10:43
+9509,SenateRace,FL,Florida,138,U.S. Senate,Class I,2024,general,,false,REP,11/5/24,REP,9/29/22 10:43,9/29/22 10:43
 7238,PresidentialRace,NM,New Mexico,1,U.S. President,,2004,caucus,DEM,false,REP,2/3/04,DEM,12/18/19 13:05,11/15/21 12:43
 7239,PresidentialRace,ND,North Dakota,1,U.S. President,,2004,caucus,DEM,false,REP,2/3/04,DEM,12/18/19 13:05,11/15/21 12:43
 7240,PresidentialRace,ND,North Dakota,1,U.S. President,,2004,caucus,REP,false,REP,2/3/04,REP,12/18/19 13:05,11/15/21 12:43
@@ -7001,7 +7001,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 7305,PresidentialRace,NE,Nebraska,1,U.S. President,,2004,primary,REP,false,REP,5/11/04,REP,12/18/19 13:05,11/15/21 12:43
 7306,PresidentialRace,WV,West Virginia,1,U.S. President,,2004,primary,DEM,false,REP,5/11/04,DEM,12/18/19 13:05,11/15/21 12:43
 7307,PresidentialRace,WV,West Virginia,1,U.S. President,,2004,primary,REP,false,REP,5/11/04,REP,12/18/19 13:05,11/15/21 12:43
-9510,SenateRace,HI,Hawaii,159,U.S. Senate,Class I,2024,general,,false,DEM,11/5/24,,9/29/22 10:43,9/29/22 10:43
+9510,SenateRace,HI,Hawaii,159,U.S. Senate,Class I,2024,general,,false,DEM,11/5/24,DEM,9/29/22 10:43,9/29/22 10:43
 7309,PresidentialRace,AR,Arkansas,1,U.S. President,,2004,primary,REP,false,REP,5/18/04,REP,12/18/19 13:05,11/15/21 12:43
 7310,PresidentialRace,KY,Kentucky,1,U.S. President,,2004,primary,DEM,false,REP,5/18/04,DEM,12/18/19 13:05,11/15/21 12:43
 7311,PresidentialRace,KY,Kentucky,1,U.S. President,,2004,primary,REP,false,REP,5/18/04,REP,12/18/19 13:05,11/15/21 12:43
@@ -7341,7 +7341,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 7656,PresidentialRace,VI,U.S. Virgin Islands,1,U.S. President,,2016,caucus,DEM,false,DEM,6/4/16,,12/18/19 13:07,11/15/21 12:43
 7657,PresidentialRace,PR,Puerto Rico,1,U.S. President,,2016,caucus,DEM,false,DEM,6/5/16,DEM,12/18/19 13:07,11/15/21 12:43
 7658,PresidentialRace,CA,California,1,U.S. President,,2016,primary,DEM,false,DEM,6/7/16,DEM,12/18/19 13:07,11/15/21 12:43
-9515,SenateRace,MI,Michigan,279,U.S. Senate,Class I,2024,general,,false,DEM,11/5/24,,9/29/22 10:43,9/29/22 10:43
+9515,SenateRace,MI,Michigan,279,U.S. Senate,Class I,2024,general,,false,DEM,11/5/24,DEM,9/29/22 10:43,9/29/22 10:43
 9516,SenateRace,MN,Minnesota,290,U.S. Senate,Class I,2024,general,,false,DEM,11/5/24,,9/29/22 10:43,9/29/22 10:43
 7686,PresidentialRace,DE,Delaware,1,U.S. President,,2020,primary,REP,false,REP,7/7/20,REP,12/18/19 13:07,11/15/21 12:43
 7659,PresidentialRace,CA,California,1,U.S. President,,2016,primary,REP,false,DEM,6/7/16,REP,12/18/19 13:07,11/15/21 12:43
@@ -8107,7 +8107,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 8502,SenateRace,MD,Maryland,257,U.S. Senate,Class III,2016,primary,REP,false,DEM,4/26/16,,12/23/19 12:25,11/15/21 12:43
 8506,SenateRace,ME,Maine,262,U.S. Senate,Class II,2014,primary,REP,false,REP,6/10/14,,12/23/19 12:25,11/15/21 12:43
 8509,SenateRace,MI,Michigan,280,U.S. Senate,Class II,1996,general,,false,DEM,11/5/96,DEM,12/23/19 12:25,12/23/19 12:25
-9530,SenateRace,TX,Texas,528,U.S. Senate,Class I,2024,general,,false,REP,11/5/24,,9/29/22 10:43,9/29/22 10:43
+9530,SenateRace,TX,Texas,528,U.S. Senate,Class I,2024,general,,false,REP,11/5/24,REP,9/29/22 10:43,9/29/22 10:43
 8512,SenateRace,MN,Minnesota,290,U.S. Senate,Class I,1994,general,,false,REP,11/8/94,REP,12/23/19 12:25,12/23/19 12:25
 8513,SenateRace,MN,Minnesota,291,U.S. Senate,Class II,1990,general,,false,REP,11/6/90,DEM,12/23/19 12:25,12/23/19 12:25
 8514,SenateRace,MN,Minnesota,291,U.S. Senate,Class II,1996,general,,false,DEM,11/5/96,DEM,12/23/19 12:25,12/23/19 12:25
@@ -8191,7 +8191,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 8593,SenateRace,TX,Texas,528,U.S. Senate,Class I,1994,general,,false,REP,11/8/94,REP,12/23/19 12:25,12/23/19 12:25
 8594,SenateRace,TX,Texas,529,U.S. Senate,Class II,1990,general,,false,REP,11/6/90,REP,12/23/19 12:25,12/23/19 12:25
 8595,SenateRace,TX,Texas,529,U.S. Senate,Class II,1996,general,,false,REP,11/5/96,REP,12/23/19 12:25,12/23/19 12:25
-9532,SenateRace,VT,Vermont,552,U.S. Senate,Class I,2024,general,,false,IND,11/5/24,,9/29/22 10:43,9/29/22 10:43
+9532,SenateRace,VT,Vermont,552,U.S. Senate,Class I,2024,general,,false,IND,11/5/24,IND,9/29/22 10:43,9/29/22 10:43
 9533,SenateRace,WA,Washington,564,U.S. Senate,Class I,2024,general,,false,DEM,11/5/24,,9/29/22 10:43,9/29/22 10:43
 8600,SenateRace,UT,Utah,534,U.S. Senate,Class I,1994,general,,false,REP,11/8/94,REP,12/23/19 12:26,12/23/19 12:26
 8601,SenateRace,UT,Utah,535,U.S. Senate,Class III,1992,general,,false,REP,11/3/92,REP,12/23/19 12:26,12/23/19 12:26
@@ -8311,7 +8311,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 8718,PresidentialRace,N2,Nebraska CD-2,1,U.S. President,,2020,general,,false,REP,11/3/20,DEM,3/25/20 12:41,3/25/20 12:41
 8719,PresidentialRace,N3,Nebraska CD-3,1,U.S. President,,2020,general,,false,REP,11/3/20,REP,3/25/20 12:42,3/25/20 12:42
 9534,SenateRace,WI,Wisconsin,575,U.S. Senate,Class I,2024,general,,false,DEM,11/5/24,,9/29/22 10:43,9/29/22 10:43
-9535,SenateRace,WY,Wyoming,585,U.S. Senate,Class I,2024,general,,false,REP,11/5/24,,9/29/22 10:43,9/29/22 10:43
+9535,SenateRace,WY,Wyoming,585,U.S. Senate,Class I,2024,general,,false,REP,11/5/24,REP,9/29/22 10:43,9/29/22 10:43
 9585,HouseRace,CA,California,52,U.S. House,District 18,2024,general,,false,DEM,11/5/24,,11/14/22 17:13,11/14/22 17:13
 8722,HouseRace,MS,Mississippi,305,U.S. House,District 1,2015,runoff,,true,vacant,6/2/15,REP,4/17/20 13:56,10/14/21 11:14
 8721,PresidentialRace,WA,Washington,1,U.S. President,,1992,primary,DEM,false,REP,5/19/92,,4/17/20 13:56,11/15/21 12:43
@@ -8328,8 +8328,9 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 6426,PresidentialRace,"",,1,U.S. President,,2004,primary,REP,false,REP,,REP,12/18/19 13:01,11/15/21 12:43
 6428,PresidentialRace,"",,1,U.S. President,,2008,primary,REP,false,REP,,REP,12/18/19 13:01,11/15/21 12:43
 9536,GubernatorialRace,VI,U.S. Virgin Islands,684,Governor,,2022,general,,false,DEM,11/8/22,DEM,9/30/22 19:25,9/30/22 19:25
-9538,GubernatorialRace,DE,Delaware,108,Governor,,2024,general,,false,DEM,11/5/24,,10/28/22 14:48,10/28/22 14:48
-8751,PresidentialRace,AK,Alaska,1,U.S. President,,2024,primary,REP,false,DEM,3/5/24,,1/20/21 13:13,9/5/23 10:56
+9538,GubernatorialRace,DE,Delaware,108,Governor,,2024,general,,false,DEM,11/5/24,DEM,10/28/22 14:48,10/28/22 14:48
+8751,PresidentialRace,AK,Alaska,1,U.S. President,,2024,caucus,REP,false,DEM,3/5/24,REP,1/20/21 13:13,11/19/24 10:41
+8750,PresidentialRace,AK,Alaska,1,U.S. President,,2024,caucus,DEM,false,DEM,4/13/24,DEM,1/20/21 13:13,11/19/24 10:41
 8440,SenateRace,CA,California,89,U.S. Senate,Class III,2016,top two primary,,false,DEM,6/7/16,,12/23/19 12:25,12/23/19 12:25
 8660,HouseRace,CA,California,84,U.S. House,District 50,2020,top two primary,,false,REP,3/3/20,,3/25/20 12:41,3/25/20 12:41
 8729,GubernatorialRace,WA,Washington,554,Governor,,2020,general,,false,DEM,11/3/20,DEM,5/21/20 08:24,5/21/20 08:24
@@ -8350,7 +8351,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 8745,SenateRace,VA,Virginia,548,U.S. Senate,Class I,1988,general,,false,REP,11/8/88,DEM,11/17/20 09:28,11/17/20 09:28
 8746,GubernatorialRace,PR,Puerto Rico,624,Governor,,2008,general,,false,PPD,11/4/08,NPP,12/9/20 13:14,12/9/20 13:23
 8749,PresidentialRace,AK,Alaska,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
-8752,PresidentialRace,AL,Alabama,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
+8752,PresidentialRace,AL,Alabama,1,U.S. President,,2024,general,,false,DEM,11/5/24,DEM,1/20/21 13:13,1/20/21 13:13
 8731,GubernatorialRace,PR,Puerto Rico,624,Governor,,2020,general,,false,OTH,11/3/20,NPP,8/13/20 19:48,10/14/21 11:14
 8748,HouseRace,TX,Texas,518,U.S. House,District 23,2006,runoff,,true,REP,12/12/06,DEM,1/4/21 14:28,6/22/21 10:53
 9467,GenericHouseRace,"",,587,U.S. House,Generic,1956,general,,false,"",11/6/56,,9/14/21 13:11,9/14/21 13:11
@@ -8384,38 +8385,36 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 8727,SenateRace,SD,South Dakota,481,U.S. Senate,Class II,2020,primary,REP,false,REP,6/2/20,,4/29/20 15:01,11/15/21 12:43
 8728,SenateRace,SD,South Dakota,481,U.S. Senate,Class II,2020,primary runoff,REP,false,REP,8/11/20,,4/29/20 15:01,11/15/21 12:43
 7213,PresidentialRace,SD,South Dakota,1,U.S. President,,2000,primary,DEM,false,DEM,,,12/18/19 13:05,11/15/21 12:43
-8750,PresidentialRace,AK,Alaska,1,U.S. President,,2024,primary,DEM,false,DEM,,,1/20/21 13:13,11/15/21 12:43
-8755,PresidentialRace,AR,Arkansas,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
+8755,PresidentialRace,AR,Arkansas,1,U.S. President,,2024,general,,false,DEM,11/5/24,REP,1/20/21 13:13,1/20/21 13:13
 9537,HouseRace,NY,New York,397,U.S. House,District 23,2022,general,,true,vacant,8/23/22,REP,10/11/22 16:58,10/11/22 16:58
-8761,PresidentialRace,AZ,Arizona,1,U.S. President,,2024,primary,REP,false,DEM,3/19/24,,1/20/21 13:13,9/5/23 10:57
-8757,PresidentialRace,AR,Arkansas,1,U.S. President,,2024,primary,REP,false,DEM,3/5/24,,1/20/21 13:13,11/15/21 12:43
+8761,PresidentialRace,AZ,Arizona,1,U.S. President,,2024,primary,REP,false,DEM,3/19/24,REP,1/20/21 13:13,9/5/23 10:57
+8757,PresidentialRace,AR,Arkansas,1,U.S. President,,2024,primary,REP,false,DEM,3/5/24,REP,1/20/21 13:13,11/15/21 12:43
 8759,PresidentialRace,AZ,Arizona,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
 8763,PresidentialRace,CA,California,1,U.S. President,,2024,primary,DEM,false,DEM,3/5/24,,1/20/21 13:13,11/15/21 12:43
-8766,PresidentialRace,CO,Colorado,1,U.S. President,,2024,primary,DEM,false,DEM,3/5/24,,1/20/21 13:13,11/15/21 12:43
+8766,PresidentialRace,CO,Colorado,1,U.S. President,,2024,primary,DEM,false,DEM,3/5/24,DEM,1/20/21 13:13,11/15/21 12:43
 8762,PresidentialRace,CA,California,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
-8767,PresidentialRace,CO,Colorado,1,U.S. President,,2024,primary,REP,false,DEM,3/5/24,,1/20/21 13:13,11/15/21 12:43
+8767,PresidentialRace,CO,Colorado,1,U.S. President,,2024,primary,REP,false,DEM,3/5/24,REP,1/20/21 13:13,11/15/21 12:43
 8769,PresidentialRace,CT,Connecticut,1,U.S. President,,2024,primary,DEM,false,DEM,4/30/24,,1/20/21 13:13,11/15/21 12:43
 8765,PresidentialRace,CO,Colorado,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
 8770,PresidentialRace,CT,Connecticut,1,U.S. President,,2024,primary,REP,false,DEM,4/30/24,,1/20/21 13:13,11/15/21 12:43
 8773,PresidentialRace,DC,District of Columbia,1,U.S. President,,2024,primary,DEM,false,DEM,6/4/24,,1/20/21 13:13,11/15/21 12:43
 8768,PresidentialRace,CT,Connecticut,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
 8774,PresidentialRace,DC,District of Columbia,1,U.S. President,,2024,primary,REP,false,DEM,6/4/24,,1/20/21 13:13,11/15/21 12:43
-8776,PresidentialRace,DE,Delaware,1,U.S. President,,2024,primary,DEM,false,DEM,4/2/24,,1/20/21 13:13,9/5/23 11:26
-8777,PresidentialRace,DE,Delaware,1,U.S. President,,2024,primary,REP,false,DEM,4/23/24,,1/20/21 13:13,9/5/23 11:26
+8776,PresidentialRace,DE,Delaware,1,U.S. President,,2024,primary,DEM,false,DEM,4/2/24,DEM,1/20/21 13:13,9/5/23 11:26
+8777,PresidentialRace,DE,Delaware,1,U.S. President,,2024,primary,REP,false,DEM,4/23/24,REP,1/20/21 13:13,9/5/23 11:26
 8772,PresidentialRace,DC,District of Columbia,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
-8779,PresidentialRace,FL,Florida,1,U.S. President,,2024,primary,DEM,false,DEM,3/19/24,,1/20/21 13:13,11/15/21 12:43
-8780,PresidentialRace,FL,Florida,1,U.S. President,,2024,primary,REP,false,DEM,3/19/24,,1/20/21 13:13,11/15/21 12:43
-8775,PresidentialRace,DE,Delaware,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
-8782,PresidentialRace,GA,Georgia,1,U.S. President,,2024,primary,DEM,false,DEM,3/12/24,,1/20/21 13:13,11/15/21 12:43
-8786,PresidentialRace,HI,Hawaii,1,U.S. President,,2024,caucus,REP,false,DEM,4/6/24,,1/20/21 13:13,9/6/23 15:03
-8778,PresidentialRace,FL,Florida,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
-8787,PresidentialRace,HI,Hawaii,1,U.S. President,,2024,primary,DEM,false,DEM,3/12/24,,1/20/21 13:13,9/6/23 15:03
+8787,PresidentialRace,HI,Hawaii,1,U.S. President,,2024,primary,DEM,false,DEM,3/6/24,DEM,1/20/21 13:13,11/26/24 10:51
+8780,PresidentialRace,FL,Florida,1,U.S. President,,2024,primary,REP,false,DEM,3/19/24,REP,1/20/21 13:13,11/15/21 12:43
+8775,PresidentialRace,DE,Delaware,1,U.S. President,,2024,general,,false,DEM,11/5/24,DEM,1/20/21 13:13,1/20/21 13:13
+8782,PresidentialRace,GA,Georgia,1,U.S. President,,2024,primary,DEM,false,DEM,3/12/24,DEM,1/20/21 13:13,11/15/21 12:43
+8778,PresidentialRace,FL,Florida,1,U.S. President,,2024,general,,false,DEM,11/5/24,REP,1/20/21 13:13,1/20/21 13:13
+8786,PresidentialRace,HI,Hawaii,1,U.S. President,,2024,caucus,REP,false,DEM,3/12/24,REP,1/20/21 13:13,11/26/24 10:48
 8792,PresidentialRace,ID,Idaho,1,U.S. President,,2024,primary,REP,false,DEM,3/12/24,,1/20/21 13:13,9/6/23 15:05
-8781,PresidentialRace,GA,Georgia,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
+8781,PresidentialRace,GA,Georgia,1,U.S. President,,2024,general,,false,DEM,11/5/24,REP,1/20/21 13:13,1/20/21 13:13
 8793,PresidentialRace,ID,Idaho,1,U.S. President,,2024,primary,DEM,false,DEM,5/18/24,,1/20/21 13:13,9/6/23 15:06
-8795,PresidentialRace,IL,Illinois,1,U.S. President,,2024,primary,DEM,false,DEM,3/19/24,,1/20/21 13:13,11/15/21 12:43
-8796,PresidentialRace,IL,Illinois,1,U.S. President,,2024,primary,REP,false,DEM,3/19/24,,1/20/21 13:13,11/15/21 12:43
-8785,PresidentialRace,HI,Hawaii,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
+8795,PresidentialRace,IL,Illinois,1,U.S. President,,2024,primary,DEM,false,DEM,3/19/24,DEM,1/20/21 13:13,11/15/21 12:43
+8796,PresidentialRace,IL,Illinois,1,U.S. President,,2024,primary,REP,false,DEM,3/19/24,REP,1/20/21 13:13,11/15/21 12:43
+8785,PresidentialRace,HI,Hawaii,1,U.S. President,,2024,general,,false,DEM,11/5/24,DEM,1/20/21 13:13,1/20/21 13:13
 8798,PresidentialRace,IN,Indiana,1,U.S. President,,2024,primary,DEM,false,DEM,5/7/24,,1/20/21 13:13,11/15/21 12:43
 8799,PresidentialRace,IN,Indiana,1,U.S. President,,2024,primary,REP,false,DEM,5/7/24,,1/20/21 13:13,11/15/21 12:43
 8788,PresidentialRace,IA,Iowa,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
@@ -8425,8 +8424,8 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 8804,PresidentialRace,KY,Kentucky,1,U.S. President,,2024,primary,REP,false,DEM,5/21/24,,1/20/21 13:13,11/15/21 12:43
 8805,PresidentialRace,KY,Kentucky,1,U.S. President,,2024,primary,DEM,false,DEM,5/21/24,,1/20/21 13:13,11/15/21 12:43
 8794,PresidentialRace,IL,Illinois,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
-8807,PresidentialRace,LA,Louisiana,1,U.S. President,,2024,primary,DEM,false,DEM,3/23/24,,1/20/21 13:13,11/15/21 12:43
-8808,PresidentialRace,LA,Louisiana,1,U.S. President,,2024,primary,REP,false,DEM,3/23/24,,1/20/21 13:13,11/15/21 12:43
+8807,PresidentialRace,LA,Louisiana,1,U.S. President,,2024,primary,DEM,false,DEM,3/23/24,DEM,1/20/21 13:13,11/15/21 12:43
+8808,PresidentialRace,LA,Louisiana,1,U.S. President,,2024,primary,REP,false,DEM,3/23/24,REP,1/20/21 13:13,11/15/21 12:43
 8797,PresidentialRace,IN,Indiana,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
 8812,PresidentialRace,MA,Massachusetts,1,U.S. President,,2024,primary,DEM,false,DEM,3/5/24,,1/20/21 13:13,11/15/21 12:43
 8813,PresidentialRace,MA,Massachusetts,1,U.S. President,,2024,primary,REP,false,DEM,3/5/24,,1/20/21 13:13,11/15/21 12:43
@@ -8435,21 +8434,21 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 8816,PresidentialRace,MD,Maryland,1,U.S. President,,2024,primary,REP,false,DEM,5/14/24,,1/20/21 13:13,11/15/21 12:43
 8803,PresidentialRace,KY,Kentucky,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
 8818,PresidentialRace,ME,Maine,1,U.S. President,,2024,primary,REP,false,DEM,3/5/24,,1/20/21 13:13,11/15/21 12:43
-8806,PresidentialRace,LA,Louisiana,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
+8758,PresidentialRace,AS,American Samoa,1,U.S. President,,2024,caucus,DEM,false,DEM,3/5/24,,1/20/21 13:13,11/11/24 13:50
+8806,PresidentialRace,LA,Louisiana,1,U.S. President,,2024,general,,false,DEM,11/5/24,REP,1/20/21 13:13,1/20/21 13:13
+8760,PresidentialRace,AZ,Arizona,1,U.S. President,,2024,primary,DEM,false,DEM,3/19/24,DEM,1/20/21 13:13,11/11/24 13:51
+8771,PresidentialRace,DA,Democrats Abroad,1,U.S. President,,2024,primary,DEM,false,DEM,3/12/24,,1/20/21 13:13,11/11/24 13:51
 8809,PresidentialRace,M1,Maine CD-1,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
 8810,PresidentialRace,M2,Maine CD-2,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
 8811,PresidentialRace,MA,Massachusetts,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
+8784,PresidentialRace,GU,Guam,1,U.S. President,,2024,caucus,DEM,false,DEM,6/8/24,,1/20/21 13:13,11/11/24 13:52
+8789,PresidentialRace,IA,Iowa,1,U.S. President,,2024,caucus,DEM,false,DEM,3/5/24,,1/20/21 13:13,11/11/24 13:52
 8814,PresidentialRace,MD,Maryland,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
+8779,PresidentialRace,FL,Florida,1,U.S. President,,2024,primary,DEM,false,DEM,,,1/20/21 13:13,11/19/24 13:34
 8817,PresidentialRace,ME,Maine,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
-8758,PresidentialRace,AS,American Samoa,1,U.S. President,,2024,caucus,DEM,false,DEM,,,1/20/21 13:13,11/15/21 12:43
-8760,PresidentialRace,AZ,Arizona,1,U.S. President,,2024,primary,DEM,false,DEM,,,1/20/21 13:13,11/15/21 12:43
-8771,PresidentialRace,DA,Democrats Abroad,1,U.S. President,,2024,primary,DEM,false,DEM,,,1/20/21 13:13,11/15/21 12:43
-8784,PresidentialRace,GU,Guam,1,U.S. President,,2024,caucus,DEM,false,DEM,,,1/20/21 13:13,11/15/21 12:43
-8789,PresidentialRace,IA,Iowa,1,U.S. President,,2024,caucus,DEM,false,DEM,,,1/20/21 13:13,11/15/21 12:43
-8820,PresidentialRace,MI,Michigan,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
+8820,PresidentialRace,MI,Michigan,1,U.S. President,,2024,general,,false,DEM,11/5/24,REP,1/20/21 13:13,1/20/21 13:13
 8823,PresidentialRace,MN,Minnesota,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
 8826,PresidentialRace,MO,Missouri,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
-8858,PresidentialRace,NV,Nevada,1,U.S. President,,2024,caucus,DEM,false,DEM,,,1/20/21 13:13,11/15/21 12:43
 8830,PresidentialRace,MS,Mississippi,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
 8833,PresidentialRace,MT,Montana,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
 8836,PresidentialRace,N1,Nebraska CD-1,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
@@ -8458,25 +8457,23 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 8839,PresidentialRace,NC,North Carolina,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
 8842,PresidentialRace,ND,North Dakota,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
 8845,PresidentialRace,NE,Nebraska,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
-8848,PresidentialRace,NH,New Hampshire,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
+8848,PresidentialRace,NH,New Hampshire,1,U.S. President,,2024,general,,false,DEM,11/5/24,DEM,1/20/21 13:13,1/20/21 13:13
 8851,PresidentialRace,NJ,New Jersey,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
 8854,PresidentialRace,NM,New Mexico,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
 8857,PresidentialRace,NV,Nevada,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
 8860,PresidentialRace,NY,New York,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
 8863,PresidentialRace,OH,Ohio,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
-8866,PresidentialRace,OK,Oklahoma,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
+8866,PresidentialRace,OK,Oklahoma,1,U.S. President,,2024,general,,false,DEM,11/5/24,REP,1/20/21 13:13,1/20/21 13:13
 8869,PresidentialRace,OR,Oregon,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
 8872,PresidentialRace,PA,Pennsylvania,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:13,1/20/21 13:13
 8877,PresidentialRace,RI,Rhode Island,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:14,1/20/21 13:14
-8880,PresidentialRace,SC,South Carolina,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:14,1/20/21 13:14
-8829,PresidentialRace,MP,Northern Marianas Islands,1,U.S. President,,2024,caucus,DEM,false,DEM,,,1/20/21 13:13,11/15/21 12:43
-8875,PresidentialRace,PR,Puerto Rico,1,U.S. President,,2024,primary,REP,false,DEM,,,1/20/21 13:14,11/15/21 12:43
-8850,PresidentialRace,NH,New Hampshire,1,U.S. President,,2024,primary,REP,false,DEM,1/23/24,,1/20/21 13:13,9/5/23 10:49
-8849,PresidentialRace,NH,New Hampshire,1,U.S. President,,2024,primary,DEM,false,DEM,1/23/24,,1/20/21 13:13,11/16/23 10:05
-8882,PresidentialRace,SC,South Carolina,1,U.S. President,,2024,primary,REP,false,DEM,2/24/24,,1/20/21 13:14,9/5/23 10:52
+8880,PresidentialRace,SC,South Carolina,1,U.S. President,,2024,general,,false,DEM,11/5/24,REP,1/20/21 13:14,1/20/21 13:14
+8850,PresidentialRace,NH,New Hampshire,1,U.S. President,,2024,primary,REP,false,DEM,1/23/24,REP,1/20/21 13:13,9/5/23 10:49
+8849,PresidentialRace,NH,New Hampshire,1,U.S. President,,2024,primary,DEM,false,DEM,1/23/24,DEM,1/20/21 13:13,11/16/23 10:05
+8882,PresidentialRace,SC,South Carolina,1,U.S. President,,2024,primary,REP,false,DEM,2/24/24,REP,1/20/21 13:14,9/5/23 10:52
 8859,PresidentialRace,NV,Nevada,1,U.S. President,,2024,caucus,REP,false,DEM,2/8/24,,1/20/21 13:13,9/5/23 10:51
-8821,PresidentialRace,MI,Michigan,1,U.S. President,,2024,primary,DEM,false,DEM,2/27/24,,1/20/21 13:13,9/5/23 10:54
-8822,PresidentialRace,MI,Michigan,1,U.S. President,,2024,primary,REP,false,DEM,2/27/24,,1/20/21 13:13,9/5/23 10:54
+8821,PresidentialRace,MI,Michigan,1,U.S. President,,2024,primary,DEM,false,DEM,2/27/24,DEM,1/20/21 13:13,9/5/23 10:54
+8822,PresidentialRace,MI,Michigan,1,U.S. President,,2024,primary,REP,false,DEM,2/27/24,REP,1/20/21 13:13,9/5/23 10:54
 8824,PresidentialRace,MN,Minnesota,1,U.S. President,,2024,caucus,DEM,false,DEM,3/5/24,,1/20/21 13:13,11/15/21 12:43
 8825,PresidentialRace,MN,Minnesota,1,U.S. President,,2024,caucus,REP,false,DEM,3/5/24,,1/20/21 13:13,11/15/21 12:43
 8828,PresidentialRace,MO,Missouri,1,U.S. President,,2024,primary,REP,false,DEM,3/12/24,,1/20/21 13:13,9/7/23 12:40
@@ -8496,8 +8493,8 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 8861,PresidentialRace,NY,New York,1,U.S. President,,2024,primary,DEM,false,DEM,4/2/24,,1/20/21 13:13,9/7/23 12:49
 8864,PresidentialRace,OH,Ohio,1,U.S. President,,2024,primary,DEM,false,DEM,3/19/24,,1/20/21 13:13,11/15/21 12:43
 8865,PresidentialRace,OH,Ohio,1,U.S. President,,2024,primary,REP,false,DEM,3/19/24,,1/20/21 13:13,11/15/21 12:43
-8867,PresidentialRace,OK,Oklahoma,1,U.S. President,,2024,primary,DEM,false,DEM,3/5/24,,1/20/21 13:13,11/15/21 12:43
-8868,PresidentialRace,OK,Oklahoma,1,U.S. President,,2024,primary,REP,false,DEM,3/5/24,,1/20/21 13:13,11/15/21 12:43
+8867,PresidentialRace,OK,Oklahoma,1,U.S. President,,2024,primary,DEM,false,DEM,3/5/24,DEM,1/20/21 13:13,11/15/21 12:43
+8868,PresidentialRace,OK,Oklahoma,1,U.S. President,,2024,primary,REP,false,DEM,3/5/24,REP,1/20/21 13:13,11/15/21 12:43
 8870,PresidentialRace,OR,Oregon,1,U.S. President,,2024,primary,DEM,false,DEM,5/21/24,,1/20/21 13:13,11/15/21 12:43
 8871,PresidentialRace,OR,Oregon,1,U.S. President,,2024,primary,REP,false,DEM,5/21/24,,1/20/21 13:13,11/15/21 12:43
 8873,PresidentialRace,PA,Pennsylvania,1,U.S. President,,2024,primary,DEM,false,DEM,4/23/24,,1/20/21 13:13,11/15/21 12:43
@@ -8505,16 +8502,19 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 8876,PresidentialRace,PR,Puerto Rico,1,U.S. President,,2024,primary,DEM,false,DEM,3/17/24,,1/20/21 13:14,9/11/23 11:22
 8879,PresidentialRace,RI,Rhode Island,1,U.S. President,,2024,primary,REP,false,DEM,4/23/24,,1/20/21 13:14,11/15/21 12:43
 8878,PresidentialRace,RI,Rhode Island,1,U.S. President,,2024,primary,DEM,false,DEM,4/2/24,,1/20/21 13:14,11/15/21 12:43
-8881,PresidentialRace,SC,South Carolina,1,U.S. President,,2024,primary,DEM,false,DEM,2/3/24,,1/20/21 13:14,9/11/23 11:24
-8883,PresidentialRace,SD,South Dakota,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:14,1/20/21 13:14
+8881,PresidentialRace,SC,South Carolina,1,U.S. President,,2024,primary,DEM,false,DEM,2/3/24,DEM,1/20/21 13:14,9/11/23 11:24
+8858,PresidentialRace,NV,Nevada,1,U.S. President,,2024,primary,DEM,false,DEM,2/6/24,,1/20/21 13:13,11/11/24 13:53
+8829,PresidentialRace,MP,Northern Marianas Islands,1,U.S. President,,2024,caucus,DEM,false,DEM,3/12/24,,1/20/21 13:13,11/11/24 13:53
+8875,PresidentialRace,PR,Puerto Rico,1,U.S. President,,2024,primary,REP,false,DEM,4/21/24,,1/20/21 13:14,11/11/24 13:54
+8883,PresidentialRace,SD,South Dakota,1,U.S. President,,2024,general,,false,DEM,11/5/24,REP,1/20/21 13:14,1/20/21 13:14
 8886,PresidentialRace,TN,Tennessee,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:14,1/20/21 13:14
-8889,PresidentialRace,TX,Texas,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:14,1/20/21 13:14
+8889,PresidentialRace,TX,Texas,1,U.S. President,,2024,general,,false,DEM,11/5/24,REP,1/20/21 13:14,1/20/21 13:14
 8892,PresidentialRace,UT,Utah,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:14,1/20/21 13:14
 8895,PresidentialRace,VA,Virginia,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:14,1/20/21 13:14
-8899,PresidentialRace,VT,Vermont,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:14,1/20/21 13:14
+8899,PresidentialRace,VT,Vermont,1,U.S. President,,2024,general,,false,DEM,11/5/24,DEM,1/20/21 13:14,1/20/21 13:14
 8902,PresidentialRace,WA,Washington,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:14,1/20/21 13:14
 8908,PresidentialRace,WV,West Virginia,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:14,1/20/21 13:14
-8911,PresidentialRace,WY,Wyoming,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:14,1/20/21 13:14
+8911,PresidentialRace,WY,Wyoming,1,U.S. President,,2024,general,,false,DEM,11/5/24,REP,1/20/21 13:14,1/20/21 13:14
 8914,PresidentialRace,"",,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:14,1/20/21 13:14
 8917,SenateRace,AL,Alabama,15,U.S. Senate,Class III,2022,general,,false,REP,11/8/22,REP,1/20/21 13:14,1/20/21 13:14
 8918,SenateRace,AK,Alaska,5,U.S. Senate,Class III,2022,general,,false,REP,11/8/22,REP,1/20/21 13:14,1/20/21 13:14
@@ -8550,14 +8550,13 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 8949,SenateRace,VT,Vermont,553,U.S. Senate,Class III,2022,general,,false,DEM,11/8/22,DEM,1/20/21 13:14,1/20/21 13:14
 8950,SenateRace,WA,Washington,565,U.S. Senate,Class III,2022,general,,false,DEM,11/8/22,DEM,1/20/21 13:14,1/20/21 13:14
 8951,SenateRace,WI,Wisconsin,576,U.S. Senate,Class III,2022,general,,false,REP,11/8/22,REP,1/20/21 13:14,1/20/21 13:14
-8898,PresidentialRace,VI,U.S. Virgin Islands,1,U.S. President,,2024,caucus,DEM,false,DEM,,,1/20/21 13:14,11/15/21 12:43
 8915,PresidentialRace,"",,1,U.S. President,,2024,primary,DEM,false,DEM,,,1/20/21 13:14,11/15/21 12:43
 8916,PresidentialRace,"",,1,U.S. President,,2024,primary,REP,false,DEM,,,1/20/21 13:14,11/15/21 12:43
 8934,SenateRace,LA,Louisiana,233,U.S. Senate,Class III,2022,runoff,,false,REP,,,1/20/21 13:14,12/2/22 12:51
-8885,PresidentialRace,SD,South Dakota,1,U.S. President,,2024,primary,REP,false,DEM,6/4/24,,1/20/21 13:14,11/15/21 12:43
+8885,PresidentialRace,SD,South Dakota,1,U.S. President,,2024,primary,REP,false,DEM,6/4/24,REP,1/20/21 13:14,11/15/21 12:43
 8887,PresidentialRace,TN,Tennessee,1,U.S. President,,2024,primary,DEM,false,DEM,3/5/24,,1/20/21 13:14,11/15/21 12:43
-8890,PresidentialRace,TX,Texas,1,U.S. President,,2024,primary,DEM,false,DEM,3/5/24,,1/20/21 13:14,11/15/21 12:43
-8891,PresidentialRace,TX,Texas,1,U.S. President,,2024,primary,REP,false,DEM,3/5/24,,1/20/21 13:14,11/15/21 12:43
+8890,PresidentialRace,TX,Texas,1,U.S. President,,2024,primary,DEM,false,DEM,3/5/24,DEM,1/20/21 13:14,11/15/21 12:43
+8891,PresidentialRace,TX,Texas,1,U.S. President,,2024,primary,REP,false,DEM,3/5/24,REP,1/20/21 13:14,11/15/21 12:43
 8893,PresidentialRace,UT,Utah,1,U.S. President,,2024,primary,DEM,false,DEM,3/5/24,,1/20/21 13:14,11/15/21 12:43
 8894,PresidentialRace,UT,Utah,1,U.S. President,,2024,primary,REP,false,DEM,3/5/24,,1/20/21 13:14,11/15/21 12:43
 8896,PresidentialRace,VA,Virginia,1,U.S. President,,2024,primary,DEM,false,DEM,3/5/24,,1/20/21 13:14,11/15/21 12:43
@@ -8570,8 +8569,9 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 8906,PresidentialRace,WI,Wisconsin,1,U.S. President,,2024,primary,DEM,false,DEM,4/2/24,,1/20/21 13:14,11/15/21 12:43
 8905,PresidentialRace,WI,Wisconsin,1,U.S. President,,2024,general,,false,DEM,11/5/24,,1/20/21 13:14,9/11/23 11:30
 8909,PresidentialRace,WV,West Virginia,1,U.S. President,,2024,primary,DEM,false,DEM,5/14/24,,1/20/21 13:14,9/11/23 11:31
-8912,PresidentialRace,WY,Wyoming,1,U.S. President,,2024,caucus,DEM,false,DEM,4/13/24,,1/20/21 13:14,9/11/23 11:32
-8913,PresidentialRace,WY,Wyoming,1,U.S. President,,2024,caucus,REP,false,DEM,4/18/24,,1/20/21 13:14,9/11/23 11:33
+8912,PresidentialRace,WY,Wyoming,1,U.S. President,,2024,caucus,DEM,false,DEM,4/13/24,DEM,1/20/21 13:14,9/11/23 11:32
+8913,PresidentialRace,WY,Wyoming,1,U.S. President,,2024,caucus,REP,false,DEM,4/18/24,REP,1/20/21 13:14,9/11/23 11:33
+8898,PresidentialRace,VI,U.S. Virgin Islands,1,U.S. President,,2024,caucus,DEM,false,DEM,6/8/24,,1/20/21 13:14,11/11/24 13:54
 8952,GubernatorialRace,AL,Alabama,6,Governor,,2022,general,,false,REP,11/8/22,REP,1/20/21 13:14,1/20/21 13:14
 8953,GubernatorialRace,AK,Alaska,2,Governor,,2022,general,,false,REP,11/8/22,REP,1/20/21 13:14,1/20/21 13:14
 8954,GubernatorialRace,AZ,Arizona,23,Governor,,2022,general,,false,REP,11/8/22,DEM,1/20/21 13:14,1/20/21 13:14
@@ -9398,7 +9398,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 7681,PresidentialRace,CT,Connecticut,1,U.S. President,,2020,primary,DEM,false,REP,8/11/20,DEM,12/18/19 13:07,11/15/21 12:43
 8420,PresidentialRace,SC,South Carolina,1,U.S. President,,2020,primary,REP,false,REP,,,12/23/19 12:25,11/15/21 12:43
 8424,PresidentialRace,AZ,Arizona,1,U.S. President,,2020,primary,REP,false,REP,,,12/23/19 12:25,11/15/21 12:43
-9542,GubernatorialRace,NH,New Hampshire,341,Governor,,2024,general,,false,REP,11/5/24,,10/28/22 14:48,10/28/22 14:48
+9542,GubernatorialRace,NH,New Hampshire,341,Governor,,2024,general,,false,REP,11/5/24,REP,10/28/22 14:48,10/28/22 14:48
 6954,PresidentialRace,CT,Connecticut,1,U.S. President,,1992,primary,DEM,false,REP,3/24/92,,12/18/19 13:03,11/15/21 12:43
 6957,PresidentialRace,VT,Vermont,1,U.S. President,,1992,caucus,REP,false,REP,3/31/92,,12/18/19 13:03,11/15/21 12:43
 6970,PresidentialRace,PA,Pennsylvania,1,U.S. President,,1992,primary,DEM,false,REP,4/28/92,,12/18/19 13:04,11/15/21 12:43
@@ -9448,7 +9448,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 7797,SenateRace,NC,North Carolina,329,U.S. Senate,Class II,2020,primary runoff,DEM,false,REP,,,12/18/19 13:08,11/15/21 12:43
 9543,GubernatorialRace,ND,North Dakota,331,Governor,,2024,general,,false,REP,11/5/24,,10/28/22 14:48,10/28/22 14:48
 9544,GubernatorialRace,UT,Utah,530,Governor,,2024,general,,false,REP,11/5/24,,10/28/22 14:48,10/28/22 14:48
-9545,GubernatorialRace,VT,Vermont,550,Governor,,2024,general,,false,REP,11/5/24,,10/28/22 14:48,10/28/22 14:48
+9545,GubernatorialRace,VT,Vermont,550,Governor,,2024,general,,false,REP,11/5/24,REP,10/28/22 14:48,10/28/22 14:48
 9546,GubernatorialRace,WA,Washington,554,Governor,,2024,general,,false,DEM,11/5/24,,10/28/22 14:48,10/28/22 14:48
 9547,GubernatorialRace,WV,West Virginia,577,Governor,,2024,general,,false,REP,11/5/24,,10/28/22 14:48,10/28/22 14:48
 9548,GubernatorialRace,PR,Puerto Rico,624,Governor,,2024,general,,false,NPP,11/5/24,,10/28/22 14:48,10/28/22 14:48
@@ -9465,7 +9465,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 9600,HouseRace,CA,California,69,U.S. House,District 35,2024,general,,false,DEM,11/5/24,,11/14/22 17:14,11/14/22 17:14
 9601,HouseRace,CA,California,70,U.S. House,District 36,2024,general,,false,DEM,11/5/24,,11/14/22 17:14,11/14/22 17:14
 9602,HouseRace,CA,California,71,U.S. House,District 37,2024,general,,false,DEM,11/5/24,,11/14/22 17:14,11/14/22 17:14
-8783,PresidentialRace,GA,Georgia,1,U.S. President,,2024,primary,REP,false,DEM,3/12/24,,1/20/21 13:13,11/15/21 12:43
+8783,PresidentialRace,GA,Georgia,1,U.S. President,,2024,primary,REP,false,DEM,3/12/24,REP,1/20/21 13:13,11/15/21 12:43
 8819,PresidentialRace,ME,Maine,1,U.S. President,,2024,primary,DEM,false,DEM,3/5/24,,1/20/21 13:13,11/15/21 12:43
 9603,HouseRace,CA,California,72,U.S. House,District 38,2024,general,,false,DEM,11/5/24,,11/14/22 17:14,11/14/22 17:14
 9604,HouseRace,CA,California,73,U.S. House,District 39,2024,general,,false,DEM,11/5/24,,11/14/22 17:15,11/14/22 17:15
@@ -9489,51 +9489,51 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 9622,HouseRace,CT,Connecticut,103,U.S. House,District 3,2024,general,,false,DEM,11/5/24,,11/14/22 17:15,11/14/22 17:15
 9624,HouseRace,CT,Connecticut,104,U.S. House,District 4,2024,general,,false,DEM,11/5/24,,11/14/22 17:16,11/14/22 17:16
 9625,HouseRace,CT,Connecticut,105,U.S. House,District 5,2024,general,,false,DEM,11/5/24,,11/14/22 17:16,11/14/22 17:16
-9626,HouseRace,DE,Delaware,109,U.S. House,District 1,2024,general,,false,DEM,11/5/24,,11/14/22 17:16,11/14/22 17:16
-9627,HouseRace,FL,Florida,113,U.S. House,District 1,2024,general,,false,REP,11/5/24,,11/14/22 17:16,11/14/22 17:16
-9628,HouseRace,FL,Florida,114,U.S. House,District 2,2024,general,,false,REP,11/5/24,,11/14/22 17:16,11/14/22 17:16
-9629,HouseRace,FL,Florida,115,U.S. House,District 3,2024,general,,false,REP,11/5/24,,11/14/22 17:16,11/14/22 17:16
-9630,HouseRace,FL,Florida,116,U.S. House,District 4,2024,general,,false,REP,11/5/24,,11/14/22 17:16,11/14/22 17:16
-9631,HouseRace,FL,Florida,117,U.S. House,District 5,2024,general,,false,REP,11/5/24,,11/14/22 17:16,11/14/22 17:16
-9632,HouseRace,FL,Florida,118,U.S. House,District 6,2024,general,,false,REP,11/5/24,,11/14/22 17:16,11/14/22 17:16
-9633,HouseRace,FL,Florida,119,U.S. House,District 7,2024,general,,false,REP,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9634,HouseRace,FL,Florida,120,U.S. House,District 8,2024,general,,false,REP,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9635,HouseRace,FL,Florida,121,U.S. House,District 9,2024,general,,false,DEM,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9636,HouseRace,FL,Florida,122,U.S. House,District 10,2024,general,,false,DEM,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9637,HouseRace,FL,Florida,123,U.S. House,District 11,2024,general,,false,REP,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9638,HouseRace,FL,Florida,124,U.S. House,District 12,2024,general,,false,REP,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9639,HouseRace,FL,Florida,125,U.S. House,District 13,2024,general,,false,REP,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9640,HouseRace,FL,Florida,126,U.S. House,District 14,2024,general,,false,DEM,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9641,HouseRace,FL,Florida,127,U.S. House,District 15,2024,general,,false,REP,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9642,HouseRace,FL,Florida,128,U.S. House,District 16,2024,general,,false,REP,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9643,HouseRace,FL,Florida,129,U.S. House,District 17,2024,general,,false,REP,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9644,HouseRace,FL,Florida,130,U.S. House,District 18,2024,general,,false,REP,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9645,HouseRace,FL,Florida,131,U.S. House,District 19,2024,general,,false,REP,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9646,HouseRace,FL,Florida,132,U.S. House,District 20,2024,general,,false,DEM,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9647,HouseRace,FL,Florida,133,U.S. House,District 21,2024,general,,false,REP,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9648,HouseRace,FL,Florida,134,U.S. House,District 22,2024,general,,false,DEM,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9649,HouseRace,FL,Florida,135,U.S. House,District 23,2024,general,,false,DEM,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9650,HouseRace,FL,Florida,136,U.S. House,District 24,2024,general,,false,DEM,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9651,HouseRace,FL,Florida,137,U.S. House,District 25,2024,general,,false,DEM,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9652,HouseRace,FL,Florida,592,U.S. House,District 26,2024,general,,false,REP,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9653,HouseRace,FL,Florida,593,U.S. House,District 27,2024,general,,false,REP,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9654,HouseRace,FL,Florida,628,U.S. House,District 28,2024,general,,false,REP,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9655,HouseRace,GA,Georgia,141,U.S. House,District 1,2024,general,,false,REP,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9656,HouseRace,GA,Georgia,142,U.S. House,District 2,2024,general,,false,DEM,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9657,HouseRace,GA,Georgia,143,U.S. House,District 3,2024,general,,false,REP,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9658,HouseRace,GA,Georgia,144,U.S. House,District 4,2024,general,,false,DEM,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9659,HouseRace,GA,Georgia,145,U.S. House,District 5,2024,general,,false,DEM,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9660,HouseRace,GA,Georgia,146,U.S. House,District 6,2024,general,,false,REP,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9661,HouseRace,GA,Georgia,147,U.S. House,District 7,2024,general,,false,DEM,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9662,HouseRace,GA,Georgia,148,U.S. House,District 8,2024,general,,false,REP,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9663,HouseRace,GA,Georgia,149,U.S. House,District 9,2024,general,,false,REP,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9664,HouseRace,GA,Georgia,150,U.S. House,District 10,2024,general,,false,REP,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9665,HouseRace,GA,Georgia,151,U.S. House,District 11,2024,general,,false,REP,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9666,HouseRace,GA,Georgia,152,U.S. House,District 12,2024,general,,false,REP,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9667,HouseRace,GA,Georgia,153,U.S. House,District 13,2024,general,,false,DEM,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9668,HouseRace,GA,Georgia,594,U.S. House,District 14,2024,general,,false,REP,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9669,HouseRace,HI,Hawaii,157,U.S. House,District 1,2024,general,,false,DEM,11/5/24,,11/14/22 17:17,11/14/22 17:17
-9670,HouseRace,HI,Hawaii,158,U.S. House,District 2,2024,general,,false,DEM,11/5/24,,11/14/22 17:17,11/14/22 17:17
+9626,HouseRace,DE,Delaware,109,U.S. House,District 1,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:16,11/14/22 17:16
+9627,HouseRace,FL,Florida,113,U.S. House,District 1,2024,general,,false,REP,11/5/24,REP,11/14/22 17:16,11/14/22 17:16
+9628,HouseRace,FL,Florida,114,U.S. House,District 2,2024,general,,false,REP,11/5/24,REP,11/14/22 17:16,11/14/22 17:16
+9629,HouseRace,FL,Florida,115,U.S. House,District 3,2024,general,,false,REP,11/5/24,REP,11/14/22 17:16,11/14/22 17:16
+9630,HouseRace,FL,Florida,116,U.S. House,District 4,2024,general,,false,REP,11/5/24,REP,11/14/22 17:16,11/14/22 17:16
+9631,HouseRace,FL,Florida,117,U.S. House,District 5,2024,general,,false,REP,11/5/24,REP,11/14/22 17:16,11/14/22 17:16
+9632,HouseRace,FL,Florida,118,U.S. House,District 6,2024,general,,false,REP,11/5/24,REP,11/14/22 17:16,11/14/22 17:16
+9633,HouseRace,FL,Florida,119,U.S. House,District 7,2024,general,,false,REP,11/5/24,REP,11/14/22 17:17,11/14/22 17:17
+9634,HouseRace,FL,Florida,120,U.S. House,District 8,2024,general,,false,REP,11/5/24,REP,11/14/22 17:17,11/14/22 17:17
+9635,HouseRace,FL,Florida,121,U.S. House,District 9,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:17,11/14/22 17:17
+9636,HouseRace,FL,Florida,122,U.S. House,District 10,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:17,11/14/22 17:17
+9637,HouseRace,FL,Florida,123,U.S. House,District 11,2024,general,,false,REP,11/5/24,REP,11/14/22 17:17,11/14/22 17:17
+9638,HouseRace,FL,Florida,124,U.S. House,District 12,2024,general,,false,REP,11/5/24,REP,11/14/22 17:17,11/14/22 17:17
+9639,HouseRace,FL,Florida,125,U.S. House,District 13,2024,general,,false,REP,11/5/24,REP,11/14/22 17:17,11/14/22 17:17
+9640,HouseRace,FL,Florida,126,U.S. House,District 14,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:17,11/14/22 17:17
+9641,HouseRace,FL,Florida,127,U.S. House,District 15,2024,general,,false,REP,11/5/24,REP,11/14/22 17:17,11/14/22 17:17
+9642,HouseRace,FL,Florida,128,U.S. House,District 16,2024,general,,false,REP,11/5/24,REP,11/14/22 17:17,11/14/22 17:17
+9643,HouseRace,FL,Florida,129,U.S. House,District 17,2024,general,,false,REP,11/5/24,REP,11/14/22 17:17,11/14/22 17:17
+9644,HouseRace,FL,Florida,130,U.S. House,District 18,2024,general,,false,REP,11/5/24,REP,11/14/22 17:17,11/14/22 17:17
+9645,HouseRace,FL,Florida,131,U.S. House,District 19,2024,general,,false,REP,11/5/24,REP,11/14/22 17:17,11/14/22 17:17
+9646,HouseRace,FL,Florida,132,U.S. House,District 20,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:17,11/14/22 17:17
+9647,HouseRace,FL,Florida,133,U.S. House,District 21,2024,general,,false,REP,11/5/24,REP,11/14/22 17:17,11/14/22 17:17
+9648,HouseRace,FL,Florida,134,U.S. House,District 22,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:17,11/14/22 17:17
+9649,HouseRace,FL,Florida,135,U.S. House,District 23,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:17,11/14/22 17:17
+9650,HouseRace,FL,Florida,136,U.S. House,District 24,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:17,11/14/22 17:17
+9651,HouseRace,FL,Florida,137,U.S. House,District 25,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:17,11/14/22 17:17
+9652,HouseRace,FL,Florida,592,U.S. House,District 26,2024,general,,false,REP,11/5/24,REP,11/14/22 17:17,11/14/22 17:17
+9653,HouseRace,FL,Florida,593,U.S. House,District 27,2024,general,,false,REP,11/5/24,REP,11/14/22 17:17,11/14/22 17:17
+9654,HouseRace,FL,Florida,628,U.S. House,District 28,2024,general,,false,REP,11/5/24,REP,11/14/22 17:17,11/14/22 17:17
+9655,HouseRace,GA,Georgia,141,U.S. House,District 1,2024,general,,false,REP,11/5/24,REP,11/14/22 17:17,11/14/22 17:17
+9656,HouseRace,GA,Georgia,142,U.S. House,District 2,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:17,11/14/22 17:17
+9657,HouseRace,GA,Georgia,143,U.S. House,District 3,2024,general,,false,REP,11/5/24,REP,11/14/22 17:17,11/14/22 17:17
+9658,HouseRace,GA,Georgia,144,U.S. House,District 4,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:17,11/14/22 17:17
+9659,HouseRace,GA,Georgia,145,U.S. House,District 5,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:17,11/14/22 17:17
+9660,HouseRace,GA,Georgia,146,U.S. House,District 6,2024,general,,false,REP,11/5/24,DEM,11/14/22 17:17,11/14/22 17:17
+9661,HouseRace,GA,Georgia,147,U.S. House,District 7,2024,general,,false,DEM,11/5/24,REP,11/14/22 17:17,11/14/22 17:17
+9662,HouseRace,GA,Georgia,148,U.S. House,District 8,2024,general,,false,REP,11/5/24,REP,11/14/22 17:17,11/14/22 17:17
+9663,HouseRace,GA,Georgia,149,U.S. House,District 9,2024,general,,false,REP,11/5/24,REP,11/14/22 17:17,11/14/22 17:17
+9664,HouseRace,GA,Georgia,150,U.S. House,District 10,2024,general,,false,REP,11/5/24,REP,11/14/22 17:17,11/14/22 17:17
+9665,HouseRace,GA,Georgia,151,U.S. House,District 11,2024,general,,false,REP,11/5/24,REP,11/14/22 17:17,11/14/22 17:17
+9666,HouseRace,GA,Georgia,152,U.S. House,District 12,2024,general,,false,REP,11/5/24,REP,11/14/22 17:17,11/14/22 17:17
+9667,HouseRace,GA,Georgia,153,U.S. House,District 13,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:17,11/14/22 17:17
+9668,HouseRace,GA,Georgia,594,U.S. House,District 14,2024,general,,false,REP,11/5/24,REP,11/14/22 17:17,11/14/22 17:17
+9669,HouseRace,HI,Hawaii,157,U.S. House,District 1,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:17,11/14/22 17:17
+9670,HouseRace,HI,Hawaii,158,U.S. House,District 2,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:17,11/14/22 17:17
 9671,HouseRace,ID,Idaho,170,U.S. House,District 1,2024,general,,false,REP,11/5/24,,11/14/22 17:17,11/14/22 17:17
 9672,HouseRace,ID,Idaho,171,U.S. House,District 2,2024,general,,false,REP,11/5/24,,11/14/22 17:17,11/14/22 17:17
 9673,HouseRace,IL,Illinois,175,U.S. House,District 1,2024,general,,false,DEM,11/5/24,,11/14/22 17:17,11/14/22 17:17
@@ -9593,19 +9593,19 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 9734,HouseRace,MA,Massachusetts,241,U.S. House,District 7,2024,general,,false,DEM,11/5/24,,11/14/22 17:19,11/14/22 17:19
 9735,HouseRace,MA,Massachusetts,242,U.S. House,District 8,2024,general,,false,DEM,11/5/24,,11/14/22 17:19,11/14/22 17:19
 9736,HouseRace,MA,Massachusetts,243,U.S. House,District 9,2024,general,,false,DEM,11/5/24,,11/14/22 17:19,11/14/22 17:19
-9737,HouseRace,MI,Michigan,264,U.S. House,District 1,2024,general,,false,REP,11/5/24,,11/14/22 17:19,11/14/22 17:19
-9738,HouseRace,MI,Michigan,265,U.S. House,District 2,2024,general,,false,REP,11/5/24,,11/14/22 17:19,11/14/22 17:19
-9740,HouseRace,MI,Michigan,266,U.S. House,District 3,2024,general,,false,DEM,11/5/24,,11/14/22 17:20,11/14/22 17:20
-9741,HouseRace,MI,Michigan,267,U.S. House,District 4,2024,general,,false,REP,11/5/24,,11/14/22 17:20,11/14/22 17:20
-9742,HouseRace,MI,Michigan,268,U.S. House,District 5,2024,general,,false,REP,11/5/24,,11/14/22 17:20,11/14/22 17:20
-9743,HouseRace,MI,Michigan,269,U.S. House,District 6,2024,general,,false,DEM,11/5/24,,11/14/22 17:20,11/14/22 17:20
-9744,HouseRace,MI,Michigan,270,U.S. House,District 7,2024,general,,false,DEM,11/5/24,,11/14/22 17:21,11/14/22 17:21
-9745,HouseRace,MI,Michigan,271,U.S. House,District 8,2024,general,,false,DEM,11/5/24,,11/14/22 17:21,11/14/22 17:21
-9746,HouseRace,MI,Michigan,272,U.S. House,District 9,2024,general,,false,REP,11/5/24,,11/14/22 17:21,11/14/22 17:21
-9747,HouseRace,MI,Michigan,273,U.S. House,District 10,2024,general,,false,REP,11/5/24,,11/14/22 17:21,11/14/22 17:21
-9748,HouseRace,MI,Michigan,274,U.S. House,District 11,2024,general,,false,DEM,11/5/24,,11/14/22 17:21,11/14/22 17:21
-9749,HouseRace,MI,Michigan,275,U.S. House,District 12,2024,general,,false,DEM,11/5/24,,11/14/22 17:21,11/14/22 17:21
-9750,HouseRace,MI,Michigan,276,U.S. House,District 13,2024,general,,false,DEM,11/5/24,,11/14/22 17:21,11/14/22 17:21
+9737,HouseRace,MI,Michigan,264,U.S. House,District 1,2024,general,,false,REP,11/5/24,REP,11/14/22 17:19,11/14/22 17:19
+9738,HouseRace,MI,Michigan,265,U.S. House,District 2,2024,general,,false,REP,11/5/24,REP,11/14/22 17:19,11/14/22 17:19
+9740,HouseRace,MI,Michigan,266,U.S. House,District 3,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:20,11/14/22 17:20
+9741,HouseRace,MI,Michigan,267,U.S. House,District 4,2024,general,,false,REP,11/5/24,REP,11/14/22 17:20,11/14/22 17:20
+9742,HouseRace,MI,Michigan,268,U.S. House,District 5,2024,general,,false,REP,11/5/24,REP,11/14/22 17:20,11/14/22 17:20
+9743,HouseRace,MI,Michigan,269,U.S. House,District 6,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:20,11/14/22 17:20
+9744,HouseRace,MI,Michigan,270,U.S. House,District 7,2024,general,,false,DEM,11/5/24,REP,11/14/22 17:21,11/14/22 17:21
+9745,HouseRace,MI,Michigan,271,U.S. House,District 8,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:21,11/14/22 17:21
+9746,HouseRace,MI,Michigan,272,U.S. House,District 9,2024,general,,false,REP,11/5/24,REP,11/14/22 17:21,11/14/22 17:21
+9747,HouseRace,MI,Michigan,273,U.S. House,District 10,2024,general,,false,REP,11/5/24,REP,11/14/22 17:21,11/14/22 17:21
+9748,HouseRace,MI,Michigan,274,U.S. House,District 11,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:21,11/14/22 17:21
+9749,HouseRace,MI,Michigan,275,U.S. House,District 12,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:21,11/14/22 17:21
+9750,HouseRace,MI,Michigan,276,U.S. House,District 13,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:21,11/14/22 17:21
 9751,HouseRace,MN,Minnesota,282,U.S. House,District 1,2024,general,,false,REP,11/5/24,,11/14/22 17:21,11/14/22 17:21
 9752,HouseRace,MN,Minnesota,283,U.S. House,District 2,2024,general,,false,DEM,11/5/24,,11/14/22 17:21,11/14/22 17:21
 9753,HouseRace,MN,Minnesota,284,U.S. House,District 3,2024,general,,false,DEM,11/5/24,,11/14/22 17:21,11/14/22 17:21
@@ -9620,11 +9620,11 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 9762,HouseRace,MS,Mississippi,308,U.S. House,District 4,2024,general,,false,REP,11/5/24,,11/14/22 17:21,11/14/22 17:21
 9763,HouseRace,MO,Missouri,293,U.S. House,District 1,2024,general,,false,DEM,11/5/24,,11/14/22 17:21,11/14/22 17:21
 9764,HouseRace,MO,Missouri,294,U.S. House,District 2,2024,general,,false,REP,11/5/24,,11/14/22 17:21,11/14/22 17:21
-9714,HouseRace,LA,Louisiana,226,U.S. House,District 2,2024,jungle primary,,false,DEM,11/5/24,,11/14/22 17:19,12/7/22 14:19
-9716,HouseRace,LA,Louisiana,228,U.S. House,District 4,2024,jungle primary,,false,REP,11/5/24,,11/14/22 17:19,1/8/24 15:34
-9717,HouseRace,LA,Louisiana,229,U.S. House,District 5,2024,jungle primary,,false,REP,11/5/24,,11/14/22 17:19,1/8/24 15:34
-9718,HouseRace,LA,Louisiana,230,U.S. House,District 6,2024,jungle primary,,false,REP,11/5/24,,11/14/22 17:19,1/8/24 15:34
-9715,HouseRace,LA,Louisiana,227,U.S. House,District 3,2024,jungle primary,,false,REP,11/5/24,,11/14/22 17:19,1/8/24 15:34
+9714,HouseRace,LA,Louisiana,226,U.S. House,District 2,2024,jungle primary,,false,DEM,11/5/24,DEM,11/14/22 17:19,12/7/22 14:19
+9716,HouseRace,LA,Louisiana,228,U.S. House,District 4,2024,jungle primary,,false,REP,11/5/24,REP,11/14/22 17:19,1/8/24 15:34
+9717,HouseRace,LA,Louisiana,229,U.S. House,District 5,2024,jungle primary,,false,REP,11/5/24,REP,11/14/22 17:19,1/8/24 15:34
+9718,HouseRace,LA,Louisiana,230,U.S. House,District 6,2024,jungle primary,,false,REP,11/5/24,DEM,11/14/22 17:19,1/8/24 15:34
+9715,HouseRace,LA,Louisiana,227,U.S. House,District 3,2024,jungle primary,,false,REP,11/5/24,REP,11/14/22 17:19,1/8/24 15:34
 9765,HouseRace,MO,Missouri,295,U.S. House,District 3,2024,general,,false,REP,11/5/24,,11/14/22 17:21,11/14/22 17:21
 9766,HouseRace,MO,Missouri,296,U.S. House,District 4,2024,general,,false,REP,11/5/24,,11/14/22 17:21,11/14/22 17:21
 9767,HouseRace,MO,Missouri,297,U.S. House,District 5,2024,general,,false,DEM,11/5/24,,11/14/22 17:21,11/14/22 17:21
@@ -9640,8 +9640,8 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 9777,HouseRace,NV,Nevada,370,U.S. House,District 2,2024,general,,false,REP,11/5/24,,11/14/22 17:21,11/14/22 17:21
 9778,HouseRace,NV,Nevada,371,U.S. House,District 3,2024,general,,false,DEM,11/5/24,,11/14/22 17:21,11/14/22 17:21
 9779,HouseRace,NV,Nevada,604,U.S. House,District 4,2024,general,,false,DEM,11/5/24,,11/14/22 17:21,11/14/22 17:21
-9780,HouseRace,NH,New Hampshire,342,U.S. House,District 1,2024,general,,false,DEM,11/5/24,,11/14/22 17:21,11/14/22 17:21
-9781,HouseRace,NH,New Hampshire,343,U.S. House,District 2,2024,general,,false,DEM,11/5/24,,11/14/22 17:21,11/14/22 17:21
+9780,HouseRace,NH,New Hampshire,342,U.S. House,District 1,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:21,11/14/22 17:21
+9781,HouseRace,NH,New Hampshire,343,U.S. House,District 2,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:21,11/14/22 17:21
 9782,HouseRace,NJ,New Jersey,347,U.S. House,District 1,2024,general,,false,DEM,11/5/24,,11/14/22 17:21,11/14/22 17:21
 9783,HouseRace,NJ,New Jersey,348,U.S. House,District 2,2024,general,,false,REP,11/5/24,,11/14/22 17:21,11/14/22 17:21
 9784,HouseRace,NJ,New Jersey,349,U.S. House,District 3,2024,general,,false,DEM,11/5/24,,11/14/22 17:21,11/14/22 17:21
@@ -9712,11 +9712,11 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 9852,HouseRace,OH,Ohio,419,U.S. House,District 13,2024,general,,false,DEM,11/5/24,,11/14/22 17:25,11/14/22 17:25
 9853,HouseRace,OH,Ohio,420,U.S. House,District 14,2024,general,,false,REP,11/5/24,,11/14/22 17:25,11/14/22 17:25
 9854,HouseRace,OH,Ohio,421,U.S. House,District 15,2024,general,,false,REP,11/5/24,,11/14/22 17:25,11/14/22 17:25
-9855,HouseRace,OK,Oklahoma,428,U.S. House,District 1,2024,general,,false,REP,11/5/24,,11/14/22 17:25,11/14/22 17:25
-9856,HouseRace,OK,Oklahoma,429,U.S. House,District 2,2024,general,,false,REP,11/5/24,,11/14/22 17:25,11/14/22 17:25
-9857,HouseRace,OK,Oklahoma,430,U.S. House,District 3,2024,general,,false,REP,11/5/24,,11/14/22 17:25,11/14/22 17:25
-9858,HouseRace,OK,Oklahoma,431,U.S. House,District 4,2024,general,,false,REP,11/5/24,,11/14/22 17:25,11/14/22 17:25
-9859,HouseRace,OK,Oklahoma,432,U.S. House,District 5,2024,general,,false,REP,11/5/24,,11/14/22 17:25,11/14/22 17:25
+9855,HouseRace,OK,Oklahoma,428,U.S. House,District 1,2024,general,,false,REP,11/5/24,REP,11/14/22 17:25,11/14/22 17:25
+9856,HouseRace,OK,Oklahoma,429,U.S. House,District 2,2024,general,,false,REP,11/5/24,REP,11/14/22 17:25,11/14/22 17:25
+9857,HouseRace,OK,Oklahoma,430,U.S. House,District 3,2024,general,,false,REP,11/5/24,REP,11/14/22 17:25,11/14/22 17:25
+9858,HouseRace,OK,Oklahoma,431,U.S. House,District 4,2024,general,,false,REP,11/5/24,REP,11/14/22 17:25,11/14/22 17:25
+9859,HouseRace,OK,Oklahoma,432,U.S. House,District 5,2024,general,,false,REP,11/5/24,REP,11/14/22 17:25,11/14/22 17:25
 9860,HouseRace,OR,Oregon,436,U.S. House,District 1,2024,general,,false,DEM,11/5/24,,11/14/22 17:25,11/14/22 17:25
 9861,HouseRace,OR,Oregon,437,U.S. House,District 2,2024,general,,false,REP,11/5/24,,11/14/22 17:25,11/14/22 17:25
 9862,HouseRace,OR,Oregon,438,U.S. House,District 3,2024,general,,false,DEM,11/5/24,,11/14/22 17:25,11/14/22 17:25
@@ -9741,14 +9741,14 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 9881,HouseRace,PA,Pennsylvania,460,U.S. House,District 17,2024,general,,false,DEM,11/5/24,,11/14/22 17:25,11/14/22 17:25
 9882,HouseRace,RI,Rhode Island,466,U.S. House,District 1,2024,general,,false,DEM,11/5/24,,11/14/22 17:25,11/14/22 17:25
 9884,HouseRace,RI,Rhode Island,467,U.S. House,District 2,2024,general,,false,DEM,11/5/24,,11/14/22 17:26,11/14/22 17:26
-9885,HouseRace,SC,South Carolina,471,U.S. House,District 1,2024,general,,false,REP,11/5/24,,11/14/22 17:26,11/14/22 17:26
-9886,HouseRace,SC,South Carolina,472,U.S. House,District 2,2024,general,,false,REP,11/5/24,,11/14/22 17:26,11/14/22 17:26
-9887,HouseRace,SC,South Carolina,473,U.S. House,District 3,2024,general,,false,REP,11/5/24,,11/14/22 17:26,11/14/22 17:26
-9888,HouseRace,SC,South Carolina,474,U.S. House,District 4,2024,general,,false,REP,11/5/24,,11/14/22 17:26,11/14/22 17:26
-9889,HouseRace,SC,South Carolina,475,U.S. House,District 5,2024,general,,false,REP,11/5/24,,11/14/22 17:26,11/14/22 17:26
-9890,HouseRace,SC,South Carolina,476,U.S. House,District 6,2024,general,,false,DEM,11/5/24,,11/14/22 17:26,11/14/22 17:26
-9891,HouseRace,SC,South Carolina,611,U.S. House,District 7,2024,general,,false,REP,11/5/24,,11/14/22 17:26,11/14/22 17:26
-9892,HouseRace,SD,South Dakota,480,U.S. House,District 1,2024,general,,false,REP,11/5/24,,11/14/22 17:26,11/14/22 17:26
+9885,HouseRace,SC,South Carolina,471,U.S. House,District 1,2024,general,,false,REP,11/5/24,REP,11/14/22 17:26,11/14/22 17:26
+9886,HouseRace,SC,South Carolina,472,U.S. House,District 2,2024,general,,false,REP,11/5/24,REP,11/14/22 17:26,11/14/22 17:26
+9887,HouseRace,SC,South Carolina,473,U.S. House,District 3,2024,general,,false,REP,11/5/24,REP,11/14/22 17:26,11/14/22 17:26
+9888,HouseRace,SC,South Carolina,474,U.S. House,District 4,2024,general,,false,REP,11/5/24,REP,11/14/22 17:26,11/14/22 17:26
+9889,HouseRace,SC,South Carolina,475,U.S. House,District 5,2024,general,,false,REP,11/5/24,REP,11/14/22 17:26,11/14/22 17:26
+9890,HouseRace,SC,South Carolina,476,U.S. House,District 6,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:26,11/14/22 17:26
+9891,HouseRace,SC,South Carolina,611,U.S. House,District 7,2024,general,,false,REP,11/5/24,REP,11/14/22 17:26,11/14/22 17:26
+9892,HouseRace,SD,South Dakota,480,U.S. House,District 1,2024,general,,false,REP,11/5/24,REP,11/14/22 17:26,11/14/22 17:26
 9893,HouseRace,TN,Tennessee,484,U.S. House,District 1,2024,general,,false,REP,11/5/24,,11/14/22 17:26,11/14/22 17:26
 9894,HouseRace,TN,Tennessee,485,U.S. House,District 2,2024,general,,false,REP,11/5/24,,11/14/22 17:26,11/14/22 17:26
 9895,HouseRace,TN,Tennessee,486,U.S. House,District 3,2024,general,,false,REP,11/5/24,,11/14/22 17:26,11/14/22 17:26
@@ -9758,49 +9758,49 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 9899,HouseRace,TN,Tennessee,490,U.S. House,District 7,2024,general,,false,REP,11/5/24,,11/14/22 17:26,11/14/22 17:26
 9900,HouseRace,TN,Tennessee,491,U.S. House,District 8,2024,general,,false,REP,11/5/24,,11/14/22 17:26,11/14/22 17:26
 9901,HouseRace,TN,Tennessee,492,U.S. House,District 9,2024,general,,false,DEM,11/5/24,,11/14/22 17:26,11/14/22 17:26
-9902,HouseRace,TX,Texas,496,U.S. House,District 1,2024,general,,false,REP,11/5/24,,11/14/22 17:26,11/14/22 17:26
-9903,HouseRace,TX,Texas,497,U.S. House,District 2,2024,general,,false,REP,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9904,HouseRace,TX,Texas,498,U.S. House,District 3,2024,general,,false,REP,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9905,HouseRace,TX,Texas,499,U.S. House,District 4,2024,general,,false,REP,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9906,HouseRace,TX,Texas,500,U.S. House,District 5,2024,general,,false,REP,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9907,HouseRace,TX,Texas,501,U.S. House,District 6,2024,general,,false,REP,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9908,HouseRace,TX,Texas,502,U.S. House,District 7,2024,general,,false,DEM,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9909,HouseRace,TX,Texas,503,U.S. House,District 8,2024,general,,false,REP,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9910,HouseRace,TX,Texas,504,U.S. House,District 9,2024,general,,false,DEM,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9911,HouseRace,TX,Texas,505,U.S. House,District 10,2024,general,,false,REP,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9912,HouseRace,TX,Texas,506,U.S. House,District 11,2024,general,,false,REP,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9913,HouseRace,TX,Texas,507,U.S. House,District 12,2024,general,,false,REP,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9914,HouseRace,TX,Texas,508,U.S. House,District 13,2024,general,,false,REP,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9915,HouseRace,TX,Texas,509,U.S. House,District 14,2024,general,,false,REP,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9916,HouseRace,TX,Texas,510,U.S. House,District 15,2024,general,,false,REP,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9917,HouseRace,TX,Texas,511,U.S. House,District 16,2024,general,,false,DEM,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9918,HouseRace,TX,Texas,512,U.S. House,District 17,2024,general,,false,REP,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9919,HouseRace,TX,Texas,513,U.S. House,District 18,2024,general,,false,DEM,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9920,HouseRace,TX,Texas,514,U.S. House,District 19,2024,general,,false,REP,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9921,HouseRace,TX,Texas,515,U.S. House,District 20,2024,general,,false,DEM,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9922,HouseRace,TX,Texas,516,U.S. House,District 21,2024,general,,false,REP,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9923,HouseRace,TX,Texas,517,U.S. House,District 22,2024,general,,false,REP,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9924,HouseRace,TX,Texas,518,U.S. House,District 23,2024,general,,false,REP,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9925,HouseRace,TX,Texas,519,U.S. House,District 24,2024,general,,false,REP,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9926,HouseRace,TX,Texas,520,U.S. House,District 25,2024,general,,false,REP,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9927,HouseRace,TX,Texas,521,U.S. House,District 26,2024,general,,false,REP,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9928,HouseRace,TX,Texas,522,U.S. House,District 27,2024,general,,false,REP,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9929,HouseRace,TX,Texas,523,U.S. House,District 28,2024,general,,false,DEM,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9930,HouseRace,TX,Texas,524,U.S. House,District 29,2024,general,,false,DEM,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9931,HouseRace,TX,Texas,525,U.S. House,District 30,2024,general,,false,DEM,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9932,HouseRace,TX,Texas,526,U.S. House,District 31,2024,general,,false,REP,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9933,HouseRace,TX,Texas,527,U.S. House,District 32,2024,general,,false,DEM,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9934,HouseRace,TX,Texas,612,U.S. House,District 33,2024,general,,false,DEM,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9935,HouseRace,TX,Texas,613,U.S. House,District 34,2024,general,,false,DEM,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9936,HouseRace,TX,Texas,614,U.S. House,District 35,2024,general,,false,DEM,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9937,HouseRace,TX,Texas,615,U.S. House,District 36,2024,general,,false,REP,11/5/24,,11/14/22 17:27,11/14/22 17:27
-9939,HouseRace,TX,Texas,626,U.S. House,District 37,2024,general,,false,DEM,11/5/24,,11/14/22 17:29,11/14/22 17:29
-9940,HouseRace,TX,Texas,627,U.S. House,District 38,2024,general,,false,REP,11/5/24,,11/14/22 17:29,11/14/22 17:29
+9902,HouseRace,TX,Texas,496,U.S. House,District 1,2024,general,,false,REP,11/5/24,REP,11/14/22 17:26,11/14/22 17:26
+9903,HouseRace,TX,Texas,497,U.S. House,District 2,2024,general,,false,REP,11/5/24,REP,11/14/22 17:27,11/14/22 17:27
+9904,HouseRace,TX,Texas,498,U.S. House,District 3,2024,general,,false,REP,11/5/24,REP,11/14/22 17:27,11/14/22 17:27
+9905,HouseRace,TX,Texas,499,U.S. House,District 4,2024,general,,false,REP,11/5/24,REP,11/14/22 17:27,11/14/22 17:27
+9906,HouseRace,TX,Texas,500,U.S. House,District 5,2024,general,,false,REP,11/5/24,REP,11/14/22 17:27,11/14/22 17:27
+9907,HouseRace,TX,Texas,501,U.S. House,District 6,2024,general,,false,REP,11/5/24,REP,11/14/22 17:27,11/14/22 17:27
+9908,HouseRace,TX,Texas,502,U.S. House,District 7,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:27,11/14/22 17:27
+9909,HouseRace,TX,Texas,503,U.S. House,District 8,2024,general,,false,REP,11/5/24,REP,11/14/22 17:27,11/14/22 17:27
+9910,HouseRace,TX,Texas,504,U.S. House,District 9,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:27,11/14/22 17:27
+9911,HouseRace,TX,Texas,505,U.S. House,District 10,2024,general,,false,REP,11/5/24,REP,11/14/22 17:27,11/14/22 17:27
+9912,HouseRace,TX,Texas,506,U.S. House,District 11,2024,general,,false,REP,11/5/24,REP,11/14/22 17:27,11/14/22 17:27
+9913,HouseRace,TX,Texas,507,U.S. House,District 12,2024,general,,false,REP,11/5/24,REP,11/14/22 17:27,11/14/22 17:27
+9914,HouseRace,TX,Texas,508,U.S. House,District 13,2024,general,,false,REP,11/5/24,REP,11/14/22 17:27,11/14/22 17:27
+9915,HouseRace,TX,Texas,509,U.S. House,District 14,2024,general,,false,REP,11/5/24,REP,11/14/22 17:27,11/14/22 17:27
+9916,HouseRace,TX,Texas,510,U.S. House,District 15,2024,general,,false,REP,11/5/24,REP,11/14/22 17:27,11/14/22 17:27
+9917,HouseRace,TX,Texas,511,U.S. House,District 16,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:27,11/14/22 17:27
+9918,HouseRace,TX,Texas,512,U.S. House,District 17,2024,general,,false,REP,11/5/24,REP,11/14/22 17:27,11/14/22 17:27
+9919,HouseRace,TX,Texas,513,U.S. House,District 18,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:27,11/14/22 17:27
+9920,HouseRace,TX,Texas,514,U.S. House,District 19,2024,general,,false,REP,11/5/24,REP,11/14/22 17:27,11/14/22 17:27
+9921,HouseRace,TX,Texas,515,U.S. House,District 20,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:27,11/14/22 17:27
+9922,HouseRace,TX,Texas,516,U.S. House,District 21,2024,general,,false,REP,11/5/24,REP,11/14/22 17:27,11/14/22 17:27
+9923,HouseRace,TX,Texas,517,U.S. House,District 22,2024,general,,false,REP,11/5/24,REP,11/14/22 17:27,11/14/22 17:27
+9924,HouseRace,TX,Texas,518,U.S. House,District 23,2024,general,,false,REP,11/5/24,REP,11/14/22 17:27,11/14/22 17:27
+9925,HouseRace,TX,Texas,519,U.S. House,District 24,2024,general,,false,REP,11/5/24,REP,11/14/22 17:27,11/14/22 17:27
+9926,HouseRace,TX,Texas,520,U.S. House,District 25,2024,general,,false,REP,11/5/24,REP,11/14/22 17:27,11/14/22 17:27
+9927,HouseRace,TX,Texas,521,U.S. House,District 26,2024,general,,false,REP,11/5/24,REP,11/14/22 17:27,11/14/22 17:27
+9928,HouseRace,TX,Texas,522,U.S. House,District 27,2024,general,,false,REP,11/5/24,REP,11/14/22 17:27,11/14/22 17:27
+9929,HouseRace,TX,Texas,523,U.S. House,District 28,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:27,11/14/22 17:27
+9930,HouseRace,TX,Texas,524,U.S. House,District 29,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:27,11/14/22 17:27
+9931,HouseRace,TX,Texas,525,U.S. House,District 30,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:27,11/14/22 17:27
+9932,HouseRace,TX,Texas,526,U.S. House,District 31,2024,general,,false,REP,11/5/24,REP,11/14/22 17:27,11/14/22 17:27
+9933,HouseRace,TX,Texas,527,U.S. House,District 32,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:27,11/14/22 17:27
+9934,HouseRace,TX,Texas,612,U.S. House,District 33,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:27,11/14/22 17:27
+9935,HouseRace,TX,Texas,613,U.S. House,District 34,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:27,11/14/22 17:27
+9936,HouseRace,TX,Texas,614,U.S. House,District 35,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:27,11/14/22 17:27
+9937,HouseRace,TX,Texas,615,U.S. House,District 36,2024,general,,false,REP,11/5/24,REP,11/14/22 17:27,11/14/22 17:27
+9939,HouseRace,TX,Texas,626,U.S. House,District 37,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:29,11/14/22 17:29
+9940,HouseRace,TX,Texas,627,U.S. House,District 38,2024,general,,false,REP,11/5/24,REP,11/14/22 17:29,11/14/22 17:29
 9941,HouseRace,UT,Utah,531,U.S. House,District 1,2024,general,,false,REP,11/5/24,,11/14/22 17:29,11/14/22 17:29
 9942,HouseRace,UT,Utah,532,U.S. House,District 2,2024,general,,false,REP,11/5/24,,11/14/22 17:29,11/14/22 17:29
 9943,HouseRace,UT,Utah,533,U.S. House,District 3,2024,general,,false,REP,11/5/24,,11/14/22 17:29,11/14/22 17:29
 9944,HouseRace,UT,Utah,616,U.S. House,District 4,2024,general,,false,REP,11/5/24,,11/14/22 17:29,11/14/22 17:29
-9945,HouseRace,VT,Vermont,551,U.S. House,District 1,2024,general,,false,DEM,11/5/24,,11/14/22 17:29,11/14/22 17:29
+9945,HouseRace,VT,Vermont,551,U.S. House,District 1,2024,general,,false,DEM,11/5/24,DEM,11/14/22 17:29,11/14/22 17:29
 9946,HouseRace,VA,Virginia,537,U.S. House,District 1,2024,general,,false,REP,11/5/24,,11/14/22 17:29,11/14/22 17:29
 9947,HouseRace,VA,Virginia,538,U.S. House,District 2,2024,general,,false,REP,11/5/24,,11/14/22 17:29,11/14/22 17:29
 9948,HouseRace,VA,Virginia,539,U.S. House,District 3,2024,general,,false,DEM,11/5/24,,11/14/22 17:29,11/14/22 17:29
@@ -9831,7 +9831,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 9973,HouseRace,WI,Wisconsin,571,U.S. House,District 5,2024,general,,false,REP,11/5/24,,11/14/22 17:29,11/14/22 17:29
 9974,HouseRace,WI,Wisconsin,572,U.S. House,District 6,2024,general,,false,REP,11/5/24,,11/14/22 17:29,11/14/22 17:29
 9976,HouseRace,WI,Wisconsin,574,U.S. House,District 8,2024,general,,false,REP,11/5/24,,11/14/22 17:30,11/14/22 17:30
-9977,HouseRace,WY,Wyoming,584,U.S. House,District 1,2024,general,,false,REP,11/5/24,,11/14/22 17:30,11/14/22 17:30
+9977,HouseRace,WY,Wyoming,584,U.S. House,District 1,2024,general,,false,REP,11/5/24,REP,11/14/22 17:30,11/14/22 17:30
 9819,HouseRace,NY,New York,396,U.S. House,District 22,2024,general,,false,REP,11/5/24,,11/14/22 17:23,11/15/22 09:56
 9978,HouseRace,AZ,Arizona,24,U.S. House,District 1,2024,general,,false,REP,11/5/24,,11/15/22 09:57,11/15/22 09:57
 9979,HouseRace,AZ,Arizona,29,U.S. House,District 6,2024,general,,false,REP,11/5/24,,11/15/22 09:57,11/15/22 09:57
@@ -9854,7 +9854,7 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 9165,HouseRace,LA,Louisiana,225,U.S. House,District 1,2022,runoff,,false,REP,,,1/20/21 13:15,12/2/22 12:48
 9169,HouseRace,LA,Louisiana,227,U.S. House,District 3,2022,runoff,,false,REP,,,1/20/21 13:15,12/2/22 12:49
 9996,HouseRace,CA,California,47,U.S. House,District 13,2024,general,,false,REP,11/5/24,,12/7/22 13:10,12/7/22 13:10
-9713,HouseRace,LA,Louisiana,225,U.S. House,District 1,2024,jungle primary,,false,REP,11/5/24,,11/14/22 17:19,12/7/22 14:19
+9713,HouseRace,LA,Louisiana,225,U.S. House,District 1,2024,jungle primary,,false,REP,11/5/24,REP,11/14/22 17:19,12/7/22 14:19
 9997,HouseRace,LA,Louisiana,225,U.S. House,District 1,2024,runoff,,false,REP,12/7/24,,12/7/22 14:21,12/7/22 14:21
 9998,HouseRace,LA,Louisiana,226,U.S. House,District 2,2024,runoff,,false,DEM,12/7/24,,12/7/22 14:21,12/7/22 14:21
 9999,HouseRace,LA,Louisiana,227,U.S. House,District 3,2024,runoff,,false,REP,12/7/24,,12/7/22 14:21,12/7/22 14:21
@@ -9871,14 +9871,14 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 10010,GubernatorialRace,NV,Nevada,368,Governor,,2026,general,,false,REP,11/3/26,,5/25/23 11:12,5/25/23 11:12
 10011,HouseRace,UT,Utah,532,U.S. House,District 2,2023,general,,true,vacant,11/21/23,,6/9/23 10:25,6/9/23 10:25
 8790,PresidentialRace,IA,Iowa,1,U.S. President,,2024,caucus,REP,false,DEM,1/15/24,,1/20/21 13:13,9/5/23 10:48
-8753,PresidentialRace,AL,Alabama,1,U.S. President,,2024,primary,DEM,false,DEM,3/5/24,,1/20/21 13:13,11/15/21 12:43
-8754,PresidentialRace,AL,Alabama,1,U.S. President,,2024,primary,REP,false,DEM,3/5/24,,1/20/21 13:13,11/15/21 12:43
-8756,PresidentialRace,AR,Arkansas,1,U.S. President,,2024,primary,DEM,false,DEM,3/5/24,,1/20/21 13:13,11/15/21 12:43
+8753,PresidentialRace,AL,Alabama,1,U.S. President,,2024,primary,DEM,false,DEM,3/5/24,DEM,1/20/21 13:13,11/15/21 12:43
+8754,PresidentialRace,AL,Alabama,1,U.S. President,,2024,primary,REP,false,DEM,3/5/24,REP,1/20/21 13:13,11/15/21 12:43
+8756,PresidentialRace,AR,Arkansas,1,U.S. President,,2024,primary,DEM,false,DEM,3/5/24,DEM,1/20/21 13:13,11/15/21 12:43
 8764,PresidentialRace,CA,California,1,U.S. President,,2024,primary,REP,false,DEM,3/5/24,,1/20/21 13:13,11/15/21 12:43
 8844,PresidentialRace,ND,North Dakota,1,U.S. President,,2024,primary,DEM,false,DEM,4/6/24,,1/20/21 13:13,9/7/23 12:45
 8846,PresidentialRace,NE,Nebraska,1,U.S. President,,2024,primary,DEM,false,DEM,5/14/24,,1/20/21 13:13,11/15/21 12:43
 8847,PresidentialRace,NE,Nebraska,1,U.S. President,,2024,primary,REP,false,DEM,5/14/24,,1/20/21 13:13,11/15/21 12:43
-8884,PresidentialRace,SD,South Dakota,1,U.S. President,,2024,primary,DEM,false,DEM,6/4/24,,1/20/21 13:14,11/15/21 12:43
+8884,PresidentialRace,SD,South Dakota,1,U.S. President,,2024,primary,DEM,false,DEM,6/4/24,DEM,1/20/21 13:14,11/15/21 12:43
 8888,PresidentialRace,TN,Tennessee,1,U.S. President,,2024,primary,REP,false,DEM,3/5/24,,1/20/21 13:14,11/15/21 12:43
 8907,PresidentialRace,WI,Wisconsin,1,U.S. President,,2024,primary,REP,false,DEM,4/2/24,,1/20/21 13:14,11/15/21 12:43
 10012,GubernatorialRace,VA,Virginia,536,Governor,,2025,general,,false,REP,11/4/25,,9/21/23 09:41,9/21/23 09:41
@@ -16037,9 +16037,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 16198,GubernatorialRace,MI,Michigan,263,Governor,,2026,general,,false,DEM,11/3/26,,11/4/24 14:00,11/4/24 14:00
 16199,GubernatorialRace,MN,Minnesota,281,Governor,,2026,general,,false,DEM,11/3/26,,11/4/24 14:00,11/4/24 14:00
 16200,GubernatorialRace,NE,Nebraska,335,Governor,,2026,general,,false,REP,11/3/26,,11/4/24 14:00,11/4/24 14:00
-16097,SenateRace,LA,Louisiana,232,U.S. Senate,Class II,2026,jungle primary,,false,REP,11/3/26,,11/4/24 13:56,11/4/24 14:01
-16130,SenateRace,LA,Louisiana,232,U.S. Senate,Class II,2026,runoff,,false,REP,,,11/4/24 13:58,11/4/24 14:01
-16202,GubernatorialRace,NH,New Hampshire,341,Governor,,2026,general,,false,"",11/3/26,,11/4/24 14:02,11/4/24 14:02
 16203,GubernatorialRace,NM,New Mexico,362,Governor,,2026,general,,false,DEM,11/3/26,,11/4/24 14:02,11/4/24 14:02
 16204,GubernatorialRace,NY,New York,374,Governor,,2026,general,,false,DEM,11/3/26,,11/4/24 14:02,11/4/24 14:02
 16205,GubernatorialRace,OH,Ohio,406,Governor,,2026,general,,false,REP,11/3/26,,11/4/24 14:02,11/4/24 14:02
@@ -16070,7 +16067,6 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 16230,GubernatorialRace,MI,Michigan,263,Governor,,2026,primary,DEM,false,DEM,,,11/4/24 14:02,11/4/24 14:02
 16231,GubernatorialRace,MN,Minnesota,281,Governor,,2026,primary,DEM,false,DEM,,,11/4/24 14:02,11/4/24 14:02
 16232,GubernatorialRace,NE,Nebraska,335,Governor,,2026,primary,DEM,false,REP,,,11/4/24 14:02,11/4/24 14:02
-16233,GubernatorialRace,NH,New Hampshire,341,Governor,,2026,primary,DEM,false,"",,,11/4/24 14:02,11/4/24 14:02
 16235,GubernatorialRace,NM,New Mexico,362,Governor,,2026,primary,DEM,false,DEM,,,11/4/24 14:03,11/4/24 14:03
 16236,GubernatorialRace,NY,New York,374,Governor,,2026,primary,DEM,false,DEM,,,11/4/24 14:03,11/4/24 14:03
 16237,GubernatorialRace,OH,Ohio,406,Governor,,2026,primary,DEM,false,REP,,,11/4/24 14:03,11/4/24 14:03
@@ -16100,7 +16096,10 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 16261,GubernatorialRace,MI,Michigan,263,Governor,,2026,primary,REP,false,DEM,,,11/4/24 14:03,11/4/24 14:03
 16262,GubernatorialRace,MN,Minnesota,281,Governor,,2026,primary,REP,false,DEM,,,11/4/24 14:03,11/4/24 14:03
 16263,GubernatorialRace,NE,Nebraska,335,Governor,,2026,primary,REP,false,REP,,,11/4/24 14:03,11/4/24 14:03
-16264,GubernatorialRace,NH,New Hampshire,341,Governor,,2026,primary,REP,false,"",,,11/4/24 14:03,11/4/24 14:03
+16202,GubernatorialRace,NH,New Hampshire,341,Governor,,2026,general,,false,REP,11/3/26,,11/4/24 14:02,11/4/24 14:02
+16599,HouseRace,FL,Florida,130,U.S. House,District 18,2026,general,,false,REP,11/3/26,,11/19/24 14:00,11/19/24 14:00
+16600,HouseRace,FL,Florida,130,U.S. House,District 18,2026,primary,REP,false,REP,,,11/19/24 14:00,11/19/24 14:00
+16601,HouseRace,FL,Florida,130,U.S. House,District 18,2026,primary,DEM,false,REP,,,11/19/24 14:00,11/19/24 14:00
 16266,GubernatorialRace,NM,New Mexico,362,Governor,,2026,primary,REP,false,DEM,,,11/4/24 14:03,11/4/24 14:03
 16267,GubernatorialRace,NY,New York,374,Governor,,2026,primary,REP,false,DEM,,,11/4/24 14:03,11/4/24 14:03
 16268,GubernatorialRace,OH,Ohio,406,Governor,,2026,primary,REP,false,REP,,,11/4/24 14:03,11/4/24 14:03
@@ -16116,3 +16115,424 @@ id,type,state_abbrev,State,office_id,office_name,office_seat_name,cycle,stage,pa
 16278,GubernatorialRace,WI,Wisconsin,566,Governor,,2026,primary,REP,false,DEM,,,11/4/24 14:04,11/4/24 14:04
 16279,GubernatorialRace,WY,Wyoming,583,Governor,,2026,primary,REP,false,REP,,,11/4/24 14:04,11/4/24 14:04
 16280,HouseRace,VI,U.S. Virgin Islands,721,U.S. House,District 1,2024,general,,false,DEM,11/5/24,,11/4/24 23:23,11/4/24 23:23
+16233,GubernatorialRace,NH,New Hampshire,341,Governor,,2026,primary,DEM,false,REP,,,11/4/24 14:02,11/4/24 14:02
+16264,GubernatorialRace,NH,New Hampshire,341,Governor,,2026,primary,REP,false,REP,,,11/4/24 14:03,11/4/24 14:03
+16281,PresidentialRace,"",,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:53,11/6/24 11:53
+16282,PresidentialRace,AL,Alabama,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:53,11/6/24 11:53
+16283,PresidentialRace,AK,Alaska,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:53,11/6/24 11:53
+16284,PresidentialRace,AZ,Arizona,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:53,11/6/24 11:53
+16285,PresidentialRace,AR,Arkansas,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:53,11/6/24 11:53
+16286,PresidentialRace,CA,California,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:53,11/6/24 11:53
+16287,PresidentialRace,CO,Colorado,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:53,11/6/24 11:53
+16288,PresidentialRace,CT,Connecticut,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:53,11/6/24 11:53
+16289,PresidentialRace,DE,Delaware,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:53,11/6/24 11:53
+16290,PresidentialRace,FL,Florida,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:53,11/6/24 11:53
+16291,PresidentialRace,GA,Georgia,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:53,11/6/24 11:53
+16292,PresidentialRace,HI,Hawaii,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:53,11/6/24 11:53
+16293,PresidentialRace,ID,Idaho,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:53,11/6/24 11:53
+16294,PresidentialRace,IL,Illinois,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:53,11/6/24 11:53
+16295,PresidentialRace,IN,Indiana,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:53,11/6/24 11:53
+16296,PresidentialRace,IA,Iowa,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:53,11/6/24 11:53
+16297,PresidentialRace,KS,Kansas,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:53,11/6/24 11:53
+16298,PresidentialRace,KY,Kentucky,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:53,11/6/24 11:53
+16299,PresidentialRace,LA,Louisiana,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:53,11/6/24 11:53
+16300,PresidentialRace,ME,Maine,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:53,11/6/24 11:53
+16301,PresidentialRace,MD,Maryland,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:53,11/6/24 11:53
+16302,PresidentialRace,MA,Massachusetts,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:53,11/6/24 11:53
+16303,PresidentialRace,MI,Michigan,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:53,11/6/24 11:53
+16304,PresidentialRace,MN,Minnesota,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:53,11/6/24 11:53
+16305,PresidentialRace,MS,Mississippi,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:54,11/6/24 11:54
+16306,PresidentialRace,MO,Missouri,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:54,11/6/24 11:54
+16307,PresidentialRace,MT,Montana,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:54,11/6/24 11:54
+16308,PresidentialRace,NE,Nebraska,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:54,11/6/24 11:54
+16309,PresidentialRace,NV,Nevada,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:54,11/6/24 11:54
+16310,PresidentialRace,NH,New Hampshire,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:54,11/6/24 11:54
+16311,PresidentialRace,NJ,New Jersey,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:54,11/6/24 11:54
+16312,PresidentialRace,NM,New Mexico,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:54,11/6/24 11:54
+16313,PresidentialRace,NY,New York,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:54,11/6/24 11:54
+16315,PresidentialRace,NC,North Carolina,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:54,11/6/24 11:54
+16316,PresidentialRace,ND,North Dakota,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:54,11/6/24 11:54
+16317,PresidentialRace,OH,Ohio,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:54,11/6/24 11:54
+16318,PresidentialRace,OK,Oklahoma,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:54,11/6/24 11:54
+16319,PresidentialRace,OR,Oregon,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:54,11/6/24 11:54
+16320,PresidentialRace,PA,Pennsylvania,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:54,11/6/24 11:54
+16321,PresidentialRace,RI,Rhode Island,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:54,11/6/24 11:54
+16322,PresidentialRace,SC,South Carolina,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:54,11/6/24 11:54
+16323,PresidentialRace,SD,South Dakota,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:54,11/6/24 11:54
+16324,PresidentialRace,TN,Tennessee,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:54,11/6/24 11:54
+16325,PresidentialRace,TX,Texas,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:54,11/6/24 11:54
+16326,PresidentialRace,UT,Utah,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:54,11/6/24 11:54
+16327,PresidentialRace,VT,Vermont,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:54,11/6/24 11:54
+16328,PresidentialRace,VA,Virginia,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:54,11/6/24 11:54
+16329,PresidentialRace,WA,Washington,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:54,11/6/24 11:54
+16330,PresidentialRace,WV,West Virginia,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:55,11/6/24 11:55
+16331,PresidentialRace,WI,Wisconsin,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:55,11/6/24 11:55
+16332,PresidentialRace,WY,Wyoming,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 11:55,11/6/24 11:55
+16333,PresidentialRace,AL,Alabama,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16334,PresidentialRace,AL,Alabama,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16335,PresidentialRace,AK,Alaska,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16336,PresidentialRace,AK,Alaska,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16337,PresidentialRace,AZ,Arizona,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16338,PresidentialRace,AZ,Arizona,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16339,PresidentialRace,AR,Arkansas,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16340,PresidentialRace,AR,Arkansas,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16341,PresidentialRace,CA,California,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16342,PresidentialRace,CA,California,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16343,PresidentialRace,CO,Colorado,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16344,PresidentialRace,CO,Colorado,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16345,PresidentialRace,CT,Connecticut,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16346,PresidentialRace,CT,Connecticut,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16347,PresidentialRace,DE,Delaware,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16348,PresidentialRace,DE,Delaware,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16349,PresidentialRace,FL,Florida,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16350,PresidentialRace,FL,Florida,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16351,PresidentialRace,GA,Georgia,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16352,PresidentialRace,GA,Georgia,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16353,PresidentialRace,HI,Hawaii,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16354,PresidentialRace,HI,Hawaii,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16355,PresidentialRace,ID,Idaho,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16356,PresidentialRace,ID,Idaho,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16357,PresidentialRace,IL,Illinois,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16358,PresidentialRace,IL,Illinois,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16359,PresidentialRace,IN,Indiana,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16360,PresidentialRace,IN,Indiana,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16361,PresidentialRace,IA,Iowa,1,U.S. President,,2028,caucus,REP,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16362,PresidentialRace,IA,Iowa,1,U.S. President,,2028,caucus,DEM,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16363,PresidentialRace,KS,Kansas,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16364,PresidentialRace,KS,Kansas,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16365,PresidentialRace,KY,Kentucky,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16366,PresidentialRace,KY,Kentucky,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16367,PresidentialRace,LA,Louisiana,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16368,PresidentialRace,LA,Louisiana,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16369,PresidentialRace,ME,Maine,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:55,11/6/24 11:55
+16372,PresidentialRace,ME,Maine,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16373,PresidentialRace,MD,Maryland,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16374,PresidentialRace,MD,Maryland,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16375,PresidentialRace,MA,Massachusetts,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16376,PresidentialRace,MA,Massachusetts,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16377,PresidentialRace,MI,Michigan,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16378,PresidentialRace,MI,Michigan,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16379,PresidentialRace,MN,Minnesota,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16380,PresidentialRace,MN,Minnesota,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16381,PresidentialRace,MS,Mississippi,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16382,PresidentialRace,MS,Mississippi,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16383,PresidentialRace,MO,Missouri,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16384,PresidentialRace,MO,Missouri,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16385,PresidentialRace,MT,Montana,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16386,PresidentialRace,MT,Montana,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16387,PresidentialRace,NE,Nebraska,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16388,PresidentialRace,NE,Nebraska,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16389,PresidentialRace,NV,Nevada,1,U.S. President,,2028,caucus,REP,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16390,PresidentialRace,NV,Nevada,1,U.S. President,,2028,caucus,DEM,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16391,PresidentialRace,NH,New Hampshire,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16392,PresidentialRace,NH,New Hampshire,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16393,PresidentialRace,NJ,New Jersey,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16602,HouseRace,FL,Florida,131,U.S. House,District 19,2026,general,,false,REP,11/3/26,,11/19/24 14:00,11/19/24 14:00
+16394,PresidentialRace,NJ,New Jersey,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16395,PresidentialRace,NM,New Mexico,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16396,PresidentialRace,NM,New Mexico,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16397,PresidentialRace,NY,New York,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16398,PresidentialRace,NY,New York,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16399,PresidentialRace,NC,North Carolina,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16400,PresidentialRace,NC,North Carolina,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16401,PresidentialRace,ND,North Dakota,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16402,PresidentialRace,ND,North Dakota,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16403,PresidentialRace,OH,Ohio,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16404,PresidentialRace,OH,Ohio,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 11:58,11/6/24 11:58
+16406,PresidentialRace,OK,Oklahoma,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16407,PresidentialRace,OK,Oklahoma,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16408,PresidentialRace,OR,Oregon,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16409,PresidentialRace,OR,Oregon,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16410,PresidentialRace,PA,Pennsylvania,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16411,PresidentialRace,PA,Pennsylvania,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16412,PresidentialRace,RI,Rhode Island,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16413,PresidentialRace,RI,Rhode Island,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16414,PresidentialRace,SC,South Carolina,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16415,PresidentialRace,SC,South Carolina,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16416,PresidentialRace,SD,South Dakota,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16417,PresidentialRace,SD,South Dakota,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16418,PresidentialRace,TN,Tennessee,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16419,PresidentialRace,TN,Tennessee,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16420,PresidentialRace,TX,Texas,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16421,PresidentialRace,TX,Texas,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16422,PresidentialRace,UT,Utah,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16423,PresidentialRace,UT,Utah,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16424,PresidentialRace,VT,Vermont,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16425,PresidentialRace,VT,Vermont,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16426,PresidentialRace,VA,Virginia,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16427,PresidentialRace,VA,Virginia,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16428,PresidentialRace,WA,Washington,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16429,PresidentialRace,WA,Washington,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16430,PresidentialRace,WV,West Virginia,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16431,PresidentialRace,WV,West Virginia,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16432,PresidentialRace,WI,Wisconsin,1,U.S. President,,2028,primary,REP,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16433,PresidentialRace,WI,Wisconsin,1,U.S. President,,2028,primary,DEM,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16434,PresidentialRace,WY,Wyoming,1,U.S. President,,2028,caucus,REP,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16435,PresidentialRace,WY,Wyoming,1,U.S. President,,2028,caucus,DEM,false,REP,,,11/6/24 12:00,11/6/24 12:00
+16436,PresidentialRace,M1,Maine CD-1,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 12:01,11/6/24 12:01
+16437,PresidentialRace,M2,Maine CD-2,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 12:01,11/6/24 12:01
+16438,PresidentialRace,N1,Nebraska CD-1,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 12:01,11/6/24 12:01
+16439,PresidentialRace,N2,Nebraska CD-2,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 12:01,11/6/24 12:01
+16440,PresidentialRace,N3,Nebraska CD-3,1,U.S. President,,2028,general,,false,REP,11/7/28,,11/6/24 12:01,11/6/24 12:01
+16441,SenateRace,OH,Ohio,426,U.S. Senate,Class III,2026,general,,true,REP,11/3/26,,11/7/24 13:42,11/7/24 13:42
+16442,SenateRace,OH,Ohio,426,U.S. Senate,Class III,2026,primary,REP,true,REP,,,11/7/24 13:43,11/7/24 13:43
+16443,SenateRace,OH,Ohio,426,U.S. Senate,Class III,2026,primary,DEM,true,REP,,,11/7/24 13:43,11/7/24 13:43
+16444,GenericHouseRace,"",,587,U.S. House,Generic,2026,general,,false,"",11/3/26,,11/7/24 15:26,11/7/24 15:26
+16445,HouseRace,AL,Alabama,7,U.S. House,District 1,2026,general,,false,REP,11/3/26,,11/19/24 13:52,11/19/24 13:52
+16446,HouseRace,AL,Alabama,7,U.S. House,District 1,2026,primary,REP,false,REP,,,11/19/24 13:52,11/19/24 13:52
+16447,HouseRace,AL,Alabama,7,U.S. House,District 1,2026,primary,DEM,false,REP,,,11/19/24 13:52,11/19/24 13:52
+16448,HouseRace,AL,Alabama,8,U.S. House,District 2,2026,general,,false,DEM,11/3/26,,11/19/24 13:52,11/19/24 13:52
+16449,HouseRace,AL,Alabama,8,U.S. House,District 2,2026,primary,REP,false,DEM,,,11/19/24 13:52,11/19/24 13:52
+16450,HouseRace,AL,Alabama,8,U.S. House,District 2,2026,primary,DEM,false,DEM,,,11/19/24 13:52,11/19/24 13:52
+16451,HouseRace,AL,Alabama,9,U.S. House,District 3,2026,general,,false,REP,11/3/26,,11/19/24 13:52,11/19/24 13:52
+16452,HouseRace,AL,Alabama,9,U.S. House,District 3,2026,primary,REP,false,REP,,,11/19/24 13:52,11/19/24 13:52
+16453,HouseRace,AL,Alabama,9,U.S. House,District 3,2026,primary,DEM,false,REP,,,11/19/24 13:52,11/19/24 13:52
+16454,HouseRace,AL,Alabama,10,U.S. House,District 4,2026,general,,false,REP,11/3/26,,11/19/24 13:52,11/19/24 13:52
+16455,HouseRace,AL,Alabama,10,U.S. House,District 4,2026,primary,REP,false,REP,,,11/19/24 13:52,11/19/24 13:52
+16456,HouseRace,AL,Alabama,10,U.S. House,District 4,2026,primary,DEM,false,REP,,,11/19/24 13:52,11/19/24 13:52
+16457,HouseRace,AL,Alabama,11,U.S. House,District 5,2026,general,,false,REP,11/3/26,,11/19/24 13:52,11/19/24 13:52
+16458,HouseRace,AL,Alabama,11,U.S. House,District 5,2026,primary,REP,false,REP,,,11/19/24 13:52,11/19/24 13:52
+16459,HouseRace,AL,Alabama,11,U.S. House,District 5,2026,primary,DEM,false,REP,,,11/19/24 13:52,11/19/24 13:52
+16460,HouseRace,AL,Alabama,12,U.S. House,District 6,2026,general,,false,REP,11/3/26,,11/19/24 13:52,11/19/24 13:52
+16461,HouseRace,AL,Alabama,12,U.S. House,District 6,2026,primary,REP,false,REP,,,11/19/24 13:52,11/19/24 13:52
+16462,HouseRace,AL,Alabama,12,U.S. House,District 6,2026,primary,DEM,false,REP,,,11/19/24 13:52,11/19/24 13:52
+16463,HouseRace,AL,Alabama,13,U.S. House,District 7,2026,general,,false,DEM,11/3/26,,11/19/24 13:52,11/19/24 13:52
+16464,HouseRace,AL,Alabama,13,U.S. House,District 7,2026,primary,REP,false,DEM,,,11/19/24 13:52,11/19/24 13:52
+16465,HouseRace,AL,Alabama,13,U.S. House,District 7,2026,primary,DEM,false,DEM,,,11/19/24 13:52,11/19/24 13:52
+16466,HouseRace,AZ,Arizona,24,U.S. House,District 1,2026,general,,false,REP,11/3/26,,11/19/24 13:53,11/19/24 13:53
+16467,HouseRace,AZ,Arizona,24,U.S. House,District 1,2026,primary,REP,false,REP,,,11/19/24 13:53,11/19/24 13:53
+16468,HouseRace,AZ,Arizona,24,U.S. House,District 1,2026,primary,DEM,false,REP,,,11/19/24 13:53,11/19/24 13:53
+16469,HouseRace,AZ,Arizona,25,U.S. House,District 2,2026,general,,false,REP,11/3/26,,11/19/24 13:53,11/19/24 13:53
+16470,HouseRace,AZ,Arizona,25,U.S. House,District 2,2026,primary,REP,false,REP,,,11/19/24 13:53,11/19/24 13:53
+16471,HouseRace,AZ,Arizona,25,U.S. House,District 2,2026,primary,DEM,false,REP,,,11/19/24 13:53,11/19/24 13:53
+16472,HouseRace,AZ,Arizona,26,U.S. House,District 3,2026,general,,false,DEM,11/3/26,,11/19/24 13:53,11/19/24 13:53
+16473,HouseRace,AZ,Arizona,26,U.S. House,District 3,2026,primary,REP,false,DEM,,,11/19/24 13:53,11/19/24 13:53
+16474,HouseRace,AZ,Arizona,26,U.S. House,District 3,2026,primary,DEM,false,DEM,,,11/19/24 13:53,11/19/24 13:53
+16475,HouseRace,AZ,Arizona,27,U.S. House,District 4,2026,general,,false,DEM,11/3/26,,11/19/24 13:53,11/19/24 13:53
+16476,HouseRace,AZ,Arizona,27,U.S. House,District 4,2026,primary,REP,false,DEM,,,11/19/24 13:53,11/19/24 13:53
+16477,HouseRace,AZ,Arizona,27,U.S. House,District 4,2026,primary,DEM,false,DEM,,,11/19/24 13:53,11/19/24 13:53
+16478,HouseRace,AZ,Arizona,28,U.S. House,District 5,2026,general,,false,REP,11/3/26,,11/19/24 13:53,11/19/24 13:53
+16479,HouseRace,AZ,Arizona,28,U.S. House,District 5,2026,primary,REP,false,REP,,,11/19/24 13:53,11/19/24 13:53
+16480,HouseRace,AZ,Arizona,28,U.S. House,District 5,2026,primary,DEM,false,REP,,,11/19/24 13:53,11/19/24 13:53
+16481,HouseRace,AZ,Arizona,29,U.S. House,District 6,2026,general,,false,REP,11/3/26,,11/19/24 13:53,11/19/24 13:53
+16482,HouseRace,AZ,Arizona,29,U.S. House,District 6,2026,primary,REP,false,REP,,,11/19/24 13:53,11/19/24 13:53
+16483,HouseRace,AZ,Arizona,29,U.S. House,District 6,2026,primary,DEM,false,REP,,,11/19/24 13:53,11/19/24 13:53
+16484,HouseRace,AZ,Arizona,30,U.S. House,District 7,2026,general,,false,DEM,11/3/26,,11/19/24 13:53,11/19/24 13:53
+16485,HouseRace,AZ,Arizona,30,U.S. House,District 7,2026,primary,REP,false,DEM,,,11/19/24 13:53,11/19/24 13:53
+16486,HouseRace,AZ,Arizona,30,U.S. House,District 7,2026,primary,DEM,false,DEM,,,11/19/24 13:53,11/19/24 13:53
+16487,HouseRace,AZ,Arizona,31,U.S. House,District 8,2026,general,,false,REP,11/3/26,,11/19/24 13:53,11/19/24 13:53
+16488,HouseRace,AZ,Arizona,31,U.S. House,District 8,2026,primary,REP,false,REP,,,11/19/24 13:53,11/19/24 13:53
+16489,HouseRace,AZ,Arizona,31,U.S. House,District 8,2026,primary,DEM,false,REP,,,11/19/24 13:53,11/19/24 13:53
+16490,HouseRace,AZ,Arizona,590,U.S. House,District 9,2026,general,,false,REP,11/3/26,,11/19/24 13:53,11/19/24 13:53
+16491,HouseRace,AZ,Arizona,590,U.S. House,District 9,2026,primary,REP,false,REP,,,11/19/24 13:53,11/19/24 13:53
+16492,HouseRace,AZ,Arizona,590,U.S. House,District 9,2026,primary,DEM,false,REP,,,11/19/24 13:53,11/19/24 13:53
+16493,HouseRace,AR,Arkansas,17,U.S. House,District 1,2026,general,,false,REP,11/3/26,,11/19/24 13:53,11/19/24 13:53
+16494,HouseRace,AR,Arkansas,17,U.S. House,District 1,2026,primary,REP,false,REP,,,11/19/24 13:53,11/19/24 13:53
+16496,HouseRace,AR,Arkansas,17,U.S. House,District 1,2026,primary,DEM,false,REP,,,11/19/24 13:54,11/19/24 13:54
+16497,HouseRace,AR,Arkansas,18,U.S. House,District 2,2026,general,,false,REP,11/3/26,,11/19/24 13:54,11/19/24 13:54
+16498,HouseRace,AR,Arkansas,18,U.S. House,District 2,2026,primary,REP,false,REP,,,11/19/24 13:54,11/19/24 13:54
+16499,HouseRace,AR,Arkansas,18,U.S. House,District 2,2026,primary,DEM,false,REP,,,11/19/24 13:54,11/19/24 13:54
+16500,HouseRace,AR,Arkansas,19,U.S. House,District 3,2026,general,,false,REP,11/3/26,,11/19/24 13:54,11/19/24 13:54
+16501,HouseRace,AR,Arkansas,19,U.S. House,District 3,2026,primary,REP,false,REP,,,11/19/24 13:54,11/19/24 13:54
+16502,HouseRace,AR,Arkansas,19,U.S. House,District 3,2026,primary,DEM,false,REP,,,11/19/24 13:54,11/19/24 13:54
+16503,HouseRace,AR,Arkansas,20,U.S. House,District 4,2026,general,,false,REP,11/3/26,,11/19/24 13:54,11/19/24 13:54
+16504,HouseRace,AR,Arkansas,20,U.S. House,District 4,2026,primary,REP,false,REP,,,11/19/24 13:54,11/19/24 13:54
+16505,HouseRace,AR,Arkansas,20,U.S. House,District 4,2026,primary,DEM,false,REP,,,11/19/24 13:54,11/19/24 13:54
+16506,HouseRace,CO,Colorado,91,U.S. House,District 1,2026,general,,false,DEM,11/3/26,,11/19/24 13:55,11/19/24 13:55
+16507,HouseRace,CO,Colorado,91,U.S. House,District 1,2026,primary,REP,false,DEM,,,11/19/24 13:55,11/19/24 13:55
+16508,HouseRace,CO,Colorado,91,U.S. House,District 1,2026,primary,DEM,false,DEM,,,11/19/24 13:55,11/19/24 13:55
+16509,HouseRace,CO,Colorado,92,U.S. House,District 2,2026,general,,false,DEM,11/3/26,,11/19/24 13:55,11/19/24 13:55
+16510,HouseRace,CO,Colorado,92,U.S. House,District 2,2026,primary,REP,false,DEM,,,11/19/24 13:55,11/19/24 13:55
+16511,HouseRace,CO,Colorado,92,U.S. House,District 2,2026,primary,DEM,false,DEM,,,11/19/24 13:55,11/19/24 13:55
+16512,HouseRace,CO,Colorado,93,U.S. House,District 3,2026,general,,false,REP,11/3/26,,11/19/24 13:55,11/19/24 13:55
+16513,HouseRace,CO,Colorado,93,U.S. House,District 3,2026,primary,REP,false,REP,,,11/19/24 13:55,11/19/24 13:55
+16514,HouseRace,CO,Colorado,93,U.S. House,District 3,2026,primary,DEM,false,REP,,,11/19/24 13:55,11/19/24 13:55
+16515,HouseRace,CO,Colorado,94,U.S. House,District 4,2026,general,,false,REP,11/3/26,,11/19/24 13:55,11/19/24 13:55
+16516,HouseRace,CO,Colorado,94,U.S. House,District 4,2026,primary,REP,false,REP,,,11/19/24 13:55,11/19/24 13:55
+16517,HouseRace,CO,Colorado,94,U.S. House,District 4,2026,primary,DEM,false,REP,,,11/19/24 13:55,11/19/24 13:55
+16518,HouseRace,CO,Colorado,95,U.S. House,District 5,2026,general,,false,REP,11/3/26,,11/19/24 13:55,11/19/24 13:55
+16519,HouseRace,CO,Colorado,95,U.S. House,District 5,2026,primary,REP,false,REP,,,11/19/24 13:55,11/19/24 13:55
+16520,HouseRace,CO,Colorado,95,U.S. House,District 5,2026,primary,DEM,false,REP,,,11/19/24 13:55,11/19/24 13:55
+16521,HouseRace,CO,Colorado,96,U.S. House,District 6,2026,general,,false,DEM,11/3/26,,11/19/24 13:55,11/19/24 13:55
+16522,HouseRace,CO,Colorado,96,U.S. House,District 6,2026,primary,REP,false,DEM,,,11/19/24 13:55,11/19/24 13:55
+16523,HouseRace,CO,Colorado,96,U.S. House,District 6,2026,primary,DEM,false,DEM,,,11/19/24 13:55,11/19/24 13:55
+16524,HouseRace,CO,Colorado,97,U.S. House,District 7,2026,general,,false,DEM,11/3/26,,11/19/24 13:55,11/19/24 13:55
+16525,HouseRace,CO,Colorado,97,U.S. House,District 7,2026,primary,REP,false,DEM,,,11/19/24 13:55,11/19/24 13:55
+16526,HouseRace,CO,Colorado,97,U.S. House,District 7,2026,primary,DEM,false,DEM,,,11/19/24 13:55,11/19/24 13:55
+16527,HouseRace,CO,Colorado,631,U.S. House,District 8,2026,general,,false,REP,11/3/26,,11/19/24 13:55,11/19/24 13:55
+16528,HouseRace,CO,Colorado,631,U.S. House,District 8,2026,primary,REP,false,REP,,,11/19/24 13:55,11/19/24 13:55
+16529,HouseRace,CO,Colorado,631,U.S. House,District 8,2026,primary,DEM,false,REP,,,11/19/24 13:55,11/19/24 13:55
+16530,HouseRace,CT,Connecticut,101,U.S. House,District 1,2026,general,,false,DEM,11/3/26,,11/19/24 13:58,11/19/24 13:58
+16531,HouseRace,CT,Connecticut,101,U.S. House,District 1,2026,primary,REP,false,DEM,,,11/19/24 13:58,11/19/24 13:58
+16532,HouseRace,CT,Connecticut,101,U.S. House,District 1,2026,primary,DEM,false,DEM,,,11/19/24 13:58,11/19/24 13:58
+16533,HouseRace,CT,Connecticut,102,U.S. House,District 2,2026,general,,false,DEM,11/3/26,,11/19/24 13:58,11/19/24 13:58
+16534,HouseRace,CT,Connecticut,102,U.S. House,District 2,2026,primary,REP,false,DEM,,,11/19/24 13:58,11/19/24 13:58
+16535,HouseRace,CT,Connecticut,102,U.S. House,District 2,2026,primary,DEM,false,DEM,,,11/19/24 13:58,11/19/24 13:58
+16536,HouseRace,CT,Connecticut,103,U.S. House,District 3,2026,general,,false,DEM,11/3/26,,11/19/24 13:58,11/19/24 13:58
+16537,HouseRace,CT,Connecticut,103,U.S. House,District 3,2026,primary,REP,false,DEM,,,11/19/24 13:58,11/19/24 13:58
+16538,HouseRace,CT,Connecticut,103,U.S. House,District 3,2026,primary,DEM,false,DEM,,,11/19/24 13:58,11/19/24 13:58
+16539,HouseRace,CT,Connecticut,104,U.S. House,District 4,2026,general,,false,DEM,11/3/26,,11/19/24 13:58,11/19/24 13:58
+16540,HouseRace,CT,Connecticut,104,U.S. House,District 4,2026,primary,REP,false,DEM,,,11/19/24 13:58,11/19/24 13:58
+16541,HouseRace,CT,Connecticut,104,U.S. House,District 4,2026,primary,DEM,false,DEM,,,11/19/24 13:58,11/19/24 13:58
+16542,HouseRace,CT,Connecticut,105,U.S. House,District 5,2026,general,,false,DEM,11/3/26,,11/19/24 13:58,11/19/24 13:58
+16543,HouseRace,CT,Connecticut,105,U.S. House,District 5,2026,primary,REP,false,DEM,,,11/19/24 13:58,11/19/24 13:58
+16544,HouseRace,CT,Connecticut,105,U.S. House,District 5,2026,primary,DEM,false,DEM,,,11/19/24 13:58,11/19/24 13:58
+16545,HouseRace,DE,Delaware,109,U.S. House,District 1,2026,general,,false,DEM,11/3/26,,11/19/24 13:59,11/19/24 13:59
+16546,HouseRace,DE,Delaware,109,U.S. House,District 1,2026,primary,REP,false,DEM,,,11/19/24 13:59,11/19/24 13:59
+16547,HouseRace,DE,Delaware,109,U.S. House,District 1,2026,primary,DEM,false,DEM,,,11/19/24 13:59,11/19/24 13:59
+16548,HouseRace,FL,Florida,113,U.S. House,District 1,2026,general,,false,REP,11/3/26,,11/19/24 13:59,11/19/24 13:59
+16549,HouseRace,FL,Florida,113,U.S. House,District 1,2026,primary,REP,false,REP,,,11/19/24 13:59,11/19/24 13:59
+16550,HouseRace,FL,Florida,113,U.S. House,District 1,2026,primary,DEM,false,REP,,,11/19/24 13:59,11/19/24 13:59
+16551,HouseRace,FL,Florida,114,U.S. House,District 2,2026,general,,false,REP,11/3/26,,11/19/24 13:59,11/19/24 13:59
+16552,HouseRace,FL,Florida,114,U.S. House,District 2,2026,primary,REP,false,REP,,,11/19/24 13:59,11/19/24 13:59
+16553,HouseRace,FL,Florida,114,U.S. House,District 2,2026,primary,DEM,false,REP,,,11/19/24 13:59,11/19/24 13:59
+16554,HouseRace,FL,Florida,115,U.S. House,District 3,2026,general,,false,REP,11/3/26,,11/19/24 13:59,11/19/24 13:59
+16555,HouseRace,FL,Florida,115,U.S. House,District 3,2026,primary,REP,false,REP,,,11/19/24 13:59,11/19/24 13:59
+16556,HouseRace,FL,Florida,115,U.S. House,District 3,2026,primary,DEM,false,REP,,,11/19/24 13:59,11/19/24 13:59
+16557,HouseRace,FL,Florida,116,U.S. House,District 4,2026,general,,false,REP,11/3/26,,11/19/24 13:59,11/19/24 13:59
+16558,HouseRace,FL,Florida,116,U.S. House,District 4,2026,primary,REP,false,REP,,,11/19/24 13:59,11/19/24 13:59
+16559,HouseRace,FL,Florida,116,U.S. House,District 4,2026,primary,DEM,false,REP,,,11/19/24 13:59,11/19/24 13:59
+16560,HouseRace,FL,Florida,117,U.S. House,District 5,2026,general,,false,REP,11/3/26,,11/19/24 13:59,11/19/24 13:59
+16561,HouseRace,FL,Florida,117,U.S. House,District 5,2026,primary,REP,false,REP,,,11/19/24 13:59,11/19/24 13:59
+16562,HouseRace,FL,Florida,117,U.S. House,District 5,2026,primary,DEM,false,REP,,,11/19/24 13:59,11/19/24 13:59
+16563,HouseRace,FL,Florida,118,U.S. House,District 6,2026,general,,false,REP,11/3/26,,11/19/24 13:59,11/19/24 13:59
+16564,HouseRace,FL,Florida,118,U.S. House,District 6,2026,primary,REP,false,REP,,,11/19/24 13:59,11/19/24 13:59
+16565,HouseRace,FL,Florida,118,U.S. House,District 6,2026,primary,DEM,false,REP,,,11/19/24 13:59,11/19/24 13:59
+16566,HouseRace,FL,Florida,119,U.S. House,District 7,2026,general,,false,REP,11/3/26,,11/19/24 13:59,11/19/24 13:59
+16567,HouseRace,FL,Florida,119,U.S. House,District 7,2026,primary,REP,false,REP,,,11/19/24 13:59,11/19/24 13:59
+16568,HouseRace,FL,Florida,119,U.S. House,District 7,2026,primary,DEM,false,REP,,,11/19/24 13:59,11/19/24 13:59
+16569,HouseRace,FL,Florida,120,U.S. House,District 8,2026,general,,false,REP,11/3/26,,11/19/24 13:59,11/19/24 13:59
+16570,HouseRace,FL,Florida,120,U.S. House,District 8,2026,primary,REP,false,REP,,,11/19/24 13:59,11/19/24 13:59
+16571,HouseRace,FL,Florida,120,U.S. House,District 8,2026,primary,DEM,false,REP,,,11/19/24 13:59,11/19/24 13:59
+16572,HouseRace,FL,Florida,121,U.S. House,District 9,2026,general,,false,DEM,11/3/26,,11/19/24 13:59,11/19/24 13:59
+16573,HouseRace,FL,Florida,121,U.S. House,District 9,2026,primary,REP,false,DEM,,,11/19/24 13:59,11/19/24 13:59
+16574,HouseRace,FL,Florida,121,U.S. House,District 9,2026,primary,DEM,false,DEM,,,11/19/24 13:59,11/19/24 13:59
+16575,HouseRace,FL,Florida,122,U.S. House,District 10,2026,general,,false,DEM,11/3/26,,11/19/24 13:59,11/19/24 13:59
+16576,HouseRace,FL,Florida,122,U.S. House,District 10,2026,primary,REP,false,DEM,,,11/19/24 13:59,11/19/24 13:59
+16577,HouseRace,FL,Florida,122,U.S. House,District 10,2026,primary,DEM,false,DEM,,,11/19/24 13:59,11/19/24 13:59
+16578,HouseRace,FL,Florida,123,U.S. House,District 11,2026,general,,false,REP,11/3/26,,11/19/24 13:59,11/19/24 13:59
+16579,HouseRace,FL,Florida,123,U.S. House,District 11,2026,primary,REP,false,REP,,,11/19/24 13:59,11/19/24 13:59
+16580,HouseRace,FL,Florida,123,U.S. House,District 11,2026,primary,DEM,false,REP,,,11/19/24 14:00,11/19/24 14:00
+16581,HouseRace,FL,Florida,124,U.S. House,District 12,2026,general,,false,REP,11/3/26,,11/19/24 14:00,11/19/24 14:00
+16582,HouseRace,FL,Florida,124,U.S. House,District 12,2026,primary,REP,false,REP,,,11/19/24 14:00,11/19/24 14:00
+16583,HouseRace,FL,Florida,124,U.S. House,District 12,2026,primary,DEM,false,REP,,,11/19/24 14:00,11/19/24 14:00
+16584,HouseRace,FL,Florida,125,U.S. House,District 13,2026,general,,false,REP,11/3/26,,11/19/24 14:00,11/19/24 14:00
+16585,HouseRace,FL,Florida,125,U.S. House,District 13,2026,primary,REP,false,REP,,,11/19/24 14:00,11/19/24 14:00
+16586,HouseRace,FL,Florida,125,U.S. House,District 13,2026,primary,DEM,false,REP,,,11/19/24 14:00,11/19/24 14:00
+16587,HouseRace,FL,Florida,126,U.S. House,District 14,2026,general,,false,DEM,11/3/26,,11/19/24 14:00,11/19/24 14:00
+16588,HouseRace,FL,Florida,126,U.S. House,District 14,2026,primary,REP,false,DEM,,,11/19/24 14:00,11/19/24 14:00
+16589,HouseRace,FL,Florida,126,U.S. House,District 14,2026,primary,DEM,false,DEM,,,11/19/24 14:00,11/19/24 14:00
+16590,HouseRace,FL,Florida,127,U.S. House,District 15,2026,general,,false,REP,11/3/26,,11/19/24 14:00,11/19/24 14:00
+16591,HouseRace,FL,Florida,127,U.S. House,District 15,2026,primary,REP,false,REP,,,11/19/24 14:00,11/19/24 14:00
+16592,HouseRace,FL,Florida,127,U.S. House,District 15,2026,primary,DEM,false,REP,,,11/19/24 14:00,11/19/24 14:00
+16593,HouseRace,FL,Florida,128,U.S. House,District 16,2026,general,,false,REP,11/3/26,,11/19/24 14:00,11/19/24 14:00
+16594,HouseRace,FL,Florida,128,U.S. House,District 16,2026,primary,REP,false,REP,,,11/19/24 14:00,11/19/24 14:00
+16595,HouseRace,FL,Florida,128,U.S. House,District 16,2026,primary,DEM,false,REP,,,11/19/24 14:00,11/19/24 14:00
+16596,HouseRace,FL,Florida,129,U.S. House,District 17,2026,general,,false,REP,11/3/26,,11/19/24 14:00,11/19/24 14:00
+16597,HouseRace,FL,Florida,129,U.S. House,District 17,2026,primary,REP,false,REP,,,11/19/24 14:00,11/19/24 14:00
+16598,HouseRace,FL,Florida,129,U.S. House,District 17,2026,primary,DEM,false,REP,,,11/19/24 14:00,11/19/24 14:00
+16603,HouseRace,FL,Florida,131,U.S. House,District 19,2026,primary,REP,false,REP,,,11/19/24 14:00,11/19/24 14:00
+16604,HouseRace,FL,Florida,131,U.S. House,District 19,2026,primary,DEM,false,REP,,,11/19/24 14:00,11/19/24 14:00
+16605,HouseRace,FL,Florida,132,U.S. House,District 20,2026,general,,false,DEM,11/3/26,,11/19/24 14:00,11/19/24 14:00
+16606,HouseRace,FL,Florida,132,U.S. House,District 20,2026,primary,REP,false,DEM,,,11/19/24 14:00,11/19/24 14:00
+16607,HouseRace,FL,Florida,132,U.S. House,District 20,2026,primary,DEM,false,DEM,,,11/19/24 14:00,11/19/24 14:00
+16608,HouseRace,FL,Florida,133,U.S. House,District 21,2026,general,,false,REP,11/3/26,,11/19/24 14:01,11/19/24 14:01
+16609,HouseRace,FL,Florida,133,U.S. House,District 21,2026,primary,REP,false,REP,,,11/19/24 14:01,11/19/24 14:01
+16610,HouseRace,FL,Florida,133,U.S. House,District 21,2026,primary,DEM,false,REP,,,11/19/24 14:01,11/19/24 14:01
+16611,HouseRace,FL,Florida,134,U.S. House,District 22,2026,general,,false,DEM,11/3/26,,11/19/24 14:01,11/19/24 14:01
+16612,HouseRace,FL,Florida,134,U.S. House,District 22,2026,primary,REP,false,DEM,,,11/19/24 14:01,11/19/24 14:01
+16613,HouseRace,FL,Florida,134,U.S. House,District 22,2026,primary,DEM,false,DEM,,,11/19/24 14:01,11/19/24 14:01
+16614,HouseRace,FL,Florida,135,U.S. House,District 23,2026,general,,false,DEM,11/3/26,,11/19/24 14:01,11/19/24 14:01
+16615,HouseRace,FL,Florida,135,U.S. House,District 23,2026,primary,REP,false,DEM,,,11/19/24 14:01,11/19/24 14:01
+16616,HouseRace,FL,Florida,135,U.S. House,District 23,2026,primary,DEM,false,DEM,,,11/19/24 14:01,11/19/24 14:01
+16617,HouseRace,FL,Florida,136,U.S. House,District 24,2026,general,,false,DEM,11/3/26,,11/19/24 14:01,11/19/24 14:01
+16618,HouseRace,FL,Florida,136,U.S. House,District 24,2026,primary,REP,false,DEM,,,11/19/24 14:01,11/19/24 14:01
+16619,HouseRace,FL,Florida,136,U.S. House,District 24,2026,primary,DEM,false,DEM,,,11/19/24 14:01,11/19/24 14:01
+16620,HouseRace,FL,Florida,137,U.S. House,District 25,2026,general,,false,DEM,11/3/26,,11/19/24 14:01,11/19/24 14:01
+16621,HouseRace,FL,Florida,137,U.S. House,District 25,2026,primary,REP,false,DEM,,,11/19/24 14:01,11/19/24 14:01
+16622,HouseRace,FL,Florida,137,U.S. House,District 25,2026,primary,DEM,false,DEM,,,11/19/24 14:01,11/19/24 14:01
+16623,HouseRace,FL,Florida,592,U.S. House,District 26,2026,general,,false,REP,11/3/26,,11/19/24 14:01,11/19/24 14:01
+16624,HouseRace,FL,Florida,592,U.S. House,District 26,2026,primary,REP,false,REP,,,11/19/24 14:01,11/19/24 14:01
+16625,HouseRace,FL,Florida,592,U.S. House,District 26,2026,primary,DEM,false,REP,,,11/19/24 14:01,11/19/24 14:01
+16627,HouseRace,FL,Florida,593,U.S. House,District 27,2026,general,,false,REP,11/3/26,,11/19/24 14:02,11/19/24 14:02
+16628,HouseRace,FL,Florida,593,U.S. House,District 27,2026,primary,REP,false,REP,,,11/19/24 14:02,11/19/24 14:02
+16629,HouseRace,FL,Florida,593,U.S. House,District 27,2026,primary,DEM,false,REP,,,11/19/24 14:02,11/19/24 14:02
+16630,HouseRace,FL,Florida,628,U.S. House,District 28,2026,general,,false,REP,11/3/26,,11/19/24 14:02,11/19/24 14:02
+16631,HouseRace,FL,Florida,628,U.S. House,District 28,2026,primary,REP,false,REP,,,11/19/24 14:02,11/19/24 14:02
+16632,HouseRace,FL,Florida,628,U.S. House,District 28,2026,primary,DEM,false,REP,,,11/19/24 14:02,11/19/24 14:02
+16633,HouseRace,GA,Georgia,141,U.S. House,District 1,2026,general,,false,REP,11/3/26,,11/19/24 14:03,11/19/24 14:03
+16634,HouseRace,GA,Georgia,141,U.S. House,District 1,2026,primary,REP,false,REP,,,11/19/24 14:03,11/19/24 14:03
+16635,HouseRace,GA,Georgia,141,U.S. House,District 1,2026,primary,DEM,false,REP,,,11/19/24 14:03,11/19/24 14:03
+16636,HouseRace,GA,Georgia,142,U.S. House,District 2,2026,general,,false,DEM,11/3/26,,11/19/24 14:03,11/19/24 14:03
+16637,HouseRace,GA,Georgia,142,U.S. House,District 2,2026,primary,REP,false,DEM,,,11/19/24 14:03,11/19/24 14:03
+16638,HouseRace,GA,Georgia,142,U.S. House,District 2,2026,primary,DEM,false,DEM,,,11/19/24 14:03,11/19/24 14:03
+16639,HouseRace,GA,Georgia,143,U.S. House,District 3,2026,general,,false,REP,11/3/26,,11/19/24 14:03,11/19/24 14:03
+16640,HouseRace,GA,Georgia,143,U.S. House,District 3,2026,primary,REP,false,REP,,,11/19/24 14:03,11/19/24 14:03
+16641,HouseRace,GA,Georgia,143,U.S. House,District 3,2026,primary,DEM,false,REP,,,11/19/24 14:03,11/19/24 14:03
+16642,HouseRace,GA,Georgia,144,U.S. House,District 4,2026,general,,false,DEM,11/3/26,,11/19/24 14:03,11/19/24 14:03
+16643,HouseRace,GA,Georgia,144,U.S. House,District 4,2026,primary,REP,false,DEM,,,11/19/24 14:03,11/19/24 14:03
+16644,HouseRace,GA,Georgia,144,U.S. House,District 4,2026,primary,DEM,false,DEM,,,11/19/24 14:03,11/19/24 14:03
+16645,HouseRace,GA,Georgia,145,U.S. House,District 5,2026,general,,false,DEM,11/3/26,,11/19/24 14:03,11/19/24 14:03
+16646,HouseRace,GA,Georgia,145,U.S. House,District 5,2026,primary,REP,false,DEM,,,11/19/24 14:03,11/19/24 14:03
+16647,HouseRace,GA,Georgia,145,U.S. House,District 5,2026,primary,DEM,false,DEM,,,11/19/24 14:03,11/19/24 14:03
+16648,HouseRace,GA,Georgia,146,U.S. House,District 6,2026,general,,false,DEM,11/3/26,,11/19/24 14:03,11/19/24 14:03
+16649,HouseRace,GA,Georgia,146,U.S. House,District 6,2026,primary,REP,false,DEM,,,11/19/24 14:04,11/19/24 14:04
+16650,HouseRace,GA,Georgia,146,U.S. House,District 6,2026,primary,DEM,false,DEM,,,11/19/24 14:04,11/19/24 14:04
+16651,HouseRace,GA,Georgia,147,U.S. House,District 7,2026,general,,false,REP,11/3/26,,11/19/24 14:04,11/19/24 14:04
+16652,HouseRace,GA,Georgia,147,U.S. House,District 7,2026,primary,REP,false,REP,,,11/19/24 14:04,11/19/24 14:04
+16653,HouseRace,GA,Georgia,147,U.S. House,District 7,2026,primary,DEM,false,REP,,,11/19/24 14:04,11/19/24 14:04
+16654,HouseRace,GA,Georgia,148,U.S. House,District 8,2026,general,,false,REP,11/3/26,,11/19/24 14:04,11/19/24 14:04
+16655,HouseRace,GA,Georgia,148,U.S. House,District 8,2026,primary,REP,false,REP,,,11/19/24 14:04,11/19/24 14:04
+16656,HouseRace,GA,Georgia,148,U.S. House,District 8,2026,primary,DEM,false,REP,,,11/19/24 14:04,11/19/24 14:04
+16657,HouseRace,GA,Georgia,149,U.S. House,District 9,2026,general,,false,REP,11/3/26,,11/19/24 14:04,11/19/24 14:04
+16658,HouseRace,GA,Georgia,149,U.S. House,District 9,2026,primary,REP,false,REP,,,11/19/24 14:04,11/19/24 14:04
+16659,HouseRace,GA,Georgia,149,U.S. House,District 9,2026,primary,DEM,false,REP,,,11/19/24 14:04,11/19/24 14:04
+16660,HouseRace,GA,Georgia,150,U.S. House,District 10,2026,general,,false,REP,11/3/26,,11/19/24 14:04,11/19/24 14:04
+16661,HouseRace,GA,Georgia,150,U.S. House,District 10,2026,primary,REP,false,REP,,,11/19/24 14:04,11/19/24 14:04
+16662,HouseRace,GA,Georgia,150,U.S. House,District 10,2026,primary,DEM,false,REP,,,11/19/24 14:04,11/19/24 14:04
+16663,HouseRace,GA,Georgia,151,U.S. House,District 11,2026,general,,false,REP,11/3/26,,11/19/24 14:04,11/19/24 14:04
+16664,HouseRace,GA,Georgia,151,U.S. House,District 11,2026,primary,REP,false,REP,,,11/19/24 14:04,11/19/24 14:04
+16665,HouseRace,GA,Georgia,151,U.S. House,District 11,2026,primary,DEM,false,REP,,,11/19/24 14:04,11/19/24 14:04
+16666,HouseRace,GA,Georgia,152,U.S. House,District 12,2026,general,,false,REP,11/3/26,,11/19/24 14:04,11/19/24 14:04
+16667,HouseRace,GA,Georgia,152,U.S. House,District 12,2026,primary,REP,false,REP,,,11/19/24 14:05,11/19/24 14:05
+16668,HouseRace,GA,Georgia,152,U.S. House,District 12,2026,primary,DEM,false,REP,,,11/19/24 14:05,11/19/24 14:05
+16669,HouseRace,GA,Georgia,153,U.S. House,District 13,2026,general,,false,DEM,11/3/26,,11/19/24 14:05,11/19/24 14:05
+16670,HouseRace,GA,Georgia,153,U.S. House,District 13,2026,primary,REP,false,DEM,,,11/19/24 14:05,11/19/24 14:05
+16671,HouseRace,GA,Georgia,153,U.S. House,District 13,2026,primary,DEM,false,DEM,,,11/19/24 14:05,11/19/24 14:05
+16672,HouseRace,GA,Georgia,594,U.S. House,District 14,2026,general,,false,REP,11/3/26,,11/19/24 14:05,11/19/24 14:05
+16673,HouseRace,GA,Georgia,594,U.S. House,District 14,2026,primary,REP,false,REP,,,11/19/24 14:05,11/19/24 14:05
+16674,HouseRace,GA,Georgia,594,U.S. House,District 14,2026,primary,DEM,false,REP,,,11/19/24 14:05,11/19/24 14:05
+16675,HouseRace,HI,Hawaii,157,U.S. House,District 1,2026,general,,false,DEM,11/3/26,,11/19/24 14:05,11/19/24 14:05
+16676,HouseRace,HI,Hawaii,157,U.S. House,District 1,2026,primary,REP,false,DEM,,,11/19/24 14:05,11/19/24 14:05
+16677,HouseRace,HI,Hawaii,157,U.S. House,District 1,2026,primary,DEM,false,DEM,,,11/19/24 14:05,11/19/24 14:05
+16678,HouseRace,HI,Hawaii,158,U.S. House,District 2,2026,general,,false,DEM,11/3/26,,11/19/24 14:05,11/19/24 14:05
+16679,HouseRace,HI,Hawaii,158,U.S. House,District 2,2026,primary,REP,false,DEM,,,11/19/24 14:05,11/19/24 14:05
+16680,HouseRace,HI,Hawaii,158,U.S. House,District 2,2026,primary,DEM,false,DEM,,,11/19/24 14:05,11/19/24 14:05
+16681,HouseRace,ID,Idaho,170,U.S. House,District 1,2026,general,,false,REP,11/3/26,,11/19/24 14:05,11/19/24 14:05
+16682,HouseRace,ID,Idaho,170,U.S. House,District 1,2026,primary,REP,false,REP,,,11/19/24 14:05,11/19/24 14:05
+16683,HouseRace,ID,Idaho,170,U.S. House,District 1,2026,primary,DEM,false,REP,,,11/19/24 14:06,11/19/24 14:06
+16684,HouseRace,ID,Idaho,171,U.S. House,District 2,2026,general,,false,REP,11/3/26,,11/19/24 14:06,11/19/24 14:06
+16685,HouseRace,ID,Idaho,171,U.S. House,District 2,2026,primary,REP,false,REP,,,11/19/24 14:06,11/19/24 14:06
+16686,HouseRace,ID,Idaho,171,U.S. House,District 2,2026,primary,DEM,false,REP,,,11/19/24 14:06,11/19/24 14:06
+16097,SenateRace,LA,Louisiana,232,U.S. Senate,Class II,2026,general,,false,REP,11/3/26,,11/4/24 13:56,11/26/24 10:55
+16130,SenateRace,LA,Louisiana,232,U.S. Senate,Class II,2026,primary,DEM,false,REP,,,11/4/24 13:58,11/26/24 10:55
+16687,HouseRace,LA,Louisiana,225,U.S. House,District 1,2026,general,,false,REP,11/3/26,,11/26/24 10:56,11/26/24 10:56
+16688,HouseRace,LA,Louisiana,226,U.S. House,District 2,2026,general,,false,DEM,11/3/26,,11/26/24 10:56,11/26/24 10:56
+16689,HouseRace,LA,Louisiana,227,U.S. House,District 3,2026,general,,false,REP,11/3/26,,11/26/24 10:56,11/26/24 10:56
+16690,HouseRace,LA,Louisiana,228,U.S. House,District 4,2026,general,,false,REP,11/3/26,,11/26/24 10:56,11/26/24 10:56
+16691,HouseRace,LA,Louisiana,229,U.S. House,District 5,2026,general,,false,REP,11/3/26,,11/26/24 10:56,11/26/24 10:56
+16692,HouseRace,LA,Louisiana,230,U.S. House,District 6,2026,general,,false,DEM,11/3/26,,11/26/24 10:56,11/26/24 10:56
+16693,HouseRace,LA,Louisiana,225,U.S. House,District 1,2026,primary,REP,false,REP,,,11/26/24 10:56,11/26/24 10:56
+16694,HouseRace,LA,Louisiana,226,U.S. House,District 2,2026,primary,REP,false,DEM,,,11/26/24 10:56,11/26/24 10:56
+16695,HouseRace,LA,Louisiana,227,U.S. House,District 3,2026,primary,REP,false,REP,,,11/26/24 10:56,11/26/24 10:56
+16696,HouseRace,LA,Louisiana,228,U.S. House,District 4,2026,primary,REP,false,REP,,,11/26/24 10:56,11/26/24 10:56
+16697,HouseRace,LA,Louisiana,229,U.S. House,District 5,2026,primary,REP,false,REP,,,11/26/24 10:56,11/26/24 10:56
+16698,HouseRace,LA,Louisiana,230,U.S. House,District 6,2026,primary,REP,false,DEM,,,11/26/24 10:56,11/26/24 10:56
+16699,HouseRace,LA,Louisiana,225,U.S. House,District 1,2026,primary,DEM,false,REP,,,11/26/24 10:56,11/26/24 10:56
+16700,HouseRace,LA,Louisiana,226,U.S. House,District 2,2026,primary,DEM,false,DEM,,,11/26/24 10:56,11/26/24 10:56
+16701,HouseRace,LA,Louisiana,227,U.S. House,District 3,2026,primary,DEM,false,REP,,,11/26/24 10:56,11/26/24 10:56
+16702,HouseRace,LA,Louisiana,228,U.S. House,District 4,2026,primary,DEM,false,REP,,,11/26/24 10:56,11/26/24 10:56
+16703,HouseRace,LA,Louisiana,229,U.S. House,District 5,2026,primary,DEM,false,REP,,,11/26/24 10:56,11/26/24 10:56
+16704,HouseRace,LA,Louisiana,230,U.S. House,District 6,2026,primary,DEM,false,DEM,,,11/26/24 10:56,11/26/24 10:56
+16705,SenateRace,LA,Louisiana,232,U.S. Senate,Class II,2026,primary,REP,false,REP,,,11/26/24 10:56,11/26/24 10:56
+16706,HouseRace,CO,Colorado,94,U.S. House,District 4,2024,general,,true,"",6/25/24,REP,11/26/24 14:10,11/26/24 14:10
