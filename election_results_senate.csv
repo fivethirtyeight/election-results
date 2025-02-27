@@ -1,5 +1,5 @@
 id,race_id,state_abbrev,state,office_id,office_name,office_seat_name,cycle,stage,special,party,politician_id,candidate_id,candidate_name,ballot_party,ranked_choice_round,votes,percent,unopposed,winner,alt_result_text,source
-39641,9479,WV,West Virginia,581,U.S. Senate,Class I,2024,general,false,"",8062,28808,Jim Justice,REP,"",514079,68.75315125909937,,true,,https://sos.wv.gov/elections/Pages/HistElecResults.aspx
+38454,9504,VA,Virginia,548,U.S. Senate,Class I,2024,general,false,"","",,"","","",8505,0.19142790134249366,,"",Write-in,https://enr.elections.virginia.gov/results/public/Virginia/elections/2024NovemberGeneral
 37504,9532,VT,Vermont,552,U.S. Senate,Class I,2024,general,false,"",22897,37273,Justin Schoville,OTH,"",3339,0.9191940603381115,,false,,https://electionresults.vermont.gov/#/federal
 37503,9532,VT,Vermont,552,U.S. Senate,Class I,2024,general,false,"",22896,37272,Matt Hill,LIB,"",4530,1.2470647179789291,,false,,https://electionresults.vermont.gov/#/federal
 37502,9532,VT,Vermont,552,U.S. Senate,Class I,2024,general,false,"",22898,37274,Steve Berry,IND,"",7941,2.1860796744968383,,false,,https://electionresults.vermont.gov/#/federal
@@ -87,9 +87,8 @@ id,race_id,state_abbrev,state,office_id,office_name,office_seat_name,cycle,stage
 38413,9531,UT,Utah,534,U.S. Senate,Class I,2024,general,false,"",22670,36876,Caroline Gleich,DEM,"",464515,31.739811644479126,,false,,https://vote.utah.gov/wp-content/uploads/sites/42/2024/11/2024-General-Election-Statewide-Canvass.pdf
 38412,9531,UT,Utah,534,U.S. Senate,Class I,2024,general,false,"",9049,31391,John Curtis,REP,"",914700,62.50046976137489,,true,,https://vote.utah.gov/wp-content/uploads/sites/42/2024/11/2024-General-Election-Statewide-Canvass.pdf
 38411,9531,UT,Utah,534,U.S. Senate,Class I,2024,general,false,"",11582,37399,Carlton E. Bowen,IAP,"",83972,5.737716679569446,,false,,https://vote.utah.gov/wp-content/uploads/sites/42/2024/11/2024-General-Election-Statewide-Canvass.pdf
-38454,9504,VA,Virginia,548,U.S. Senate,Class I,2024,general,false,"","",,"","","",8509,0.19140553386712736,,"",Write-in,https://enr.elections.virginia.gov/results/public/Virginia/elections/2024NovemberGeneral
-38453,9504,VA,Virginia,548,U.S. Senate,Class I,2024,general,false,"",18584,32222,Hung Cao,REP,"",2019911,45.436848433315674,,false,,https://enr.elections.virginia.gov/results/public/Virginia/elections/2024NovemberGeneral
-38452,9504,VA,Virginia,548,U.S. Senate,Class I,2024,general,false,"",80,30777,Timothy Michael Kaine,DEM,"",2417115,54.37174603281719,,true,,https://enr.elections.virginia.gov/results/public/Virginia/elections/2024NovemberGeneral
+38452,9504,VA,Virginia,548,U.S. Senate,Class I,2024,general,false,"",80,30777,Timothy Michael Kaine,DEM,"",2415429,54.36572655047597,,true,,https://enr.elections.virginia.gov/results/public/Virginia/elections/2024NovemberGeneral
+38453,9504,VA,Virginia,548,U.S. Senate,Class I,2024,general,false,"",18584,32222,Hung Cao,REP,"",2018992,45.44284554818154,,false,,https://enr.elections.virginia.gov/results/public/Virginia/elections/2024NovemberGeneral
 38515,9533,WA,Washington,564,U.S. Senate,Class I,2024,general,false,"","",,"","","",10627,0.2787489530848226,,"",Write-in,https://results.vote.wa.gov/results/20241105/federal-all.html
 38514,9533,WA,Washington,564,U.S. Senate,Class I,2024,general,false,"",7995,31117,Raul Garcia,REP,"",1549187,40.63557489250185,,false,,https://results.vote.wa.gov/results/20241105/federal-all.html
 38513,9533,WA,Washington,564,U.S. Senate,Class I,2024,general,false,"",1066,30973,Maria Cantwell,DEM,"",2252577,59.085676154413335,,true,,https://results.vote.wa.gov/results/20241105/federal-all.html
@@ -99,6 +98,7 @@ id,race_id,state_abbrev,state,office_id,office_name,office_seat_name,cycle,stage
 38588,9534,WI,Wisconsin,575,U.S. Senate,Class I,2024,general,false,"",8131,37149,Phil Anderson,IND,"",42315,1.2479403749041151,,false,,https://elections.wi.gov/sites/default/files/documents/County%20by%20County%20Report_US%20Senate_1.pdf
 38587,9534,WI,Wisconsin,575,U.S. Senate,Class I,2024,general,false,"",1239,31201,Eric D. Hovde,REP,"",1643996,48.484201455296365,,false,,https://elections.wi.gov/sites/default/files/documents/County%20by%20County%20Report_US%20Senate_1.pdf
 38586,9534,WI,Wisconsin,575,U.S. Senate,Class I,2024,general,false,"",1067,31019,Tammy Baldwin,DEM,"",1672777,49.33300145364483,,true,,https://elections.wi.gov/sites/default/files/documents/County%20by%20County%20Report_US%20Senate_1.pdf
+38651,9505,AZ,Arizona,32,U.S. Senate,Class I,2024,general,false,"",23132,37680,Jannie Prosser,W,"",82,0.0024486280814640647,,false,,https://apps.azsos.gov/election/2024/ge/canvass/20241105_GeneralCanvass_Signed.pdf
 38650,9505,AZ,Arizona,32,U.S. Senate,Class I,2024,general,false,"",22548,36590,Eduardo Quintana,GRE,"",75868,2.265518479079459,,false,,https://apps.azsos.gov/election/2024/ge/canvass/20241105_GeneralCanvass_Signed.pdf
 38649,9505,AZ,Arizona,32,U.S. Senate,Class I,2024,general,false,"",3883,30920,Ruben Gallego,DEM,"",1676335,50.057572621232474,,true,,https://apps.azsos.gov/election/2024/ge/canvass/20241105_GeneralCanvass_Signed.pdf
 38648,9505,AZ,Arizona,32,U.S. Senate,Class I,2024,general,false,"",14238,30921,Kari Lake,REP,"",1595761,47.65152677933143,,false,,https://apps.azsos.gov/election/2024/ge/canvass/20241105_GeneralCanvass_Signed.pdf
@@ -108,7 +108,6 @@ id,race_id,state_abbrev,state,office_id,office_name,office_seat_name,cycle,stage
 38654,9505,AZ,Arizona,32,U.S. Senate,Class I,2024,general,false,"",23133,37682,David Bozic,W,"",12,0.0003583358167996192,,false,,https://apps.azsos.gov/election/2024/ge/canvass/20241105_GeneralCanvass_Signed.pdf
 38653,9505,AZ,Arizona,32,U.S. Senate,Class I,2024,general,false,"",11100,37681,Christopher Beckett,W,"",103,0.003075715760863398,,false,,https://apps.azsos.gov/election/2024/ge/canvass/20241105_GeneralCanvass_Signed.pdf
 38652,9505,AZ,Arizona,32,U.S. Senate,Class I,2024,general,false,"",19477,31815,Sarah Williams,W,"",535,0.01597580516564969,,false,,https://apps.azsos.gov/election/2024/ge/canvass/20241105_GeneralCanvass_Signed.pdf
-38651,9505,AZ,Arizona,32,U.S. Senate,Class I,2024,general,false,"",23132,37680,Jannie Prosser,W,"",82,0.0024486280814640647,,false,,https://apps.azsos.gov/election/2024/ge/canvass/20241105_GeneralCanvass_Signed.pdf
 38715,9507,CT,Connecticut,106,U.S. Senate,Class I,2024,general,false,"",23140,37691,John Flynn,W,"",7,0.0004097739277240746,,false,,https://ctemspublic.tgstg.net/#/home
 38714,9507,CT,Connecticut,106,U.S. Senate,Class I,2024,general,false,"",23050,37508,Robert Finley Hyde,OTH,"",14879,0.8710037529437865,,false,,https://ctemspublic.tgstg.net/#/home
 38713,9507,CT,Connecticut,106,U.S. Senate,Class I,2024,general,false,"",10398,37507,Justin Paglino,GRE,"",14422,0.8442513693766578,,false,,https://ctemspublic.tgstg.net/#/home
@@ -157,6 +156,7 @@ id,race_id,state_abbrev,state,office_id,office_name,office_seat_name,cycle,stage
 39644,9479,WV,West Virginia,581,U.S. Senate,Class I,2024,general,false,"",23205,37797,Joshua Standridge,W,"",2,0.00026748087846070105,,false,,https://sos.wv.gov/elections/Pages/HistElecResults.aspx
 39643,9479,WV,West Virginia,581,U.S. Senate,Class I,2024,general,false,"",8182,37190,David Moran,LIB,"",26075,3.4872819529313897,,false,,https://sos.wv.gov/elections/Pages/HistElecResults.aspx
 39642,9479,WV,West Virginia,581,U.S. Senate,Class I,2024,general,false,"",21989,35444,Glenn Elliott,DEM,"",207548,27.757560681380788,,false,,https://sos.wv.gov/elections/Pages/HistElecResults.aspx
+39641,9479,WV,West Virginia,581,U.S. Senate,Class I,2024,general,false,"",8062,28808,Jim Justice,REP,"",514079,68.75315125909937,,true,,https://sos.wv.gov/elections/Pages/HistElecResults.aspx
 37028,9508,DE,Delaware,110,U.S. Senate,Class I,2024,general,false,"",23005,37444,"Michael ""Dr. Mike"" Katz",IDE,"",19555,3.906265606085425,,false,,https://elections.delaware.gov/results/html/index.shtml?electionId=GE2024
 37027,9508,DE,Delaware,110,U.S. Senate,Class I,2024,general,false,"",22761,37086,Eric Hansen,REP,"",197753,39.502722700087496,,false,,https://elections.delaware.gov/results/html/index.shtml?electionId=GE2024
 37026,9508,DE,Delaware,110,U.S. Senate,Class I,2024,general,false,"",8348,31366,Lisa Blunt Rochester,DEM,"",283298,56.591011693827085,,true,,https://elections.delaware.gov/results/html/index.shtml?electionId=GE2024
